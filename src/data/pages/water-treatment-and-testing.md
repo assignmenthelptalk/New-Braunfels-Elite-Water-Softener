@@ -12,6 +12,7 @@ formHeading: ""
 formIntro: ""
 leadImage: null
 images: [{"file":"water-treatment-new-braunfels-tx.webp","alt":"Water treatment New Braunfels TX whole house filter and water softener setup","exists":false}]
+faq: [{"q":"Do I need a filter if I have a water softener?","a":"A softener and a filter solve different problems, so many homes use both. A softener removes calcium and magnesium, and a carbon filter reduces chlorine taste and odor. NBU reported a 2.58 ppm average total chlorine residual in 2025, so a carbon stage is the usual choice for households that notice chlorine."},{"q":"Does reverse osmosis remove hardness?","a":"Reverse osmosis removes most dissolved minerals at one tap, but it is built for drinking water, not for protecting a whole house. Hard water shortens a membrane's life, so a softener ahead of the system helps it last."},{"q":"How often does a private well need testing?","a":"EPA recommends that private well owners test for bacteria every year and test for other contaminants when a risk is present. Nobody tests a private well for you, so the owner schedules it."},{"q":"Does New Braunfels city water need UV treatment?","a":"City water from NBU is already disinfected, so UV is mainly for private wells and for homes with a bacteria result on a test. A test shows whether a household needs it. New Braunfels Elite Water Softener TX provides water treatment services for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---
 

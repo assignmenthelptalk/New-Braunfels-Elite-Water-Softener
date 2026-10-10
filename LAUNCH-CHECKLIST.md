@@ -10,7 +10,7 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - [ ] Licence number and class for whoever installs (check what TX requires before the word "licensed" appears anywhere)
 - [ ] Warranty, guarantee, same-day policy, years in business, price ranges, real reviews
 - [ ] Photos: generated images are stand-ins. Swap in real New Braunfels job photos as they come in, keeping the file names (scripts/prepare-images.mjs converts new batches)
-- [ ] Service-areas map: none (add map-points.json to the strategy folder). Confirm each pin's coordinates (neighbourhood pins are approximate unless verified)
+- [ ] Service-areas map: 0 pins. Confirm each pin's coordinates (neighbourhood pins are approximate unless verified)
 - [ ] Pages not written yet: 15 link(s) are shown as plain text until the target page exists (/water-softener-installation/, /water-softener-replacement/, /salt-free-water-softener-systems/, /dual-tank-water-softener/, /commercial-water-softener/, /water-softener-maintenance/, /water-softener-repair/, /water-conditioner-installation/, /water-quality-testing/, /water-filtration-systems/, /well-water-softener-new-braunfels-tx/, /water-contaminant-removal-new-braunfels-tx/, /reverse-osmosis-installation/, /uv-water-purification/, /drinking-water-systems/). Write the page, re-run the import and the link comes back
 - [ ] Build the images still missing (code-made diagrams, listed here): hero-water-softener-new-braunfels-tx.webp, installed-softener-new-braunfels-tx.webp, hard-water-buildup-new-braunfels-tx.webp, water-softener-process-new-braunfels-tx.webp, water-softener-systems-new-braunfels-tx.webp, water-treatment-new-braunfels-tx.webp
 - [ ] Final meta descriptions for every page marked DRAFT

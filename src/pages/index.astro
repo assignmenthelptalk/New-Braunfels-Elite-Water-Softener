@@ -16,7 +16,7 @@ import { Image } from "astro:assets";
 import Layout from "../components/Layout.astro";
 import QuoteForm from "../components/QuoteForm.astro";
 import ContentProse from "../components/ContentProse.astro";
-import LocalSchema from "../components/LocalSchema.astro";
+import PageSchema from "../components/PageSchema.astro";
 import { site } from "../lib/site";
 import { Content, frontmatter as fm } from "../data/pages/home.md";
 
@@ -29,7 +29,7 @@ const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.ci
 ---
 
 <Layout title={fm.title} fullTitle={fm.seoTitle} description={fm.description}>
-  <LocalSchema />
+  <PageSchema faq={fm.faq} />
 
   <!-- 1. HERO: full-bleed image, content left, quote form right -->
   <section class="hero-section">

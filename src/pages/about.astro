@@ -16,6 +16,7 @@ import Layout from "../components/Layout.astro";
 import PageHero from "../components/PageHero.astro";
 import HomeLink from "../components/HomeLink.astro";
 import ContentProse from "../components/ContentProse.astro";
+import PageSchema from "../components/PageSchema.astro";
 import { site } from "../lib/site";
 
 const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
@@ -130,9 +131,10 @@ const faqs = [
 
 <Layout
   title={`About ${site.businessName}`}
-  fullTitle={`About ${site.businessName} | Water Softener Installation in ${site.city}, ${site.stateAbbr}`}
+  fullTitle={`About ${site.businessName} | ${site.businessName}: Water Softener Installation and Repair`}
   description={`About ${site.businessName}: water softener installation, replacement, repair and water testing for ${site.city}, ${site.stateAbbr} and ${site.region}.`}
 >
+  <PageSchema faq={faqs.map((f) => ({ q: f.q, a: f.a.replace(/<mark[^>]*>[^<]*<\/mark>/g, "").replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim() }))} />
   <PageHero
     breadcrumbs={[{ label: "About" }]}
     heading={`About ${site.businessName} | Trusted Local Specialists`}

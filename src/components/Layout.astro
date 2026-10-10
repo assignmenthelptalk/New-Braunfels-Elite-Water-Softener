@@ -1,6 +1,7 @@
 ---
 import { SEO } from "astro-seo";
 import { Image } from "astro:assets";
+import LocalSchema from "./LocalSchema.astro";
 import { site } from "../lib/site";
 import navData from "../data/nav.json";
 import "../styles/global.css";
@@ -78,6 +79,7 @@ const footerLinks: NavLink[] = [
     <link rel="sitemap" href="/sitemap-index.xml" />
   </head>
   <body>
+    <LocalSchema />
     <!-- Utility bar — thin strip above the main nav, phone-call-first -->
     <div class="utility-bar">
       <div class="container utility-bar-inner">

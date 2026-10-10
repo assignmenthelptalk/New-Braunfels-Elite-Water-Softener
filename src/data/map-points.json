@@ -1,5 +1,9 @@
 {
-  "source": "",
-  "center": null,
+  "source": "OpenStreetMap Nominatim, looked up 2026-10-11. The centre is the OSM administrative boundary centre of New Braunfels, Comal County, Texas (relation 113600). Add a point here for each location page once it is written and its coordinates are looked up the same way; mark neighbourhood points that are only a place inside the area with approx: true.",
+  "center": {
+    "name": "New Braunfels",
+    "lat": 29.7028,
+    "lng": -98.1257
+  },
   "points": []
 }

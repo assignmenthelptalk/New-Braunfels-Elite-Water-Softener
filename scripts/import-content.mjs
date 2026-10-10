@@ -83,6 +83,27 @@ for (const g of map.geo.pages) {
 
 const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 const markers = (s) => s.replace(MARKER_RE, (m) => `<mark class="data-gap">${m}</mark>`);
+
+// FAQ extraction for FAQPage schema: the heading containing "Frequently Asked" opens the section, every deeper
+// heading is a question and the text under it is the answer. Markers, links and formatting are stripped.
+function extractFaq(md) {
+  const plain = (s) =>
+    s.replace(/\[(NEEDS DATA|VERIFY)[^\]]*\]/g, "").replace(/!?\[([^\]]*)\]\([^)]*\)/g, "$1").replace(/[*_`]/g, "").replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
+  const out = [];
+  let level = 0, q = null, a = [];
+  const flush = () => { const text = plain(a.join(" ")); if (q && text) out.push({ q, a: text }); q = null; a = []; };
+  for (const line of md.split("\n")) {
+    const h = line.match(/^(#{2,6})\s+(.*)$/);
+    if (!level) { if (h && /Frequently Asked/i.test(h[2])) level = h[1].length; continue; }
+    if (h) { flush(); if (h[1].length <= level) break; q = plain(h[2]); continue; }
+    if (/^---\s*$/.test(line)) { flush(); break; }
+    const bold = line.match(/^\*\*(.+\?)\*\*\s*$/); // a question written as a bold line
+    if (bold) { flush(); q = plain(bold[1]); continue; }
+    if (q && line.trim() && !/^<!--/.test(line)) a.push(line.trim().replace(/^[-*]\s+/, ""));
+  }
+  flush();
+  return out;
+}
 const inlineHtml = (md) =>
   markers(esc(md))
     .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_, t, u) => `<a href="${u}">${t}</a>`)
@@ -274,6 +295,7 @@ for (const file of files) {
     formIntro,
     leadImage,
     images,
+    faq: extractFaq(body),
     markerCount: allMarkers.length,
   };
   const yaml = Object.entries(fm).map(([k, v]) => `${k}: ${JSON.stringify(v)}`).join("\n");

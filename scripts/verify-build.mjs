@@ -72,6 +72,21 @@ for (const { route, html } of pages) {
   if (!title.trim()) errors.push(`${route}: missing <title>`);
   if (!/<meta name="description" content="[^"]+"/.test(html)) errors.push(`${route}: missing meta description`);
 
+  // Structured data: every JSON-LD block parses, there is exactly one business block, and nothing unconfirmed
+  // (a placeholder phone number) is published.
+  const ld = [...html.matchAll(/<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)].map((m) => m[1]);
+  const parsed = [];
+  for (const block of ld) {
+    try { parsed.push(JSON.parse(block)); } catch { errors.push(`${route}: a JSON-LD block is not valid JSON`); }
+  }
+  const business = parsed.filter((b) => b["@type"] === "HomeAndConstructionBusiness");
+  if (route !== "/404.html" && business.length !== 1) errors.push(`${route}: ${business.length} business schema blocks (expected 1)`);
+  if (business.some((b) => b.telephone && /000-0000/.test(b.telephone))) errors.push(`${route}: placeholder phone number published in schema`);
+  for (const b of parsed) {
+    if (b["@type"] === "FAQPage" && !(b.mainEntity || []).every((q) => q.name && q.acceptedAnswer?.text)) errors.push(`${route}: FAQPage has an empty question or answer`);
+    if (b["@type"] === "FAQPage" && /\[(NEEDS DATA|VERIFY)/.test(JSON.stringify(b))) errors.push(`${route}: a marker leaked into FAQPage schema`);
+  }
+
   for (const href of hrefs(html)) {
     if (/^(https?:|mailto:|tel:|#)/.test(href)) continue;
     const target = href.split("#")[0].split("?")[0];

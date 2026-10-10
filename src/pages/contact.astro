@@ -12,13 +12,13 @@ const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
 
 <Layout
   title={`Contact ${site.businessName}`}
-  fullTitle={`Contact ${site.businessName} | Free Water Softener Estimate in ${site.city}, ${site.stateAbbr}`}
+  fullTitle={`Contact ${site.businessName} | ${site.businessName}: Water Softener Installation and Repair`}
   description={`Contact ${site.businessName} for a free water softener estimate in ${site.city}, ${site.stateAbbr}. Call or send a request and we will reply within 24 hours.`}
 >
   <PageHero
     showForm={false}
     breadcrumbs={[{ label: "Contact" }]}
-    heading={`Contact ${site.businessName}`}
+    heading={`Contact ${site.businessName} | Trusted Local Specialists`}
     primaryCta={{ href: telHref, text: `📞 ${site.phoneNumber}` }}
   >
     <p slot="opening">
