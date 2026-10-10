@@ -90,6 +90,9 @@
       "parent": "/water-treatment-and-testing/"
     }
   ],
-  "guideHub": null,
+  "guideHub": {
+    "href": "/water-softener-guides/",
+    "label": "Water Softener Guides for New Braunfels Homeowners"
+  },
   "geoHub": null
 }
