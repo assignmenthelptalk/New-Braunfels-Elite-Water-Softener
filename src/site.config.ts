@@ -285,10 +285,11 @@ export const siteConfig: SiteConfig = {
   domain,
 
   // Water hardness data
-  gpgLow: 14,
-  gpgHigh: 17,
-  gpgLabel: "UNVERIFIED",
-  hardnessVerified: false, // UNCONFIRMED: set true (or delete) once the utility's own hardness is in
+  // NBU's 2018 water quality report: average 15.1 gpg, range 8.1 to 19.5 gpg. NBU's 2019 to 2025 reports do not list hardness.
+  gpgLow: 15,
+  gpgHigh: 15,
+  gpgLabel: "Very Hard",
+  hardnessVerified: false, // dated 2018 figure: set true (or delete) once NBU confirms the current average
   waterSource: "Guadalupe River surface water (the majority), Edwards Aquifer and Trinity Aquifer groundwater, and water bought from Green Valley SUD and the Guadalupe-Blanco River Authority as needed",
   waterAuthority: "New Braunfels Utilities (NBU)",
   // SEO
