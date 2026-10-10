@@ -22,35 +22,35 @@ New Braunfels water tests as very hard, and a softening system treats it where i
 
 ### Water Softener Installation
 
-Water Softener Installation in New Braunfels, TX connects a whole-house unit to your main water line, with a bypass valve, a drain line and a tested result at every tap. It is the starting point for most New Braunfels homeowners.
+[Water Softener Installation in New Braunfels, TX](/water-softener-installation/) connects a whole-house unit to your main water line, with a bypass valve, a drain line and a tested result at every tap. It is the starting point for most New Braunfels homeowners.
 
 ### Water Softener Replacement
 
-Water Softener Replacement in New Braunfels, TX removes a failing or undersized unit and installs a correctly sized new one, including resin bed and upgrade options.
+[Water Softener Replacement in New Braunfels, TX](/water-softener-replacement/) removes a failing or undersized unit and installs a correctly sized new one, including resin bed and upgrade options.
 
 ### Salt-Free Water Softener Systems
 
-Salt-Free Water Softener Systems in New Braunfels, TX condition the water so scale does not stick. They need no salt and no drain line, and they leave the minerals in the water, so they reduce scale rather than remove hardness.
+[Salt-Free Water Softener Systems in New Braunfels, TX](/salt-free-water-softener-systems/) condition the water so scale does not stick. They need no salt and no drain line, and they leave the minerals in the water, so they reduce scale rather than remove hardness.
 
 ### Dual Tank Water Softener Installation
 
-Dual Tank Water Softener Installation in New Braunfels, TX uses two tanks, so one serves the house while the other regenerates. Soft water never pauses, which suits large households and heavy water use.
+[Dual Tank Water Softener Installation in New Braunfels, TX](/dual-tank-water-softener/) uses two tanks, so one serves the house while the other regenerates. Soft water never pauses, which suits large households and heavy water use.
 
 ### Commercial Water Softener Installation
 
-Commercial Water Softener Installation in New Braunfels, TX protects restaurants, laundries, car washes, hotels and other businesses where scale damages equipment and raises operating cost.
+[Commercial Water Softener Installation in New Braunfels, TX](/commercial-water-softener/) protects restaurants, laundries, car washes, hotels and other businesses where scale damages equipment and raises operating cost.
 
 ### Water Softener Maintenance
 
-Water Softener Maintenance in New Braunfels, TX keeps a unit at full capacity with resin and brine tank checks, cleaning, salt refills and valve testing.
+[Water Softener Maintenance in New Braunfels, TX](/water-softener-maintenance/) keeps a unit at full capacity with resin and brine tank checks, cleaning, salt refills and valve testing.
 
 ### Water Softener Repair
 
-Water Softener Repair in New Braunfels, TX restores softeners that stop regenerating, leave hard water, use too much salt or leak at the control head.
+[Water Softener Repair in New Braunfels, TX](/water-softener-repair/) restores softeners that stop regenerating, leave hard water, use too much salt or leak at the control head.
 
 ### Water Conditioner Installation
 
-Water Conditioner Installation in New Braunfels, TX adds a scale-control system to the main line for homes that want protection without salt or a drain.
+[Water Conditioner Installation in New Braunfels, TX](/water-conditioner-installation/) adds a scale-control system to the main line for homes that want protection without salt or a drain.
 
 ### How to Choose a Water Softener System
 

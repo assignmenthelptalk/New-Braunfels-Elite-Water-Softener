@@ -11,21 +11,91 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - [ ] Warranty, guarantee, same-day policy, years in business, price ranges, real reviews
 - [ ] Photos: generated images are stand-ins. Swap in real New Braunfels job photos as they come in, keeping the file names (scripts/prepare-images.mjs converts new batches)
 - [ ] Service-areas map: 0 pins. Confirm each pin's coordinates (neighbourhood pins are approximate unless verified)
-- [ ] Pages not written yet: 15 link(s) are shown as plain text until the target page exists (/water-softener-installation/, /water-softener-replacement/, /salt-free-water-softener-systems/, /dual-tank-water-softener/, /commercial-water-softener/, /water-softener-maintenance/, /water-softener-repair/, /water-conditioner-installation/, /water-quality-testing/, /water-filtration-systems/, /well-water-softener-new-braunfels-tx/, /water-contaminant-removal-new-braunfels-tx/, /reverse-osmosis-installation/, /uv-water-purification/, /drinking-water-systems/). Write the page, re-run the import and the link comes back
-- [ ] Build the images still missing (code-made diagrams, listed here): hero-water-softener-new-braunfels-tx.webp, installed-softener-new-braunfels-tx.webp, hard-water-buildup-new-braunfels-tx.webp, water-softener-process-new-braunfels-tx.webp, water-softener-systems-new-braunfels-tx.webp, water-treatment-new-braunfels-tx.webp
+- [ ] Pages not written yet: 0 link(s) are shown as plain text until the target page exists (none). Write the page, re-run the import and the link comes back
+- [ ] Build the images still missing (code-made diagrams, listed here): commercial-water-softener-new-braunfels-tx.webp, drinking-water-systems-new-braunfels-tx.webp, dual-tank-water-softener-new-braunfels-tx.webp, hero-water-softener-new-braunfels-tx.webp, installed-softener-new-braunfels-tx.webp, hard-water-buildup-new-braunfels-tx.webp, water-softener-process-new-braunfels-tx.webp, reverse-osmosis-installation-new-braunfels-tx.webp, salt-free-water-softener-new-braunfels-tx.webp, uv-water-purification-new-braunfels-tx.webp, water-conditioner-installation-new-braunfels-tx.webp, water-contaminant-removal-new-braunfels-tx.webp, water-filtration-systems-new-braunfels-tx.webp, water-quality-testing-new-braunfels-tx.webp, water-softener-installation-new-braunfels-tx.webp, water-softener-maintenance-new-braunfels-tx.webp, water-softener-repair-new-braunfels-tx.webp, water-softener-replacement-new-braunfels-tx.webp, water-softener-systems-new-braunfels-tx.webp, water-treatment-new-braunfels-tx.webp, well-water-softener-new-braunfels-tx.webp
 - [ ] Final meta descriptions for every page marked DRAFT
 - [ ] Write or decide the remaining location pages (see the strategy folder's reports/)
 
 ## Totals
-- Pages built: 3
+- Pages built: 18
 - Open markers: 2
-- Draft meta descriptions: 0
+- Draft meta descriptions: 15
 
 ## Per page
 ### /
 - Meta description: final
 - Open markers: 1
   - [VERIFY: NBU's current average hardness; its 2019 to 2025 reports do not list hardness]
+
+### /commercial-water-softener/
+- Meta description: DRAFT, needs final wording
+- Open markers: 0
+  - (none)
+
+### /drinking-water-systems/
+- Meta description: DRAFT, needs final wording
+- Open markers: 0
+  - (none)
+
+### /dual-tank-water-softener/
+- Meta description: DRAFT, needs final wording
+- Open markers: 0
+  - (none)
+
+### /reverse-osmosis-installation/
+- Meta description: DRAFT, needs final wording
+- Open markers: 0
+  - (none)
+
+### /salt-free-water-softener-systems/
+- Meta description: DRAFT, needs final wording
+- Open markers: 0
+  - (none)
+
+### /uv-water-purification/
+- Meta description: DRAFT, needs final wording
+- Open markers: 0
+  - (none)
+
+### /water-conditioner-installation/
+- Meta description: DRAFT, needs final wording
+- Open markers: 0
+  - (none)
+
+### /water-contaminant-removal-new-braunfels-tx/
+- Meta description: DRAFT, needs final wording
+- Open markers: 0
+  - (none)
+
+### /water-filtration-systems/
+- Meta description: DRAFT, needs final wording
+- Open markers: 0
+  - (none)
+
+### /water-quality-testing/
+- Meta description: DRAFT, needs final wording
+- Open markers: 0
+  - (none)
+
+### /water-softener-installation/
+- Meta description: DRAFT, needs final wording
+- Open markers: 0
+  - (none)
+
+### /water-softener-maintenance/
+- Meta description: DRAFT, needs final wording
+- Open markers: 0
+  - (none)
+
+### /water-softener-repair/
+- Meta description: DRAFT, needs final wording
+- Open markers: 0
+  - (none)
+
+### /water-softener-replacement/
+- Meta description: DRAFT, needs final wording
+- Open markers: 0
+  - (none)
 
 ### /water-softener-systems/
 - Meta description: final
@@ -34,5 +104,10 @@ Do not publish while any item below is open. Markers show on the site as highlig
 
 ### /water-treatment-and-testing/
 - Meta description: final
+- Open markers: 0
+  - (none)
+
+### /well-water-softener-new-braunfels-tx/
+- Meta description: DRAFT, needs final wording
 - Open markers: 0
   - (none)

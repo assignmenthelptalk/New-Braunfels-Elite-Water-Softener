@@ -22,31 +22,31 @@ A water test tells you which problem you have before you pay to solve it. NBU's 
 
 ### Water Quality Testing
 
-Water Quality Testing in New Braunfels, TX measures hardness, iron, pH, total dissolved solids and chlorine at your tap, and sends samples to a lab for bacteria and metals. It is the first step of every recommendation.
+[Water Quality Testing in New Braunfels, TX](/water-quality-testing/) measures hardness, iron, pH, total dissolved solids and chlorine at your tap, and sends samples to a lab for bacteria and metals. It is the first step of every recommendation.
 
 ### Water Filtration System Installation
 
-Water Filtration System Installation in New Braunfels, TX treats water where it enters the home, with sediment and carbon stages that reduce particles, chlorine taste and odor at every tap.
+[Water Filtration System Installation in New Braunfels, TX](/water-filtration-systems/) treats water where it enters the home, with sediment and carbon stages that reduce particles, chlorine taste and odor at every tap.
 
 ### Well Water Softener and Treatment
 
-Well Water Softener and Treatment in New Braunfels, TX handles private wells, which draw directly from an aquifer and can carry hardness, iron, sulfur or bacteria that city water does not.
+[Well Water Softener and Treatment in New Braunfels, TX](/well-water-softener-new-braunfels-tx/) handles private wells, which draw directly from an aquifer and can carry hardness, iron, sulfur or bacteria that city water does not.
 
 ### Water Contaminant Removal
 
-Water Contaminant Removal in New Braunfels, TX targets a specific result from a test, such as lead, nitrate, arsenic or chlorine byproducts, with the filter type that removes it.
+[Water Contaminant Removal in New Braunfels, TX](/water-contaminant-removal-new-braunfels-tx/) targets a specific result from a test, such as lead, nitrate, arsenic or chlorine byproducts, with the filter type that removes it.
 
 ### Reverse Osmosis System Installation
 
-Reverse Osmosis System Installation in New Braunfels, TX puts a membrane filter under the kitchen sink for drinking and cooking water, removing most dissolved minerals and many contaminants at one tap.
+[Reverse Osmosis System Installation in New Braunfels, TX](/reverse-osmosis-installation/) puts a membrane filter under the kitchen sink for drinking and cooking water, removing most dissolved minerals and many contaminants at one tap.
 
 ### UV Water Purification System Installation
 
-UV Water Purification System Installation in New Braunfels, TX uses ultraviolet light to inactivate bacteria and viruses without chemicals, which suits private wells and homes with a bacteria result.
+[UV Water Purification System Installation in New Braunfels, TX](/uv-water-purification/) uses ultraviolet light to inactivate bacteria and viruses without chemicals, which suits private wells and homes with a bacteria result.
 
 ### Drinking Water System Installation
 
-Drinking Water System Installation in New Braunfels, TX covers under-sink filters, reverse osmosis and remineralizing stages for the tap you drink from.
+[Drinking Water System Installation in New Braunfels, TX](/drinking-water-systems/) covers under-sink filters, reverse osmosis and remineralizing stages for the tap you drink from.
 
 ### How to Choose a Water Treatment Service
 
