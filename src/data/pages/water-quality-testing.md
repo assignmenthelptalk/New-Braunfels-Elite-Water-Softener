@@ -7,7 +7,7 @@ slug: "/water-quality-testing/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"
 crumb: "Water Quality Testing"
-openingHtml: "Water quality testing in New Braunfels, TX measures the hardness, minerals, disinfectants and contaminants in your tap water so you know what, if anything, needs treatment. <a href=\"/\">New Braunfels Elite Water Softener</a> tests city and well water and explains each result in plain language. Request a free test and we will contact you within 24 hours."
+openingHtml: "Water quality testing in New Braunfels, TX measures the hardness, minerals, disinfectants and contaminants in your tap water so you know what, if anything, needs treatment. <a href=\"/\">New Braunfels Elite Water Softener</a> tests city and well water and explains each result in plain language. Request a free test and we will contact you to confirm a time."
 formHeading: ""
 formIntro: ""
 leadImage: null
@@ -80,4 +80,4 @@ A certified lab panel for bacteria, nitrate, metals and other regulated substanc
 
 ## Get Your Free Estimate
 
-Request a free water quality test. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to New Braunfels Elite Water Softener for every service we offer.
+Request a free water quality test. We will contact you to confirm a time. [Get a Free Estimate](#estimate) or return to New Braunfels Elite Water Softener for every service we offer.

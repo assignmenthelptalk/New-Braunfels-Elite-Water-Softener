@@ -72,4 +72,4 @@ Iron content and flow rate decide the system, so your test results set the price
 
 ## Get Your Free Estimate
 
-Request a free well water treatment estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to New Braunfels Elite Water Softener for every service we offer.
+Request a free well water treatment estimate. We will contact you to confirm a time. [Get a Free Estimate](#estimate) or return to New Braunfels Elite Water Softener for every service we offer.

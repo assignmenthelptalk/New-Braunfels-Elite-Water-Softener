@@ -68,4 +68,4 @@ Many brands can be serviced. Tell us the make and model when you request service
 
 ## Get Your Free Estimate
 
-Request a free water softener service estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to New Braunfels Elite Water Softener for every service we offer.
+Request a free water softener service estimate. We will contact you to confirm a time. [Get a Free Estimate](#estimate) or return to New Braunfels Elite Water Softener for every service we offer.

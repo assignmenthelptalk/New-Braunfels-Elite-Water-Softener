@@ -61,4 +61,4 @@ Yes. Cloudy or sediment-heavy water shields microbes from the light, so a sedime
 
 ## Get Your Free Estimate
 
-Request a free UV water purification estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to New Braunfels Elite Water Softener for every service we offer.
+Request a free UV water purification estimate. We will contact you to confirm a time. [Get a Free Estimate](#estimate) or return to New Braunfels Elite Water Softener for every service we offer.

@@ -86,4 +86,4 @@ Repair is worth it when one part has failed on an otherwise sound unit. Past rou
 
 ## Get Your Free Estimate
 
-Request a free water softener replacement estimate for your New Braunfels home. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to New Braunfels Elite Water Softener for the full list of services. For all softener types, see our [Water Softener Systems in New Braunfels, TX](/water-softener-systems/).
+Request a free water softener replacement estimate for your New Braunfels home. We will contact you to confirm a time. [Get a Free Estimate](#estimate) or return to New Braunfels Elite Water Softener for the full list of services. For all softener types, see our [Water Softener Systems in New Braunfels, TX](/water-softener-systems/).

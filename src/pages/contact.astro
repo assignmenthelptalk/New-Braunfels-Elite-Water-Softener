@@ -13,7 +13,7 @@ const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
 <Layout
   title={`Contact ${site.businessName}`}
   fullTitle={`Contact ${site.businessName} | ${site.businessName}: Water Softener Installation and Repair`}
-  description={`Contact ${site.businessName} for a free water softener estimate in ${site.city}, ${site.stateAbbr}. Call or send a request and we will reply within 24 hours.`}
+  description={`Contact ${site.businessName} for a free water softener estimate in ${site.city}, ${site.stateAbbr}. Call or send a request and we will reply to confirm a time.`}
 >
   <PageHero
     showForm={false}
@@ -22,7 +22,7 @@ const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
     primaryCta={{ href: telHref, text: `📞 ${site.phoneNumber}` }}
   >
     <p slot="opening">
-      Call or send a request for a free water softener estimate in {site.city}. We reply within 24 hours.
+      Call or send a request for a free water softener estimate in {site.city}. We reply to confirm a time.
     </p>
   </PageHero>
 
@@ -30,7 +30,7 @@ const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
     <div class="container contact-grid">
       <div class="contact-details">
         <h2>Get in Touch</h2>
-        <p>Call for a free estimate, or send the form and we will contact you within 24 hours.</p>
+        <p>Call for a free estimate, or send the form and we will contact you to confirm a time.</p>
         <p class="contact-row"><strong>Phone:</strong> <a href={telHref}>{site.phoneNumber}</a></p>
         <p class="contact-row"><strong>Service area:</strong> {site.city}, {site.county} and nearby towns</p>
         {site.address
