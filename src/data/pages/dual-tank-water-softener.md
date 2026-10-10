@@ -67,4 +67,4 @@ Yes. It suits businesses that cannot tolerate hard water at any hour, and it is 
 
 ## Get Your Free Estimate
 
-Request a free dual tank water softener estimate for your New Braunfels home or business. We will contact you to confirm a time. [Get a Free Estimate](#estimate) or return to New Braunfels Elite Water Softener for every service we offer.
+Request a free dual tank water softener estimate for your New Braunfels home or business. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to New Braunfels Elite Water Softener for every service we offer.

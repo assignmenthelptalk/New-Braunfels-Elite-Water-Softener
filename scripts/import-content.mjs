@@ -362,6 +362,7 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - [ ] Warranty, guarantee, same-day policy, years in business, price ranges, real reviews
 - [ ] Photos: generated images are stand-ins. Swap in real ${CITY} job photos as they come in, keeping the file names (scripts/prepare-images.mjs converts new batches)
 - [ ] Service-areas map: ${mapNote}. Confirm each pin's coordinates (neighbourhood pins are approximate unless verified)
+- [ ] Form replies: the Contact page, Thank-you page and service pages promise a reply within 24 hours. Before launch set businessEmail and the phone number, and confirm who receives the forms and that 24 hours can be met (or change the wording)
 - [ ] Pages not written yet: ${demoted.length} link(s) are shown as plain text until the target page exists (${[...new Set(demoted.map((d) => d.to))].join(", ") || "none"}). Write the page, re-run the import and the link comes back
 - [ ] Build the images still missing (code-made diagrams, listed here): ${missingImages.length ? missingImages.join(", ") : "none"}
 - [ ] Final meta descriptions for every page marked DRAFT

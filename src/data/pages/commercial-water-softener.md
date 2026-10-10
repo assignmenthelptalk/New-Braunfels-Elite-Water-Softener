@@ -80,4 +80,4 @@ Often yes. Sediment and chlorine can harm resin and equipment, and a test shows 
 
 ## Get Your Free Estimate
 
-Request a free commercial water softener estimate. We will contact you to confirm a time. [Get a Free Estimate](#estimate) or return to New Braunfels Elite Water Softener for every service we offer.
+Request a free commercial water softener estimate. We will contact you within 24 hours. [Get a Free Estimate](#estimate) or return to New Braunfels Elite Water Softener for every service we offer.

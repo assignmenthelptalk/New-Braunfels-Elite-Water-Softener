@@ -1,7 +1,7 @@
 ---
 /**
  * Thank-you page: formsubmit.co redirect target (QuoteForm `_next`).
- * Confirms the request, confirms the request, gives a phone
+ * Confirms the request, promises a reply within 24 hours, gives a phone
  * number for faster service and links back to the homepage. noindex.
  */
 import Layout from "../components/Layout.astro";
@@ -21,7 +21,7 @@ const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
       <h1>Thank You, We Received Your Request</h1>
       <p>
         Your free water softener estimate request has been submitted. A member of our {site.city} team
-        will be in touch to confirm a time.
+        will be in touch within 24 hours.
       </p>
       <p>Need faster service? Call us now:</p>
       <p class="thank-you-phone"><a href={telHref}>{site.phoneNumber}</a></p>
