@@ -1,7 +1,19 @@
 {
-  "hubs": [],
+  "menuLabels": [
+    "Services",
+    "Other Services"
+  ],
+  "hubs": [
+    {
+      "href": "/water-softener-systems/",
+      "label": "Water Softener Systems"
+    },
+    {
+      "href": "/water-treatment-and-testing/",
+      "label": "Water Treatment Services"
+    }
+  ],
   "services": [],
   "guideHub": null,
-  "geoHub": null,
-  "menuLabels": ["Services", "Other Services"]
+  "geoHub": null
 }

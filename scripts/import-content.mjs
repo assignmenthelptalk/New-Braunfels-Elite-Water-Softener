@@ -154,6 +154,19 @@ fs.mkdirSync(OUT_PAGES, { recursive: true });
 const files = fs.readdirSync(path.join(SOURCE, "written-content")).filter((f) => f.endsWith(".md"));
 const pages = [];
 
+// Pages written so far. A link to a page that is not written yet is shown as plain text, so the site never
+// links to a missing page; writing the page and re-running the import restores the link.
+const writtenSlugs = new Set(
+  files
+    .map((f) => {
+      const header = fs.readFileSync(path.join(SOURCE, "written-content", f), "utf8").match(/^<!--([\s\S]*?)-->/)?.[1] || "";
+      return (header.match(/Slug:\s*(\S+)/) || header.match(/Page:\s*(\/\S*)/) || [])[1];
+    })
+    .filter(Boolean),
+);
+const ALWAYS_PRESENT = new Set(["/", "/about/", "/contact/", "/thank-you/"]);
+const demoted = [];
+
 for (const file of files) {
   const raw = fs.readFileSync(path.join(SOURCE, "written-content", file), "utf8").replace(/\r\n/g, "\n");
   const head = raw.match(/^<!--([\s\S]*?)-->/);
@@ -231,6 +244,14 @@ for (const file of files) {
     openingMd = openingMd.replace(/\[([^\]]+)\]\(\/#estimate\)/g, "$1");
     ({ openingMd, body } = applyHomeBacklinks({ slug, type: typeBySlug.get(slug) || "page", h1, openingMd, body }));
   }
+  const demote = (md) =>
+    md.replace(/(?<!!)\[([^\]]+)\]\((\/[^)\s#]*)(#[^)\s]*)?\)/g, (m, label, href) => {
+      if (writtenSlugs.has(href) || ALWAYS_PRESENT.has(href)) return m;
+      demoted.push({ from: slug, to: href });
+      return label;
+    });
+  openingMd = demote(openingMd);
+  body = demote(body);
 
   const description =
     metaDescRaw && !/NEEDS|VERIFY/.test(metaDescRaw) ? metaDescRaw : draftDescription(openingMd);
@@ -319,6 +340,7 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - [ ] Warranty, guarantee, same-day policy, years in business, price ranges, real reviews
 - [ ] Photos: generated images are stand-ins. Swap in real ${CITY} job photos as they come in, keeping the file names (scripts/prepare-images.mjs converts new batches)
 - [ ] Service-areas map: ${mapNote}. Confirm each pin's coordinates (neighbourhood pins are approximate unless verified)
+- [ ] Pages not written yet: ${demoted.length} link(s) are shown as plain text until the target page exists (${[...new Set(demoted.map((d) => d.to))].join(", ") || "none"}). Write the page, re-run the import and the link comes back
 - [ ] Build the images still missing (code-made diagrams, listed here): ${missingImages.length ? missingImages.join(", ") : "none"}
 - [ ] Final meta descriptions for every page marked DRAFT
 - [ ] Write or decide the remaining location pages (see the strategy folder's reports/)

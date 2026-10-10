@@ -81,7 +81,7 @@ const footerLinks: NavLink[] = [
     <!-- Utility bar — thin strip above the main nav, phone-call-first -->
     <div class="utility-bar">
       <div class="container utility-bar-inner">
-        <span class="utility-bar-left">Serving {site.city}, {site.stateAbbr} &middot; Licensed and Insured</span>
+        <span class="utility-bar-left">Serving {site.city}, {site.stateAbbr} and {site.region}</span>
         {site.phoneNumber && site.phoneNumber !== "PHONE_NUMBER" && (
           <a href={`tel:${telDigits}`} class="utility-phone">
             {site.phoneNumber}

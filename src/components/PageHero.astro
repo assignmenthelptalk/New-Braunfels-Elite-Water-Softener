@@ -24,8 +24,8 @@ interface Props {
   primaryCta: CtaLink;
   /** Omit to show a single call-to-action button. */
   secondaryCta?: CtaLink;
-  /** Trust chips under the breadcrumbs. Defaults to the four standard chips;
-   * pass your own list when a claim (licence, same-day service) is not confirmed. */
+  /** Trust chips under the breadcrumbs. Defaults to claims every site can back (free estimate, no
+   * obligation, service area). Add licence or same-day chips only once the business confirms them. */
   badges?: string[];
   /** Real photo used as the full-bleed hero background. Omit for the
    * brand-gradient fallback. */
@@ -41,7 +41,7 @@ const {
   secondaryCta,
   image,
   showForm = true,
-  badges = ["✓ Licensed and Insured", "✓ Free Water Test", "✓ Same Day Service", "✓ No Obligation"],
+  badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.city}, ${site.stateAbbr}`],
 } = Astro.props;
 ---
 
