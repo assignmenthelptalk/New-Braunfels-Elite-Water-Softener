@@ -10,17 +10,17 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - [ ] Licence number and class for whoever installs (check what TX requires before the word "licensed" appears anywhere)
 - [ ] Warranty, guarantee, same-day policy, years in business, price ranges, real reviews
 - [ ] Photos: generated images are stand-ins. Swap in real New Braunfels job photos as they come in, keeping the file names (scripts/prepare-images.mjs converts new batches)
-- [ ] Service-areas map: 0 pins. Confirm each pin's coordinates (neighbourhood pins are approximate unless verified)
+- [ ] Service-areas map: 4 pins. Confirm each pin's coordinates (neighbourhood pins are approximate unless verified)
 - [ ] Form replies: the Contact page, Thank-you page and service pages promise a reply within 24 hours. Before launch set businessEmail and the phone number, and confirm who receives the forms and that 24 hours can be met (or change the wording)
-- [ ] Pages not written yet: 0 link(s) are shown as plain text until the target page exists (none). Write the page, re-run the import and the link comes back
-- [ ] Build the images still missing (code-made diagrams, listed here): commercial-water-softener-new-braunfels-tx.webp, drinking-water-systems-new-braunfels-tx.webp, dual-tank-water-softener-new-braunfels-tx.webp, hard-water-new-braunfels-tx.webp, how-long-do-water-softeners-last-new-braunfels-tx.webp, salt-vs-salt-free-water-softener-new-braunfels-tx.webp, signs-you-need-a-new-water-softener-new-braunfels-tx.webp, water-softener-cost-new-braunfels-tx.webp, water-softener-size-guide-new-braunfels-tx.webp, hero-water-softener-new-braunfels-tx.webp, installed-softener-new-braunfels-tx.webp, hard-water-buildup-new-braunfels-tx.webp, water-softener-process-new-braunfels-tx.webp, reverse-osmosis-installation-new-braunfels-tx.webp, salt-free-water-softener-new-braunfels-tx.webp, uv-water-purification-new-braunfels-tx.webp, water-conditioner-installation-new-braunfels-tx.webp, water-contaminant-removal-new-braunfels-tx.webp, water-filtration-systems-new-braunfels-tx.webp, water-quality-testing-new-braunfels-tx.webp, water-softener-guides-new-braunfels-tx.webp, water-softener-installation-new-braunfels-tx.webp, water-softener-maintenance-new-braunfels-tx.webp, water-softener-repair-new-braunfels-tx.webp, water-softener-replacement-new-braunfels-tx.webp, water-softener-systems-new-braunfels-tx.webp, water-treatment-new-braunfels-tx.webp, well-water-softener-new-braunfels-tx.webp
+- [ ] Pages not written yet: 7 link(s) are shown as plain text until the target page exists (/water-softener-gruene-tx/, /water-softener-vintage-oaks-new-braunfels/, /water-softener-veramendi-new-braunfels/, /water-softener-creekside-new-braunfels/, /water-softener-river-chase-new-braunfels/, /water-softener-bulverde-tx/, /water-softener-spring-branch-tx/). Write the page, re-run the import and the link comes back
+- [ ] Build the images still missing (code-made diagrams, listed here): commercial-water-softener-new-braunfels-tx.webp, drinking-water-systems-new-braunfels-tx.webp, dual-tank-water-softener-new-braunfels-tx.webp, hard-water-new-braunfels-tx.webp, how-long-do-water-softeners-last-new-braunfels-tx.webp, salt-vs-salt-free-water-softener-new-braunfels-tx.webp, signs-you-need-a-new-water-softener-new-braunfels-tx.webp, water-softener-cost-new-braunfels-tx.webp, water-softener-size-guide-new-braunfels-tx.webp, hero-water-softener-new-braunfels-tx.webp, installed-softener-new-braunfels-tx.webp, hard-water-buildup-new-braunfels-tx.webp, water-softener-process-new-braunfels-tx.webp, reverse-osmosis-installation-new-braunfels-tx.webp, salt-free-water-softener-new-braunfels-tx.webp, uv-water-purification-new-braunfels-tx.webp, water-conditioner-installation-new-braunfels-tx.webp, water-contaminant-removal-new-braunfels-tx.webp, water-filtration-systems-new-braunfels-tx.webp, water-quality-testing-new-braunfels-tx.webp, water-softener-canyon-lake-tx.webp, water-softener-guides-new-braunfels-tx.webp, water-softener-installation-new-braunfels-tx.webp, water-softener-maintenance-new-braunfels-tx.webp, water-softener-repair-new-braunfels-tx.webp, water-softener-replacement-new-braunfels-tx.webp, water-softener-san-marcos-tx.webp, water-softener-seguin-tx.webp, water-softener-systems-new-braunfels-tx.webp, water-softener-wimberley-tx.webp, water-treatment-new-braunfels-tx.webp, well-water-softener-new-braunfels-tx.webp
 - [ ] Final meta descriptions for every page marked DRAFT
 - [ ] Write or decide the remaining location pages (see the strategy folder's reports/)
 
 ## Totals
-- Pages built: 25
-- Open markers: 2
-- Draft meta descriptions: 22
+- Pages built: 30
+- Open markers: 5
+- Draft meta descriptions: 27
 
 ## Per page
 ### /
@@ -53,6 +53,11 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - Open markers: 0
   - (none)
 
+### /service-areas/
+- Meta description: DRAFT, needs final wording
+- Open markers: 0
+  - (none)
+
 ### /uv-water-purification/
 - Meta description: DRAFT, needs final wording
 - Open markers: 0
@@ -77,6 +82,11 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - Meta description: DRAFT, needs final wording
 - Open markers: 0
   - (none)
+
+### /water-softener-canyon-lake-tx/
+- Meta description: DRAFT, needs final wording
+- Open markers: 1
+  - [VERIFY: the current average hardness; the report on file is the 2018 edition]
 
 ### /water-softener-guides/
 - Meta description: DRAFT, needs final wording
@@ -133,10 +143,25 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - Open markers: 0
   - (none)
 
+### /water-softener-san-marcos-tx/
+- Meta description: DRAFT, needs final wording
+- Open markers: 0
+  - (none)
+
+### /water-softener-seguin-tx/
+- Meta description: DRAFT, needs final wording
+- Open markers: 1
+  - [NEEDS DATA: Seguin's average hardness; the 2025 report lists no hardness figure, so confirm with the city at 830-379-3212]
+
 ### /water-softener-systems/
 - Meta description: final
 - Open markers: 1
   - [VERIFY: NBU's current average hardness; its 2019 to 2025 reports do not list hardness]
+
+### /water-softener-wimberley-tx/
+- Meta description: DRAFT, needs final wording
+- Open markers: 1
+  - [VERIFY: Wimberley WSC's current average hardness; the report on file is the 2018 edition and lists no hardness figure]
 
 ### /water-treatment-and-testing/
 - Meta description: final

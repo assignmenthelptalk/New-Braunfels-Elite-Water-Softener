@@ -94,5 +94,8 @@
     "href": "/water-softener-guides/",
     "label": "Water Softener Guides for New Braunfels Homeowners"
   },
-  "geoHub": null
+  "geoHub": {
+    "href": "/service-areas/",
+    "label": "Water Softener Service Areas"
+  }
 }
