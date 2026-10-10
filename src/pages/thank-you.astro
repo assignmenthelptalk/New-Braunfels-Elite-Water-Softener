@@ -1,0 +1,39 @@
+---
+/**
+ * Thank-you page: formsubmit.co redirect target (QuoteForm `_next`).
+ * Confirms the request, promises a reply within 24 hours, gives a phone
+ * number for faster service and links back to the homepage. noindex.
+ */
+import Layout from "../components/Layout.astro";
+import { site } from "../lib/site";
+
+const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
+---
+
+<Layout
+  title="Thank You"
+  fullTitle={`Thank You | ${site.businessName}`}
+  description="Your free water softener estimate request has been received."
+  noindex
+>
+  <section class="section thank-you">
+    <div class="container">
+      <h1>Thank You, We Received Your Request</h1>
+      <p>
+        Your free water softener estimate request has been submitted. A member of our {site.city} team
+        will be in touch within 24 hours.
+      </p>
+      <p>Need faster service? Call us now:</p>
+      <p class="thank-you-phone"><a href={telHref}>{site.phoneNumber}</a></p>
+      <a class="btn btn-primary" href="/">Back to Homepage</a>
+    </div>
+  </section>
+
+  <style>
+    .thank-you { text-align: center; padding-block: clamp(80px, 14vw, 160px); }
+    .thank-you p { max-width: 52ch; margin: 0 auto 20px; color: var(--color-text-muted); }
+    .thank-you-phone { font-size: 1.75rem; font-weight: 700; }
+    .thank-you-phone a { color: var(--color-primary); text-decoration: none; }
+    .thank-you-phone a:hover { color: var(--color-accent); }
+  </style>
+</Layout>

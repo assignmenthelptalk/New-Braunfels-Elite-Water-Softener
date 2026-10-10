@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Pflugerville Water Softener">
+  <circle cx="32" cy="32" r="28" fill="#FFFFFF" stroke="#1A3C5E" stroke-width="5" />
+  <path d="M32 11C32 11 21.5 24.5 21.5 33C21.5 38.8 26.2 43.5 32 43.5C37.8 43.5 42.5 38.8 42.5 33C42.5 24.5 32 11 32 11Z" fill="#1A3C5E" />
+  <path d="M27 33.5C27 36.4 28.8 38.6 31.2 39.2" fill="none" stroke="#E6EDF4" stroke-width="2.4" stroke-linecap="round" />
+  <path d="M2 43C13 34.5 24 36 33 41.5C42 47 53 46 62 37C60.5 45 52 54 41 53C33 52.5 28 47.5 21 47.5C14 47.5 8 49.5 2 43Z" fill="#E87722" />
+  <path d="M5 49C14 44 22 45.5 30 50C38 54.5 50 55 59 47" fill="none" stroke="#1A3C5E" stroke-width="3" stroke-linecap="round" />
+</svg>

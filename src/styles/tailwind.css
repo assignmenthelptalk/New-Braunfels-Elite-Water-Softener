@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary:       #1A3C5E;
+  --color-primary-light: #E6EDF4;
+  --color-accent:        #E87722;
+  --font-heading:        'DM Serif Display', Georgia, serif;
+  --font-body:           'Inter', system-ui, sans-serif;
+  --radius-brand:        8px;
+}

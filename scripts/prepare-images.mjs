@@ -1,0 +1,122 @@
+/**
+ * prepare-images.mjs: turn a folder of AI-generated photos into the site's images.
+ *
+ *   node scripts/prepare-images.mjs --src <folder> [--prompts IMAGE-PROMPTS.md]
+ *        [--logo brand_assets/logo.png] [--out src/assets/images] [--dry-run]
+ *
+ * How files are matched to page IDs
+ *   1. The page IDs come from the "### `page-id`" headings of IMAGE-PROMPTS.md, in
+ *      order, stopping at the "Build in code" / "Already done" sections.
+ *   2. If the files in --src are already named <page-id>.jpg|png|webp they are used by name.
+ *   3. Otherwise the files are matched by SAVE ORDER (oldest first), which is the order
+ *      the prompts were generated in. "name (1).jpg" style duplicates are skipped.
+ *      The count must equal the number of page IDs, or the script stops.
+ *   Always run with --dry-run first and check the printed table.
+ *
+ * What it writes
+ *   src/assets/images/<id>.webp   max 1200px wide (hero-* keeps up to 1376px)
+ *   public/og-default.jpg         1200x630 crop of the og-default image
+ *   brand_assets/unbranded-images/<id>.<ext>   the untouched originals (git-ignore this folder)
+ *
+ * Logo (optional): with --logo the logo is stamped bottom-right at about 22% of the image
+ * width on a soft translucent plate. The logo's near-white background is turned
+ * transparent first. The hero image is not branded (its overlay and form cover that corner).
+ * Needs "sharp", which Astro already installs.
+ */
+import fs from "node:fs";
+import path from "node:path";
+import sharp from "sharp";
+
+const args = process.argv.slice(2);
+const opt = (name, fallback) => {
+  const i = args.indexOf(`--${name}`);
+  return i === -1 ? fallback : args[i + 1];
+};
+const DRY = args.includes("--dry-run");
+const root = process.cwd();
+const SRC = opt("src");
+const PROMPTS = path.resolve(root, opt("prompts", "IMAGE-PROMPTS.md"));
+const OUT = path.resolve(root, opt("out", "src/assets/images"));
+const ARCHIVE = path.join(root, "brand_assets", "unbranded-images");
+const LOGO = opt("logo");
+const LOGO_OPACITY = 0.8, PLATE_OPACITY = 0.55, WIDTH_RATIO = 0.22, MARGIN_RATIO = 0.03;
+
+const fail = (msg) => { console.error(`prepare-images: ${msg}`); process.exit(1); };
+if (!SRC) fail("pass --src <folder with the generated images>");
+if (!fs.existsSync(PROMPTS)) fail(`no prompts file at ${PROMPTS}`);
+
+// 1. page IDs in prompt order
+const ids = [];
+for (const line of fs.readFileSync(PROMPTS, "utf8").split(/\r?\n/)) {
+  if (/^## .*(Build in code|Already done)/i.test(line)) break;
+  const m = line.match(/^### `([a-z0-9-]+)`/);
+  if (m) ids.push(m[1]);
+}
+if (!ids.length) fail("no '### `page-id`' headings found in the prompts file");
+
+// 2/3. match files to IDs
+const IMG = /\.(jpe?g|png|webp)$/i;
+const files = fs.readdirSync(SRC).filter((f) => IMG.test(f));
+const byName = new Map(files.map((f) => [f.replace(IMG, ""), f]));
+let plan;
+if (ids.every((id) => byName.has(id))) {
+  plan = ids.map((id) => ({ id, file: byName.get(id) }));
+  console.log("Matching by file name.");
+} else {
+  const fresh = files
+    .filter((f) => !/ \(\d+\)\.\w+$/.test(f))
+    .map((f) => ({ f, t: fs.statSync(path.join(SRC, f)).mtimeMs }))
+    .sort((a, b) => a.t - b.t)
+    .map((x) => x.f);
+  if (fresh.length !== ids.length) fail(`${fresh.length} usable files but ${ids.length} page IDs in ${path.basename(PROMPTS)}. Fix the folder or the prompts, or name files <page-id>.jpg.`);
+  plan = ids.map((id, i) => ({ id, file: fresh[i] }));
+  console.log("Matching by save order (oldest file = first prompt). Check the table before trusting it.");
+}
+console.table(plan.map((p, i) => ({ "#": i + 1, id: p.id, file: p.file })));
+if (DRY) { console.log("Dry run: nothing written."); process.exit(0); }
+
+// logo with its backdrop made transparent
+let logoPng = null;
+if (LOGO) {
+  const { data, info } = await sharp(path.resolve(root, LOGO)).ensureAlpha().raw().toBuffer({ resolveWithObject: true });
+  for (let i = 0; i < data.length; i += 4) {
+    const d = 255 - Math.min(data[i], data[i + 1], data[i + 2]); // distance from white
+    data[i + 3] = Math.min(255, Math.max(0, (d - 14) * 4)) * LOGO_OPACITY * (data[i + 3] / 255);
+  }
+  logoPng = await sharp(data, { raw: info }).png().toBuffer();
+}
+
+async function stamp(buf, width, height) {
+  const lw = Math.round(width * WIDTH_RATIO), pad = Math.round(lw * 0.08);
+  const logo = await sharp(logoPng).resize({ width: lw }).toBuffer();
+  const lh = (await sharp(logo).metadata()).height;
+  const pw = lw + pad * 2, ph = lh + pad * 2, r = Math.round(ph * 0.18);
+  const plate = Buffer.from(`<svg width="${pw}" height="${ph}"><rect width="${pw}" height="${ph}" rx="${r}" fill="#fff" fill-opacity="${PLATE_OPACITY}"/></svg>`);
+  const m = Math.round(width * MARGIN_RATIO), left = width - pw - m, top = height - ph - m;
+  return sharp(buf).composite([{ input: plate, left, top }, { input: logo, left: left + pad, top: top + pad }]);
+}
+
+fs.mkdirSync(OUT, { recursive: true });
+fs.mkdirSync(ARCHIVE, { recursive: true });
+fs.mkdirSync(path.join(root, "public"), { recursive: true });
+for (const { id, file } of plan) {
+  const input = path.join(SRC, file);
+  const meta = await sharp(input).metadata();
+  const isHero = id.startsWith("hero-");
+  const w = Math.min(meta.width, isHero ? 1376 : 1200);
+  const h = Math.round(meta.height * (w / meta.width));
+  const resized = await sharp(input).resize({ width: w }).toBuffer();
+  const brand = logoPng && !isHero;
+  if (id === "og-default") {
+    const crop = await sharp(input).resize(1200, 630, { fit: "cover" }).toBuffer();
+    const og = brand ? await stamp(crop, 1200, 630) : sharp(crop);
+    await og.jpeg({ quality: 82, mozjpeg: true }).toFile(path.join(root, "public", "og-default.jpg"));
+  }
+  const out = brand ? await stamp(resized, w, h) : sharp(resized);
+  await out.webp({ quality: 80 }).toFile(path.join(OUT, `${id}.webp`));
+  const archived = path.join(ARCHIVE, `${id}${path.extname(file).toLowerCase()}`);
+  if (path.resolve(input) !== path.resolve(archived)) fs.copyFileSync(input, archived);
+  console.log(`${brand ? "branded " : "plain   "} ${id}`);
+}
+console.log(`\nDone: ${plan.length} images in ${path.relative(root, OUT)}. Originals copied to brand_assets/unbranded-images (git-ignore it).`);
+console.log("Next: npm run import-content && npm run build && npm run verify");
