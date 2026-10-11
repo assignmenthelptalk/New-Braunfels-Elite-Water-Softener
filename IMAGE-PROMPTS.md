@@ -46,12 +46,12 @@ A generic, unbranded residential water softener: a tall slim navy-blue resin tan
 ```
 
 ### `hard-water-buildup-new-braunfels-tx`
-- **Size:** 3:2 (export about 1200x800)
+- **Size:** 4:5 (export about 960x1200)
 - **Used on:** /
 - **Alt text (from the page copy):** Hard water scale buildup on a faucet water softener New Braunfels TX
 
 ```
-An extreme close-up of a chrome kitchen faucet spout and aerator with a thick, chalky white limescale crust and dried water spots, a few clear water drops falling, in a clean bright kitchen with a blurred window behind. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+An extreme close-up of a chrome kitchen faucet spout and aerator with a thick, chalky white limescale crust and dried water spots, a few clear water drops falling, in a clean bright kitchen with a blurred window behind. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 4:5.
 ```
 
 ### `water-softener-installation-steps-new-braunfels-tx`

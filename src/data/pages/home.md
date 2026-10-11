@@ -105,11 +105,18 @@ Dual tank and commercial water softeners, water conditioners, reverse osmosis an
 
 New Braunfels water is hard because of where it comes from.
 
-<div class="svc-grid">
+<div class="issues-split">
 
-<div class="svc-card">
+<div class="issues-photo">
 
-![Where Does New Braunfels Water Come From? New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Where+Does+New+Braunfels+Water+Come+From%3F+photo+placeholder)
+
+![Hard water scale buildup on a faucet water softener New Braunfels TX](https://placehold.co/660x825/1A3C5E/FFFFFF.png?text=Hard+water+photo+placeholder)
+
+</div>
+
+<div class="issues-grid">
+
+<div class="issue-item">
 
 ### Where Does New Braunfels Water Come From?
 
@@ -117,9 +124,7 @@ According to New Braunfels Utilities' 2025 water quality report, NBU has 54,575 
 
 </div>
 
-<div class="svc-card">
-
-![Why Does Limestone Make Water Hard? New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Why+Does+Limestone+Make+Water+Hard%3F+photo+placeholder)
+<div class="issue-item">
 
 ### Why Does Limestone Make Water Hard?
 
@@ -127,9 +132,7 @@ Groundwater that has moved through limestone picks up dissolved calcium and magn
 
 </div>
 
-<div class="svc-card">
-
-![How Is Water Hardness Measured? New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=How+Is+Water+Hardness+Measured%3F+photo+placeholder)
+<div class="issue-item">
 
 ### How Is Water Hardness Measured?
 
@@ -137,9 +140,7 @@ Hardness is measured in milligrams per liter (mg/L) or grains per gallon (gpg), 
 
 </div>
 
-<div class="svc-card">
-
-![How Hard Is New Braunfels Water? New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=How+Hard+Is+New+Braunfels+Water%3F+photo+placeholder)
+<div class="issue-item">
 
 ### How Hard Is New Braunfels Water?
 
@@ -147,9 +148,7 @@ NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, 
 
 </div>
 
-<div class="svc-card">
-
-![What Does NBU's Water Quality Report Show? New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=What+Does+NBU's+Water+Quality+Report+Show%3F+photo+placeholder)
+<div class="issue-item">
 
 ### What Does NBU's Water Quality Report Show?
 
@@ -157,9 +156,7 @@ NBU reports a total chlorine residual that averaged 2.58 ppm in 2025, against a 
 
 </div>
 
-<div class="svc-card">
-
-![How Do You Find Your Exact Hardness? New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=How+Do+You+Find+Your+Exact+Hardness%3F+photo+placeholder)
+<div class="issue-item">
 
 ### How Do You Find Your Exact Hardness?
 
@@ -169,7 +166,7 @@ A free water test shows the exact reading at your tap, because the supply blend 
 
 </div>
 
-
+</div>
 
 
 ## How Does Water Softener Installation Work in New Braunfels, TX?
