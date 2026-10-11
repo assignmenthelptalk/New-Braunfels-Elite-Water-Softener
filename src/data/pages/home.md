@@ -30,11 +30,7 @@ Homeowners choose a water softener company on five things: who does the work, ho
 
 
 
-<div class="svc-band">
-
 ## Water Softener Services in New Braunfels, TX
-
-</div>
 
 New Braunfels Elite Water Softener covers six core services, from first installation to long-term maintenance, and adds specialty systems for larger homes, businesses and wells.
 

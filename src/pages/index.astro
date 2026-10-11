@@ -71,13 +71,29 @@ const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.ci
   <!-- 2 to 9. Page copy: why choose us, services, hard water, process, FAQ, areas -->
   <section class="section">
     <div class="container">
-      <ContentProse>
-        <Content />
-      </ContentProse>
+      <div class="home-bands">
+        <ContentProse>
+          <Content />
+        </ContentProse>
+      </div>
     </div>
   </section>
 
   <style>
+    /* Every section heading in the homepage copy is a full-width navy band. The box-shadow and clip-path
+       paint the band edge to edge without extra markup or a 100vw width (so no horizontal scroll). */
+    .home-bands :global(.prose > h2) {
+      background: var(--color-primary);
+      color: #fff;
+      text-align: center;
+      max-width: none;
+      border-top: 0;
+      padding: 2rem 1rem;
+      margin: 3rem 0 2rem;
+      box-shadow: 0 0 0 100vmax var(--color-primary);
+      clip-path: inset(0 -100vmax);
+    }
+
     /* ---------- Hero: full-bleed image, split layout ---------- */
     .hero-section {
       position: relative;
