@@ -10,7 +10,7 @@
  *
  * Hero photo: the first src/assets/images/hero-*.webp (made by
  * scripts/prepare-images.mjs). Until one exists the page shows a labelled
- * placehold.co image so the build never breaks.
+ * local placeholder image so the build never breaks.
  */
 import { Image } from "astro:assets";
 import Layout from "../components/Layout.astro";
@@ -23,8 +23,7 @@ import { Content, frontmatter as fm } from "../data/pages/home.md";
 const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
 const heroFiles = import.meta.glob<{ default: ImageMetadata }>("../assets/images/hero-*.webp", { eager: true });
 const heroImage = Object.values(heroFiles)[0]?.default;
-const HERO_PLACEHOLDER =
-  "https://placehold.co/1376x768/12293F/FFFFFF.png?text=Hero+photo+placeholder";
+const HERO_PLACEHOLDER = "/placeholders/hero.svg"; // local file in public/placeholders (no network at build)
 const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.city}, ${site.stateAbbr}`];
 ---
 

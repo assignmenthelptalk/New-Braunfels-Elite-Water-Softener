@@ -11,7 +11,7 @@ openingHtml: "Water quality testing in New Braunfels, TX measures the hardness, 
 formHeading: ""
 formIntro: ""
 leadImage: null
-images: [{"file":"water-quality-testing-new-braunfels-tx.webp","alt":"Water quality testing New Braunfels TX technician testing tap water","exists":false}]
+images: [{"file":"water-quality-testing-new-braunfels-tx.webp","alt":"Water quality testing New Braunfels TX technician testing tap water","exists":false},{"file":"card-free-hard-water-test-new-braunfels-tx.webp","alt":"Free Hard Water Test New Braunfels TX","exists":false},{"file":"card-tds-testing-new-braunfels-tx.webp","alt":"TDS Testing New Braunfels TX","exists":false},{"file":"card-iron-content-testing-new-braunfels-tx.webp","alt":"Iron Content Testing New Braunfels TX","exists":false},{"file":"card-ph-level-testing-new-braunfels-tx.webp","alt":"pH Level Testing New Braunfels TX","exists":false},{"file":"card-chlorine-testing-new-braunfels-tx.webp","alt":"Chlorine Testing New Braunfels TX","exists":false},{"file":"card-sulfur-testing-new-braunfels-tx.webp","alt":"Sulfur Testing New Braunfels TX","exists":false},{"file":"card-heavy-metals-testing-new-braunfels-tx.webp","alt":"Heavy Metals Testing New Braunfels TX","exists":false}]
 faq: [{"q":"Is the water test really free?","a":"Ask exactly which tests are free and which carry a fee before you book."},{"q":"How long does a water test take?","a":"In-home tests for hardness, TDS, pH, iron and chlorine give results in minutes. Lab tests take longer. Lab results typically take a few business days, depending on the lab and the test."},{"q":"How often does water need testing?","a":"Test city water when you notice a change or move in. Test a private well for bacteria at least once a year, and for other substances as local conditions suggest."},{"q":"Do I need a test before buying a softener?","a":"Yes. The result sizes the softener and shows whether you also need a filter."},{"q":"What test shows if my water is safe to drink?","a":"A certified lab panel for bacteria, nitrate, metals and other regulated substances. NBU reports cover the public supply. New Braunfels Elite Water Softener TX provides water quality testing for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---
@@ -24,7 +24,8 @@ Seven tests cover hardness, total dissolved solids, iron, pH, chlorine, sulfur a
 
 <div class="svc-card">
 
-![Free Hard Water Test New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Free+Hard+Water+Test+photo+placeholder)
+
+![Free Hard Water Test New Braunfels TX](/placeholders/card.svg)
 
 ### Free Hard Water Test
 
@@ -34,7 +35,8 @@ A hard water test measures calcium and magnesium in your water, reported in mill
 
 <div class="svc-card">
 
-![TDS Testing New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=TDS+Testing+photo+placeholder)
+
+![TDS Testing New Braunfels TX](/placeholders/card.svg)
 
 ### TDS Testing
 
@@ -44,7 +46,8 @@ Total dissolved solids (TDS) is the combined amount of minerals, salts and metal
 
 <div class="svc-card">
 
-![Iron Content Testing New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Iron+Content+Testing+photo+placeholder)
+
+![Iron Content Testing New Braunfels TX](/placeholders/card.svg)
 
 ### Iron Content Testing
 
@@ -54,7 +57,8 @@ An iron test checks for dissolved and particulate iron. The EPA's secondary leve
 
 <div class="svc-card">
 
-![pH Level Testing New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=pH+Level+Testing+photo+placeholder)
+
+![pH Level Testing New Braunfels TX](/placeholders/card.svg)
 
 ### pH Level Testing
 
@@ -64,7 +68,8 @@ pH measures how acidic or basic water is. The EPA's secondary range is 6.5 to 8.
 
 <div class="svc-card">
 
-![Chlorine Testing New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Chlorine+Testing+photo+placeholder)
+
+![Chlorine Testing New Braunfels TX](/placeholders/card.svg)
 
 ### Chlorine Testing
 
@@ -74,7 +79,8 @@ A chlorine test measures the disinfectant left in your tap water. It helps expla
 
 <div class="svc-card">
 
-![Sulfur Testing New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Sulfur+Testing+photo+placeholder)
+
+![Sulfur Testing New Braunfels TX](/placeholders/card.svg)
 
 ### Sulfur Testing
 
@@ -84,7 +90,8 @@ A sulfur test confirms hydrogen sulfide, the cause of a rotten-egg smell, most c
 
 <div class="svc-card">
 
-![Heavy Metals Testing New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Heavy+Metals+Testing+photo+placeholder)
+
+![Heavy Metals Testing New Braunfels TX](/placeholders/card.svg)
 
 ### Heavy Metals Testing
 

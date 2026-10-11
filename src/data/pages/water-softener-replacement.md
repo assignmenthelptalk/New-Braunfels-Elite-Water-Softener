@@ -11,7 +11,7 @@ openingHtml: "Water softener replacement in New Braunfels, TX removes an old or 
 formHeading: ""
 formIntro: ""
 leadImage: null
-images: [{"file":"water-softener-replacement-new-braunfels-tx.webp","alt":"Water softener replacement New Braunfels TX old and new unit","exists":false}]
+images: [{"file":"water-softener-replacement-new-braunfels-tx.webp","alt":"Water softener replacement New Braunfels TX old and new unit","exists":false},{"file":"card-full-water-softener-system-replacement-new-braunfels-tx.webp","alt":"Full Water Softener System Replacement New Braunfels TX","exists":false},{"file":"card-resin-bed-replacement-new-braunfels-tx.webp","alt":"Resin Bed Replacement New Braunfels TX","exists":false},{"file":"card-water-softener-upgrade-service-new-braunfels-tx.webp","alt":"Water Softener Upgrade Service New Braunfels TX","exists":false}]
 faq: [{"q":"How long does water softener replacement take?","a":"Most replacements finish in a single visit. Most standard replacements take about 2 to 4 hours. The technician confirms timing at your estimate."},{"q":"Can I replace just the resin instead of the whole unit?","a":"Yes, when the tank and valve are sound. A resin replacement restores softening for less than a new system, and the technician tests your water to confirm the resin is the cause."},{"q":"Do you remove and dispose of my old water softener?","a":"Ask whether removal and disposal of the old unit is included. The estimate states exactly what is included."},{"q":"Will a new softener use less salt?","a":"A newer control head regenerates by actual water use instead of a fixed timer, which cuts unneeded cycles and salt. Savings depend on your household and your water."},{"q":"Is it worth repairing an old softener?","a":"Repair is worth it when one part has failed on an otherwise sound unit. Past roughly 10 to 15 years, or with a leaking tank, replacement usually costs less over time. New Braunfels Elite Water Softener TX provides water softener replacement for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---
@@ -24,7 +24,8 @@ Three replacement options fit different situations: full system replacement, res
 
 <div class="svc-card">
 
-![Full Water Softener System Replacement New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Full+Water+Softener+System+Replacement+photo+placeholder)
+
+![Full Water Softener System Replacement New Braunfels TX](/placeholders/card.svg)
 
 ### Full Water Softener System Replacement
 
@@ -34,7 +35,8 @@ Full replacement swaps the tank, resin, brine tank and control valve for a new s
 
 <div class="svc-card">
 
-![Resin Bed Replacement New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Resin+Bed+Replacement+photo+placeholder)
+
+![Resin Bed Replacement New Braunfels TX](/placeholders/card.svg)
 
 ### Resin Bed Replacement
 
@@ -44,7 +46,8 @@ The resin bed is the layer of small beads inside the softener tank that traps ca
 
 <div class="svc-card">
 
-![Water Softener Upgrade Service New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Upgrade+Service+photo+placeholder)
+
+![Water Softener Upgrade Service New Braunfels TX](/placeholders/card.svg)
 
 ### Water Softener Upgrade Service
 

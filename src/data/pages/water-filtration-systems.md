@@ -11,7 +11,7 @@ openingHtml: "Water filtration system installation in New Braunfels, TX puts fil
 formHeading: ""
 formIntro: ""
 leadImage: null
-images: [{"file":"water-filtration-systems-new-braunfels-tx.webp","alt":"Water filtration systems New Braunfels TX whole house filter installation","exists":false}]
+images: [{"file":"water-filtration-systems-new-braunfels-tx.webp","alt":"Water filtration systems New Braunfels TX whole house filter installation","exists":false},{"file":"card-whole-house-water-filter-new-braunfels-tx.webp","alt":"Whole House Water Filter New Braunfels TX","exists":false},{"file":"card-under-sink-water-filter-new-braunfels-tx.webp","alt":"Under Sink Water Filter New Braunfels TX","exists":false},{"file":"card-sediment-filter-installation-new-braunfels-tx.webp","alt":"Sediment Filter Installation New Braunfels TX","exists":false},{"file":"card-carbon-block-filter-new-braunfels-tx.webp","alt":"Carbon Block Filter New Braunfels TX","exists":false},{"file":"card-shower-filter-installation-new-braunfels-tx.webp","alt":"Shower Filter Installation New Braunfels TX","exists":false},{"file":"card-refrigerator-filter-replacement-new-braunfels-tx.webp","alt":"Refrigerator Filter Replacement New Braunfels TX","exists":false},{"file":"card-multi-stage-filtration-new-braunfels-tx.webp","alt":"Multi-Stage Filtration New Braunfels TX","exists":false}]
 faq: [{"q":"How often does a water filter need replacing?","a":"Replacement depends on the filter type and your water. Sediment and carbon cartridges commonly need changing every few months to a year. Whole-house pre-filter cartridges are typically replaced every 6 to 12 months."},{"q":"Will a whole house filter lower my water pressure?","a":"A correctly sized filter keeps pressure steady. A clogged or undersized one reduces it, so we size to your flow."},{"q":"Do I need a filter if I have a water softener?","a":"Often yes. A softener removes hardness, and a filter removes sediment and chlorine that can also damage resin."},{"q":"What does a shower filter remove?","a":"It reduces chlorine. It does not remove hardness minerals."},{"q":"What does filter installation cost in New Braunfels?","a":"Our estimate is free and itemized. New Braunfels Elite Water Softener TX provides water filtration system installation for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---
@@ -24,7 +24,8 @@ Seven filtration options cover the whole house, the sink, the shower and the ref
 
 <div class="svc-card">
 
-![Whole House Water Filter New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Whole+House+Water+Filter+photo+placeholder)
+
+![Whole House Water Filter New Braunfels TX](/placeholders/card.svg)
 
 ### Whole House Water Filter
 
@@ -34,7 +35,8 @@ A whole house water filter treats water at the main line so every tap and applia
 
 <div class="svc-card">
 
-![Under Sink Water Filter New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Under+Sink+Water+Filter+photo+placeholder)
+
+![Under Sink Water Filter New Braunfels TX](/placeholders/card.svg)
 
 ### Under Sink Water Filter
 
@@ -44,7 +46,8 @@ An under sink water filter treats the water at one faucet, usually for drinking 
 
 <div class="svc-card">
 
-![Sediment Filter Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Sediment+Filter+Installation+photo+placeholder)
+
+![Sediment Filter Installation New Braunfels TX](/placeholders/card.svg)
 
 ### Sediment Filter Installation
 
@@ -54,7 +57,8 @@ A sediment filter traps sand, silt and rust particles. Filters are rated in micr
 
 <div class="svc-card">
 
-![Carbon Block Filter New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Carbon+Block+Filter+photo+placeholder)
+
+![Carbon Block Filter New Braunfels TX](/placeholders/card.svg)
 
 ### Carbon Block Filter
 
@@ -64,7 +68,8 @@ A carbon block filter uses compressed activated carbon to reduce chlorine, taste
 
 <div class="svc-card">
 
-![Shower Filter Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Shower+Filter+Installation+photo+placeholder)
+
+![Shower Filter Installation New Braunfels TX](/placeholders/card.svg)
 
 ### Shower Filter Installation
 
@@ -74,7 +79,8 @@ A shower filter installs between the pipe and the showerhead to reduce chlorine 
 
 <div class="svc-card">
 
-![Refrigerator Filter Replacement New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Refrigerator+Filter+Replacement+photo+placeholder)
+
+![Refrigerator Filter Replacement New Braunfels TX](/placeholders/card.svg)
 
 ### Refrigerator Filter Replacement
 
@@ -84,7 +90,8 @@ Refrigerator filters improve taste and clarity of ice and water. Manufacturers c
 
 <div class="svc-card">
 
-![Multi-Stage Filtration New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Multi-Stage+Filtration+photo+placeholder)
+
+![Multi-Stage Filtration New Braunfels TX](/placeholders/card.svg)
 
 ### Multi-Stage Filtration
 

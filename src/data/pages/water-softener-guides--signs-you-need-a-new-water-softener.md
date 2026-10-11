@@ -11,7 +11,7 @@ openingHtml: "You need to replace your water softener when hard water keeps retu
 formHeading: ""
 formIntro: ""
 leadImage: null
-images: [{"file":"signs-you-need-a-new-water-softener-new-braunfels-tx.webp","alt":"Signs you need a new water softener New Braunfels TX scale on faucet and leaking tank","exists":false}]
+images: [{"file":"signs-you-need-a-new-water-softener-new-braunfels-tx.webp","alt":"Signs you need a new water softener New Braunfels TX scale on faucet and leaking tank","exists":false},{"file":"card-hard-water-symptoms-return-new-braunfels-tx.webp","alt":"Hard-Water Symptoms Return New Braunfels TX","exists":false},{"file":"card-salt-use-rises-sharply-new-braunfels-tx.webp","alt":"Salt Use Rises Sharply New Braunfels TX","exists":false},{"file":"card-salt-bridges-or-mush-keep-returning-new-braunfels-tx.webp","alt":"Salt Bridges or Mush Keep Returning New Braunfels TX","exists":false},{"file":"card-leaks-from-the-tank-head-or-drain-new-braunfels-tx.webp","alt":"Leaks From the Tank, Head or Drain New Braunfels TX","exists":false},{"file":"card-error-codes-or-no-cycling-new-braunfels-tx.webp","alt":"Error Codes or No Cycling New Braunfels TX","exists":false},{"file":"card-resin-beads-in-faucets-or-sinks-new-braunfels-tx.webp","alt":"Resin Beads in Faucets or Sinks New Braunfels TX","exists":false}]
 faq: [{"q":"How can I tell if my softener is working?","a":"Test the softened water for hardness or watch for spots and scale. Soft water also makes soap lather easily."},{"q":"Is a new softener worth it if mine is 12 years old?","a":"Often yes, if it shows any of the signs above. New units regenerate by demand and use less salt and water."},{"q":"Can I replace just the control head?","a":"Yes, when the tank and resin are sound. It restores timing and cycles for less than a new unit."},{"q":"How long does replacement take?","a":"Most replacements finish in one visit, often in 2 to 4 hours. New Braunfels Elite Water Softener TX provides water softener replacement for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---
@@ -24,7 +24,8 @@ Seven signs show a softener is failing, and the first six are listed below.
 
 <div class="svc-card">
 
-![Hard-Water Symptoms Return New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Hard-Water+Symptoms+Return+photo+placeholder)
+
+![Hard-Water Symptoms Return New Braunfels TX](/placeholders/card.svg)
 
 ### 1. Hard-Water Symptoms Return
 
@@ -34,7 +35,8 @@ Spotted dishes, scale on faucets, soap film and stiff laundry come back even tho
 
 <div class="svc-card">
 
-![Salt Use Rises Sharply New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Salt+Use+Rises+Sharply+photo+placeholder)
+
+![Salt Use Rises Sharply New Braunfels TX](/placeholders/card.svg)
 
 ### 2. Salt Use Rises Sharply
 
@@ -44,7 +46,8 @@ The unit goes through salt much faster than it used to. **Check:** compare how o
 
 <div class="svc-card">
 
-![Salt Bridges or Mush Keep Returning New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Salt+Bridges+or+Mush+Keep+Returning+photo+placeholder)
+
+![Salt Bridges or Mush Keep Returning New Braunfels TX](/placeholders/card.svg)
 
 ### 3. Salt Bridges or Mush Keep Returning
 
@@ -54,7 +57,8 @@ A salt bridge is a hard crust above the water in the brine tank, and mush is a s
 
 <div class="svc-card">
 
-![Leaks From the Tank, Head or Drain New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Leaks+From+the+Tank%2C+Head+or+Drain+photo+placeholder)
+
+![Leaks From the Tank, Head or Drain New Braunfels TX](/placeholders/card.svg)
 
 ### 4. Leaks From the Tank, Head or Drain
 
@@ -64,7 +68,8 @@ Water pools around the softener or drips from the control head. **Check:** find 
 
 <div class="svc-card">
 
-![Error Codes or No Cycling New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Error+Codes+or+No+Cycling+photo+placeholder)
+
+![Error Codes or No Cycling New Braunfels TX](/placeholders/card.svg)
 
 ### 5. Error Codes or No Cycling
 
@@ -74,7 +79,8 @@ The display shows repeated codes or the unit never starts a regeneration. **Chec
 
 <div class="svc-card">
 
-![Resin Beads in Faucets or Sinks New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Resin+Beads+in+Faucets+or+Sinks+photo+placeholder)
+
+![Resin Beads in Faucets or Sinks New Braunfels TX](/placeholders/card.svg)
 
 ### 6. Resin Beads in Faucets or Sinks
 

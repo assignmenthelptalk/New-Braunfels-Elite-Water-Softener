@@ -11,7 +11,7 @@ openingHtml: "Drinking water system installation in New Braunfels, TX puts a pur
 formHeading: ""
 formIntro: ""
 leadImage: null
-images: [{"file":"drinking-water-systems-new-braunfels-tx.webp","alt":"Drinking water systems New Braunfels TX under sink purification unit","exists":false}]
+images: [{"file":"drinking-water-systems-new-braunfels-tx.webp","alt":"Drinking water systems New Braunfels TX under sink purification unit","exists":false},{"file":"card-under-sink-drinking-water-systems-new-braunfels-tx.webp","alt":"Under Sink Drinking Water Systems New Braunfels TX","exists":false},{"file":"card-countertop-purification-units-new-braunfels-tx.webp","alt":"Countertop Purification Units New Braunfels TX","exists":false},{"file":"card-alkaline-water-systems-new-braunfels-tx.webp","alt":"Alkaline Water Systems New Braunfels TX","exists":false}]
 faq: [{"q":"Is an under-sink system better than a countertop unit?","a":"Under-sink systems filter more water, flow faster and stay out of sight. Countertop units install without plumbing."},{"q":"Does an alkaline water system make water healthier?","a":"It raises pH and changes taste. Evidence for broader health claims is limited."},{"q":"How often do drinking water filters need replacing?","a":"Replacement depends on the system and use, commonly every six to twelve months for cartridges. As a typical schedule, replace pre-filter cartridges every 6 to 12 months and reverse osmosis membranes every 2 to 3 years."},{"q":"Can a bottleless cooler work in a small office?","a":"Yes. It needs a water line and power, and we size the unit to your headcount. New Braunfels Elite Water Softener TX provides drinking water system installation for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---
@@ -24,7 +24,8 @@ Three drinking water systems cover most homes: under sink systems, countertop pu
 
 <div class="svc-card">
 
-![Under Sink Drinking Water Systems New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Under+Sink+Drinking+Water+Systems+photo+placeholder)
+
+![Under Sink Drinking Water Systems New Braunfels TX](/placeholders/card.svg)
 
 ### Under Sink Drinking Water Systems
 
@@ -34,7 +35,8 @@ An under-sink drinking water system installs in the cabinet and delivers filtere
 
 <div class="svc-card">
 
-![Countertop Purification Units New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Countertop+Purification+Units+photo+placeholder)
+
+![Countertop Purification Units New Braunfels TX](/placeholders/card.svg)
 
 ### Countertop Purification Units
 
@@ -44,7 +46,8 @@ A countertop purification unit sits beside the sink and connects to the faucet o
 
 <div class="svc-card">
 
-![Alkaline Water Systems New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Alkaline+Water+Systems+photo+placeholder)
+
+![Alkaline Water Systems New Braunfels TX](/placeholders/card.svg)
 
 ### Alkaline Water Systems
 

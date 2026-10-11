@@ -11,7 +11,7 @@ openingHtml: "Water contaminant removal in New Braunfels, TX installs filters th
 formHeading: ""
 formIntro: ""
 leadImage: null
-images: [{"file":"water-contaminant-removal-new-braunfels-tx.webp","alt":"Water contaminant removal New Braunfels TX filter installation","exists":false}]
+images: [{"file":"water-contaminant-removal-new-braunfels-tx.webp","alt":"Water contaminant removal New Braunfels TX filter installation","exists":false},{"file":"card-lead-and-arsenic-removal-new-braunfels-tx.webp","alt":"Lead and Arsenic Removal New Braunfels TX","exists":false},{"file":"card-chloramine-and-chlorine-removal-new-braunfels-tx.webp","alt":"Chloramine and Chlorine Removal New Braunfels TX","exists":false},{"file":"card-fluoride-filter-installation-new-braunfels-tx.webp","alt":"Fluoride Filter Installation New Braunfels TX","exists":false},{"file":"card-pfas-water-filter-new-braunfels-tx.webp","alt":"PFAS Water Filter New Braunfels TX","exists":false},{"file":"card-nitrate-filter-installation-new-braunfels-tx.webp","alt":"Nitrate Filter Installation New Braunfels TX","exists":false},{"file":"card-voc-volatile-organic-compound-filter-new-braunfels-tx.webp","alt":"VOC (Volatile Organic Compound) Filter New Braunfels TX","exists":false}]
 faq: [{"q":"Does one filter remove every contaminant?","a":"No. Each contaminant needs its own method, and reverse osmosis covers the most. A test tells us which ones you need."},{"q":"Is New Braunfels tap water safe?","a":"City reports list results against EPA limits. For your own tap, a home test checks what the report cannot, such as your plumbing."},{"q":"How do I know a filter really works?","a":"Look for certification to NSF/ANSI standards for the specific contaminant, and retest your water after installation."},{"q":"Can a water softener remove these contaminants?","a":"No. A softener removes hardness. Contaminant removal needs a different filter."},{"q":"What does contaminant removal cost?","a":"It depends on the contaminant. The estimate is free and itemized. New Braunfels Elite Water Softener TX provides water contaminant removal for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---
@@ -24,7 +24,8 @@ Six filter types target specific contaminants: lead and arsenic, chloramine and 
 
 <div class="svc-card">
 
-![Lead and Arsenic Removal New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Lead+and+Arsenic+Removal+photo+placeholder)
+
+![Lead and Arsenic Removal New Braunfels TX](/placeholders/card.svg)
 
 ### Lead and Arsenic Removal
 
@@ -34,7 +35,8 @@ Lead enters drinking water mainly from old plumbing, and the EPA sets its health
 
 <div class="svc-card">
 
-![Chloramine and Chlorine Removal New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Chloramine+and+Chlorine+Removal+photo+placeholder)
+
+![Chloramine and Chlorine Removal New Braunfels TX](/placeholders/card.svg)
 
 ### Chloramine and Chlorine Removal
 
@@ -44,7 +46,8 @@ Chlorine and chloramine are disinfectants that can affect taste and smell. Stand
 
 <div class="svc-card">
 
-![Fluoride Filter Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Fluoride+Filter+Installation+photo+placeholder)
+
+![Fluoride Filter Installation New Braunfels TX](/placeholders/card.svg)
 
 ### Fluoride Filter Installation
 
@@ -54,7 +57,8 @@ Fluoride occurs naturally in some groundwater, and the EPA enforceable limit is 
 
 <div class="svc-card">
 
-![PFAS Water Filter New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=PFAS+Water+Filter+photo+placeholder)
+
+![PFAS Water Filter New Braunfels TX](/placeholders/card.svg)
 
 ### PFAS Water Filter
 
@@ -64,7 +68,8 @@ PFAS are man-made chemicals. In 2024 the EPA set limits of 4 parts per trillion 
 
 <div class="svc-card">
 
-![Nitrate Filter Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Nitrate+Filter+Installation+photo+placeholder)
+
+![Nitrate Filter Installation New Braunfels TX](/placeholders/card.svg)
 
 ### Nitrate Filter Installation
 
@@ -74,7 +79,8 @@ Nitrate comes from fertilizer, septic systems and livestock, and the EPA limit i
 
 <div class="svc-card">
 
-![VOC (Volatile Organic Compound) Filter New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=VOC+%28Volatile+Organic+Compound%29+Filter+photo+placeholder)
+
+![VOC (Volatile Organic Compound) Filter New Braunfels TX](/placeholders/card.svg)
 
 ### VOC (Volatile Organic Compound) Filter
 

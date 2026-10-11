@@ -11,7 +11,7 @@ openingHtml: "Hard water in New Braunfels, TX is water that carries dissolved ca
 formHeading: ""
 formIntro: ""
 leadImage: null
-images: [{"file":"hard-water-new-braunfels-tx.webp","alt":"Hard water scale on a faucet in a New Braunfels TX home water softener needed","exists":false}]
+images: [{"file":"hard-water-new-braunfels-tx.webp","alt":"Hard water scale on a faucet in a New Braunfels TX home water softener needed","exists":false},{"file":"card-what-is-hard-water-new-braunfels-tx.webp","alt":"What Is Hard Water? New Braunfels TX","exists":false},{"file":"card-why-is-new-braunfels-water-hard-new-braunfels-tx.webp","alt":"Why Is New Braunfels Water Hard? New Braunfels TX","exists":false},{"file":"card-how-hard-is-new-braunfels-water-new-braunfels-tx.webp","alt":"How Hard Is New Braunfels Water? New Braunfels TX","exists":false}]
 faq: [{"q":"Is New Braunfels water safe to drink?","a":"NBU's water quality reports list results against federal limits. Hardness is a quality issue, not a health limit, and the reports cover regulated contaminants separately."},{"q":"Does a water softener remove minerals I need?","a":"A softener swaps calcium and magnesium for sodium or potassium. Food supplies most of your minerals, and drinking water is a minor source."},{"q":"Why does my glassware spot even with a rinse aid?","a":"Dissolved minerals dry on glass as white spots. Softened water stops the spotting at the source."},{"q":"Can hard water damage my water heater?","a":"Scale insulates the heating element or tank bottom, which makes the heater work harder and shortens its life. Flushing helps, and softened water prevents most of the buildup."},{"q":"Do homes on well water have harder water?","a":"Often yes, since private wells draw directly from the aquifer. A test shows the hardness and checks for iron and other minerals. New Braunfels Elite Water Softener TX provides water softener installation for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---
@@ -24,7 +24,8 @@ Three questions cover the basics: what hard water is, why New Braunfels water is
 
 <div class="svc-card">
 
-![What Is Hard Water? New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=What+Is+Hard+Water%3F+photo+placeholder)
+
+![What Is Hard Water? New Braunfels TX](/placeholders/card.svg)
 
 ### What Is Hard Water?
 
@@ -34,7 +35,8 @@ Hard water is water with a high concentration of dissolved calcium and magnesium
 
 <div class="svc-card">
 
-![Why Is New Braunfels Water Hard? New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Why+Is+New+Braunfels+Water+Hard%3F+photo+placeholder)
+
+![Why Is New Braunfels Water Hard? New Braunfels TX](/placeholders/card.svg)
 
 ### Why Is New Braunfels Water Hard?
 
@@ -44,7 +46,8 @@ New Braunfels water is hard because most of it comes from underground. According
 
 <div class="svc-card">
 
-![How Hard Is New Braunfels Water? New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=How+Hard+Is+New+Braunfels+Water%3F+photo+placeholder)
+
+![How Hard Is New Braunfels Water? New Braunfels TX](/placeholders/card.svg)
 
 ### How Hard Is New Braunfels Water?
 

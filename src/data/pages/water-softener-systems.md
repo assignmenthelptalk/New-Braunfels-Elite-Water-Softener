@@ -11,7 +11,7 @@ openingHtml: "Water softener systems in New Braunfels, TX remove or control the 
 formHeading: ""
 formIntro: ""
 leadImage: null
-images: [{"file":"water-softener-systems-new-braunfels-tx.webp","alt":"Water softener systems New Braunfels TX salt-based and dual-tank units","exists":false}]
+images: [{"file":"water-softener-systems-new-braunfels-tx.webp","alt":"Water softener systems New Braunfels TX salt-based and dual-tank units","exists":false},{"file":"card-why-new-braunfels-water-needs-a-water-softener-system-new-braunfels-tx.webp","alt":"Why New Braunfels Water Needs a Water Softener System New Braunfels TX","exists":false},{"file":"card-water-softener-installation-new-braunfels-tx.webp","alt":"Water Softener Installation New Braunfels TX","exists":false},{"file":"card-water-softener-replacement-new-braunfels-tx.webp","alt":"Water Softener Replacement New Braunfels TX","exists":false},{"file":"card-salt-free-water-softener-systems-new-braunfels-tx.webp","alt":"Salt-Free Water Softener Systems New Braunfels TX","exists":false},{"file":"card-dual-tank-water-softener-installation-new-braunfels-tx.webp","alt":"Dual Tank Water Softener Installation New Braunfels TX","exists":false},{"file":"card-commercial-water-softener-installation-new-braunfels-tx.webp","alt":"Commercial Water Softener Installation New Braunfels TX","exists":false},{"file":"card-water-softener-maintenance-new-braunfels-tx.webp","alt":"Water Softener Maintenance New Braunfels TX","exists":false},{"file":"card-water-softener-repair-new-braunfels-tx.webp","alt":"Water Softener Repair New Braunfels TX","exists":false},{"file":"card-water-conditioner-installation-new-braunfels-tx.webp","alt":"Water Conditioner Installation New Braunfels TX","exists":false}]
 faq: [{"q":"What is the best water softener system for New Braunfels homes?","a":"The best system matches your household size and your test result. A salt-based softener removes hardness minerals and suits readings above 10.5 grains per gallon, and a dual tank unit suits large households that cannot wait through a regeneration."},{"q":"Can I install a water softener myself in Texas?","a":"A homeowner who installs and maintains their own treatment equipment does not need a licensed installer, according to TCEQ's guideline for water treatment specialists. Anyone who installs a softener for a fee must hold a TCEQ Water Treatment Specialist licence or be licensed by the Texas State Board of Plumbing Examiners."},{"q":"What is the difference between a water softener and a water conditioner?","a":"A softener removes calcium and magnesium through ion exchange, and a conditioner changes how those minerals behave so scale does not stick. The softener lowers the hardness number, and the conditioner leaves it where it is."},{"q":"Does a water softener use electricity?","a":"A softener with an electronic control head uses a small amount of power to run its regeneration schedule, and it needs a nearby outlet. A salt-free conditioner needs no power. New Braunfels Elite Water Softener TX provides water softener systems for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 1
 ---
@@ -24,7 +24,8 @@ This page covers installation, replacement, salt-free systems, dual tank systems
 
 <div class="svc-card">
 
-![Why New Braunfels Water Needs a Water Softener System New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Why+New+Braunfels+Water+Needs+a+Water+Softener+System+photo+placeholder)
+
+![Why New Braunfels Water Needs a Water Softener System New Braunfels TX](/placeholders/card.svg)
 
 ### Why New Braunfels Water Needs a Water Softener System
 
@@ -34,7 +35,8 @@ New Braunfels water tests as very hard, and a softening system treats it where i
 
 <div class="svc-card">
 
-![Water Softener Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Installation+photo+placeholder)
+
+![Water Softener Installation New Braunfels TX](/placeholders/card.svg)
 
 ### Water Softener Installation
 
@@ -44,7 +46,8 @@ New Braunfels water tests as very hard, and a softening system treats it where i
 
 <div class="svc-card">
 
-![Water Softener Replacement New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Replacement+photo+placeholder)
+
+![Water Softener Replacement New Braunfels TX](/placeholders/card.svg)
 
 ### Water Softener Replacement
 
@@ -54,7 +57,8 @@ New Braunfels water tests as very hard, and a softening system treats it where i
 
 <div class="svc-card">
 
-![Salt-Free Water Softener Systems New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Salt-Free+Water+Softener+Systems+photo+placeholder)
+
+![Salt-Free Water Softener Systems New Braunfels TX](/placeholders/card.svg)
 
 ### Salt-Free Water Softener Systems
 
@@ -64,7 +68,8 @@ New Braunfels water tests as very hard, and a softening system treats it where i
 
 <div class="svc-card">
 
-![Dual Tank Water Softener Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Dual+Tank+Water+Softener+Installation+photo+placeholder)
+
+![Dual Tank Water Softener Installation New Braunfels TX](/placeholders/card.svg)
 
 ### Dual Tank Water Softener Installation
 
@@ -74,7 +79,8 @@ New Braunfels water tests as very hard, and a softening system treats it where i
 
 <div class="svc-card">
 
-![Commercial Water Softener Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Commercial+Water+Softener+Installation+photo+placeholder)
+
+![Commercial Water Softener Installation New Braunfels TX](/placeholders/card.svg)
 
 ### Commercial Water Softener Installation
 
@@ -84,7 +90,8 @@ New Braunfels water tests as very hard, and a softening system treats it where i
 
 <div class="svc-card">
 
-![Water Softener Maintenance New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Maintenance+photo+placeholder)
+
+![Water Softener Maintenance New Braunfels TX](/placeholders/card.svg)
 
 ### Water Softener Maintenance
 
@@ -94,7 +101,8 @@ New Braunfels water tests as very hard, and a softening system treats it where i
 
 <div class="svc-card">
 
-![Water Softener Repair New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Repair+photo+placeholder)
+
+![Water Softener Repair New Braunfels TX](/placeholders/card.svg)
 
 ### Water Softener Repair
 
@@ -104,7 +112,8 @@ New Braunfels water tests as very hard, and a softening system treats it where i
 
 <div class="svc-card">
 
-![Water Conditioner Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Conditioner+Installation+photo+placeholder)
+
+![Water Conditioner Installation New Braunfels TX](/placeholders/card.svg)
 
 ### Water Conditioner Installation
 

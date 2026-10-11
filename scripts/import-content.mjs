@@ -235,6 +235,9 @@ for (const file of files) {
   // src/assets/images yet (the code-built diagrams) is skipped and reported.
   const images = [];
   let leadImage = null;
+  // Card images: when the real image file exists, the card's placeholder image is dropped so only the photo shows.
+  body = body.replace(/(<!--\s*image:\s*([^|]+?)\s*\|[^>]*?-->)\s*\n!\[[^\]]*\]\((?:https:\/\/placehold\.co[^)]*|\/placeholders\/[^)]*)\)/g, (m, comment, file) =>
+    fs.existsSync(path.join(IMAGE_DIR, file.trim())) ? comment : m);
   body = body.replace(/<!--\s*image:\s*([^|]+)\|\s*alt:\s*([\s\S]*?)-->/g, (_, f, a) => {
     const file = f.trim();
     const alt = a.trim().replace(/\s+/g, " ").replace(/[\[\]]/g, "");
