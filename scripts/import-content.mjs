@@ -252,7 +252,7 @@ for (const file of files) {
   if (isHome) {
     body = body.replace(/^\[Get a Free Estimate\]\(#estimate\)\s*/m, "");
     // lift the lead-form section out; the template renders the real form
-    const formSection = body.match(/^## (Get Your Free [^\n]*Estimate[^\n]*)\n+([^\n]+)\n[\s\S]*?(?=^## )/m);
+    const formSection = body.match(/^## (Get Your Free [^\n]*Estimate[^\n]*)\n+([^\n]+)\n[\s\S]*?(?=^## |^<div)/m);
     if (formSection) {
       formHeading = formSection[1].trim();
       formIntro = formSection[2].trim();

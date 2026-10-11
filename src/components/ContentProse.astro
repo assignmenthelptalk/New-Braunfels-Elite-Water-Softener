@@ -175,6 +175,41 @@
   @media (max-width: 900px) { .prose :global(.issues-split) { grid-template-columns: 1fr; gap: 1.5rem; } .prose :global(.issues-photo) { position: static; } }
   @media (max-width: 600px) { .prose :global(.issues-grid) { grid-template-columns: 1fr; } }
 
+  /* Homepage "why us" block: photo on the left; heading (not a band), bullets and a button on the right */
+  .prose :global(.why-split) {
+    display: grid;
+    grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+    gap: 3rem;
+    align-items: center;
+    width: min(1100px, calc(100vw - 2rem));
+    margin: 2rem 0 2rem 50%;
+    transform: translateX(-50%);
+  }
+  .prose :global(.why-photo > p) { margin: 0; }
+  .prose :global(.why-photo img) { margin: 0; aspect-ratio: 4 / 5; object-fit: cover; }
+  .prose :global(.why-text h2) {
+    text-align: left;
+    max-width: none;
+    margin: 0 0 1rem;
+    padding: 0;
+    border-top: 0;
+    font-size: clamp(1.6rem, 2.6vw, 2.2rem);
+  }
+  .prose :global(.why-text ul) { margin: 0 0 1.4rem; }
+  .prose :global(.why-text li) { font-size: 0.98rem; margin-bottom: 0.5em; line-height: 1.6; }
+  .prose :global(.why-text p:last-child) { margin: 0; }
+  .prose :global(.why-text p:last-child a) {
+    display: inline-block;
+    background: var(--color-accent);
+    color: #fff;
+    padding: 0.85rem 1.7rem;
+    border-radius: var(--radius-brand);
+    font-weight: 700;
+    text-decoration: none;
+  }
+  .prose :global(.why-text p:last-child a:hover) { background: var(--color-accent-dark); color: #fff; }
+  @media (max-width: 800px) { .prose :global(.why-split) { grid-template-columns: 1fr; gap: 1.5rem; } }
+
   @media (max-width: 640px) {
     .prose { font-size: 1rem; }
     .prose :global(h2) { max-width: none; }

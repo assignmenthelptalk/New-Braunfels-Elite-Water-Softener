@@ -16,7 +16,18 @@ faq: [{"q":"How hard is New Braunfels water?","a":"New Braunfels water is hard. 
 markerCount: 1
 ---
 
-## What Makes a Good Water Softener Company in New Braunfels, TX?
+<div class="why-split">
+
+<div class="why-photo">
+
+
+![Installed water softener system New Braunfels TX garage](https://placehold.co/660x825/1A3C5E/FFFFFF.png?text=Installed+softener+photo+placeholder)
+
+</div>
+
+<div class="why-text">
+
+## Why Are We the Best Water Softener Installation Company in New Braunfels, TX?
 
 Homeowners choose a water softener company on five things: who does the work, how the system is backed, how fast help arrives, whether the installer knows local water, and what the estimate includes. Use these six checks with any company, this one included.
 
@@ -27,7 +38,11 @@ Homeowners choose a water softener company on five things: who does the work, ho
 - **Scheduling:** Ask how quickly the installer can fit your job in. Same-day service depends on technician availability.
 - **Itemized estimate:** The estimate lists the unit, the plumbing work and the labor, so you see what is included before work starts.
 
+[Request Your Free Estimate](#estimate)
 
+</div>
+
+</div>
 
 
 ## What Water Softener Services Are Available in New Braunfels, TX?

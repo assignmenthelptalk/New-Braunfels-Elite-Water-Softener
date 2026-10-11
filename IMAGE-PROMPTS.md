@@ -37,12 +37,12 @@ A wide shot of a technician seen from behind, kneeling beside a generic, unbrand
 ```
 
 ### `installed-softener-new-braunfels-tx`
-- **Size:** 3:2 (export about 1200x800)
+- **Size:** 4:5 (export about 960x1200)
 - **Used on:** /
 - **Alt text (from the page copy):** Installed water softener system New Braunfels TX garage
 
 ```
-A generic, unbranded residential water softener: a tall slim navy-blue resin tank beside a squat gray brine tank with a closed lid, a digital control head on top, copper and white PEX pipe connections, freshly installed against the wall of a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. A water heater and copper supply lines are visible behind it. Soft light from a garage window. The softener is the clear subject, centered, with breathing room around it. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A generic, unbranded residential water softener: a tall slim navy-blue resin tank beside a squat gray brine tank with a closed lid, a digital control head on top, copper and white PEX pipe connections, freshly installed against the wall of a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. A water heater and copper supply lines are visible behind it. Soft light from a garage window. The softener is the clear subject, centered, with breathing room around it. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 4:5.
 ```
 
 ### `hard-water-buildup-new-braunfels-tx`
