@@ -109,6 +109,20 @@
     font-weight: 600;
   }
 
+  /* Every section heading is a full-width navy band. The box-shadow and clip-path paint the band edge to
+     edge without extra markup or a 100vw width, so there is no horizontal scroll. */
+  .prose > :global(h2),
+  .prose > :global(h2:first-child) {
+    background: var(--color-primary);
+    color: #fff;
+    text-align: center;
+    max-width: none;
+    border-top: 0;
+    padding: 2rem 1rem;
+    margin: 3rem 0 2rem;
+    box-shadow: 0 0 0 100vmax var(--color-primary);
+    clip-path: inset(0 -100vmax);
+  }
   /* Homepage services: a 3-column card grid that breaks out of the 780px text column */
   .prose :global(.svc-grid) {
     display: grid;
