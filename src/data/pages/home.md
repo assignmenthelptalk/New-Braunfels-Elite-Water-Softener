@@ -103,11 +103,71 @@ Dual tank and commercial water softeners, water conditioners, reverse osmosis an
 
 ## Why Is New Braunfels Water So Hard?
 
-New Braunfels water is hard because of where it comes from. According to New Braunfels Utilities' 2025 water quality report, NBU has 54,575 acre-feet of water available, and the majority is treated at the Gruene Road Surface Water Treatment Plant from the Guadalupe River. NBU also uses groundwater from the Edwards Aquifer and the Trinity Aquifer, and has agreements to buy water from Green Valley Special Utility District and the Guadalupe-Blanco River Authority as needed. Groundwater that has moved through limestone picks up dissolved calcium and magnesium, and those two minerals define hardness.
+New Braunfels water is hard because of where it comes from.
 
-Hardness is measured in milligrams per liter (mg/L) or grains per gallon (gpg), where 1 gpg equals about 17.1 mg/L. The U.S. Geological Survey rates water under 60 mg/L as soft, 61 to 120 mg/L as moderately hard, 121 to 180 mg/L as hard and anything over 180 mg/L as very hard, and the Water Quality Association calls anything over 10.5 gpg very hard. NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, with a range of 8.1 to 19.5 grains per gallon, which places the average in the very hard range. A 2023 peer-reviewed study in the journal Groundwater (Simbo) reports calcium and magnesium for ten samples of NBU system water taken in 2020 and 2021, and those values calculate to 13.2 to 15.9 grains per gallon, which agrees with the 2018 figure. <mark class="data-gap">[VERIFY: NBU's current average hardness; its 2019 to 2025 reports do not list hardness]</mark>
+<div class="svc-grid">
 
-NBU reports a total chlorine residual that averaged 2.58 ppm in 2025, against a limit of 4 ppm, and rates its water Superior with the Texas Commission on Environmental Quality. NBU's 2025 report lists no violations, and hardness itself is a household problem: scale narrows pipes, coats heating elements and spots glass. A free water test shows the exact reading at your tap, because the supply blend and home plumbing both move the number.
+<div class="svc-card">
+
+![Where Does New Braunfels Water Come From? New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Where+Does+New+Braunfels+Water+Come+From%3F+photo+placeholder)
+
+### Where Does New Braunfels Water Come From?
+
+According to New Braunfels Utilities' 2025 water quality report, NBU has 54,575 acre-feet of water available, and the majority is treated at the Gruene Road Surface Water Treatment Plant from the Guadalupe River. NBU also uses groundwater from the Edwards Aquifer and the Trinity Aquifer, and has agreements to buy water from Green Valley Special Utility District and the Guadalupe-Blanco River Authority as needed.
+
+</div>
+
+<div class="svc-card">
+
+![Why Does Limestone Make Water Hard? New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Why+Does+Limestone+Make+Water+Hard%3F+photo+placeholder)
+
+### Why Does Limestone Make Water Hard?
+
+Groundwater that has moved through limestone picks up dissolved calcium and magnesium, and those two minerals define hardness.
+
+</div>
+
+<div class="svc-card">
+
+![How Is Water Hardness Measured? New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=How+Is+Water+Hardness+Measured%3F+photo+placeholder)
+
+### How Is Water Hardness Measured?
+
+Hardness is measured in milligrams per liter (mg/L) or grains per gallon (gpg), where 1 gpg equals about 17.1 mg/L. The U.S. Geological Survey rates water under 60 mg/L as soft, 61 to 120 mg/L as moderately hard, 121 to 180 mg/L as hard and anything over 180 mg/L as very hard, and the Water Quality Association calls anything over 10.5 gpg very hard.
+
+</div>
+
+<div class="svc-card">
+
+![How Hard Is New Braunfels Water? New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=How+Hard+Is+New+Braunfels+Water%3F+photo+placeholder)
+
+### How Hard Is New Braunfels Water?
+
+NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, with a range of 8.1 to 19.5 grains per gallon, which places the average in the very hard range. A 2023 peer-reviewed study in the journal Groundwater (Simbo) reports calcium and magnesium for ten samples of NBU system water taken in 2020 and 2021, and those values calculate to 13.2 to 15.9 grains per gallon, which agrees with the 2018 figure. <mark class="data-gap">[VERIFY: NBU's current average hardness; its 2019 to 2025 reports do not list hardness]</mark>
+
+</div>
+
+<div class="svc-card">
+
+![What Does NBU's Water Quality Report Show? New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=What+Does+NBU's+Water+Quality+Report+Show%3F+photo+placeholder)
+
+### What Does NBU's Water Quality Report Show?
+
+NBU reports a total chlorine residual that averaged 2.58 ppm in 2025, against a limit of 4 ppm, and rates its water Superior with the Texas Commission on Environmental Quality. NBU's 2025 report lists no violations, and hardness itself is a household problem: scale narrows pipes, coats heating elements and spots glass.
+
+</div>
+
+<div class="svc-card">
+
+![How Do You Find Your Exact Hardness? New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=How+Do+You+Find+Your+Exact+Hardness%3F+photo+placeholder)
+
+### How Do You Find Your Exact Hardness?
+
+A free water test shows the exact reading at your tap, because the supply blend and home plumbing both move the number.
+
+</div>
+
+</div>
 
 
 
