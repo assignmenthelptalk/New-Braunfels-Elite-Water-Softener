@@ -11,7 +11,7 @@ openingHtml: "Water softener installation in New Braunfels, TX connects a soften
 formHeading: ""
 formIntro: ""
 leadImage: null
-images: [{"file":"water-softener-installation-new-braunfels-tx.webp","alt":"Water softener installation New Braunfels TX technician connecting a softener","exists":false},{"file":"water-softener-process-new-braunfels-tx.webp","alt":"Water softener installation New Braunfels TX process diagram","exists":false}]
+images: [{"file":"water-softener-installation-new-braunfels-tx.webp","alt":"Water softener installation New Braunfels TX technician connecting a softener","exists":false},{"file":"water-softener-process-new-braunfels-tx.webp","alt":"Water softener installation New Braunfels TX process diagram","exists":true}]
 faq: [{"q":"How long does water softener installation take in New Braunfels?","a":"Most installations finish in a single visit. Most standard installs take about 2 to 4 hours. The technician confirms the schedule at your estimate, based on plumbing access, drain location and system type."},{"q":"Do I need a permit to install a water softener in New Braunfels?","a":"Permit rules depend on the plumbing work involved. Ask whether the City of New Braunfels requires a permit for your job. We confirm what applies to your address before the install."},{"q":"Can you install a water softener on a private well?","a":"Yes. Well installations go after the pressure tank, and a water test first checks for iron, sulfur and sediment that need their own filters. Treating those first protects the resin in the softener."},{"q":"Where in my house does the softener go?","a":"The unit goes on the main water line, usually in a garage, utility room or by the water heater, near a drain and an electrical outlet. Outdoor spigots can stay on unsoftened water through a loop if you prefer."},{"q":"Is a bypass valve necessary?","a":"A bypass valve is standard on every installation we do. It lets you isolate the softener for service while the rest of the house keeps water. New Braunfels Elite Water Softener TX provides water softener installation for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---
@@ -51,6 +51,10 @@ A pressure regulator keeps household water pressure within the range your soften
 2. **Water testing and recommendation.** A technician tests hardness, checks pressure and the install location, and gives an itemized, written price.
 3. **Professional installation.** The unit is set, plumbed with a bypass valve, drained with an air gap and programmed, then tested at every tap. A standard install typically takes about 2 to 4 hours.
 4. **Ongoing support.** We show you how to add salt and read the control head, and we stay available for service.
+
+
+
+![Water softener installation New Braunfels TX process diagram](../../assets/images/water-softener-process-new-braunfels-tx.webp)
 
 
 

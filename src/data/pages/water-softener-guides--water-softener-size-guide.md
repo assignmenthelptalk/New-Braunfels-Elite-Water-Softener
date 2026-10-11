@@ -10,8 +10,8 @@ crumb: "Water Softener Size Guide"
 openingHtml: "The right size water softener matches your household's daily hardness load, measured in grains, and regenerates every three to seven days. A unit that is too small regenerates constantly and lets hard water through, and one that is too large wastes salt and money. This guide shows the formula, a worked example for New Braunfels water and the common sizes, so you can talk to a water softener New Braunfels TX installer with real numbers."
 formHeading: ""
 formIntro: ""
-leadImage: null
-images: [{"file":"water-softener-size-guide-new-braunfels-tx.webp","alt":"Water softener size guide New Braunfels TX grain capacity chart","exists":false}]
+leadImage: {"file":"water-softener-size-guide-new-braunfels-tx.webp","alt":"Water softener size guide New Braunfels TX grain capacity chart"}
+images: [{"file":"water-softener-size-guide-new-braunfels-tx.webp","alt":"Water softener size guide New Braunfels TX grain capacity chart","exists":true}]
 faq: [{"q":"Is bigger always better for a water softener?","a":"No. An oversized unit costs more and regenerates less often, which can leave resin idle. Aim for a regeneration every three to seven days."},{"q":"How often does a softener regenerate?","a":"Most households do best with a regeneration every three to seven days. Newer control heads regenerate by actual use."},{"q":"Does the number of bathrooms matter?","a":"Bathrooms matter through people and usage. Count people and heavy water use rather than rooms."},{"q":"What if my family grows or I add a pool?","a":"Re-run the formula. A larger load calls for the next size up or a dual tank system. New Braunfels Elite Water Softener TX provides water softener installation for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---
