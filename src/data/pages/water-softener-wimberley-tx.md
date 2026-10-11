@@ -12,13 +12,13 @@ formHeading: ""
 formIntro: ""
 leadImage: null
 images: [{"file":"water-softener-wimberley-tx.webp","alt":"Water softener Wimberley TX home installation","exists":false}]
-faq: [{"q":"Where does Wimberley's water come from?","a":"Wimberley Water Supply Corporation draws groundwater from the Trinity Aquifer in Hays County. Smaller utilities and private wells supply some homes outside its system."},{"q":"How do I find out how hard my Wimberley water is?","a":"A free water test at your tap gives the exact hardness in grains per gallon. The utility's report on file lists no hardness figure, so a test is the reliable way to size a softener."},{"q":"Does Wimberley city water need a softener?","a":"Groundwater from limestone carries calcium and magnesium, and a test shows whether your reading is above the 10.5 grains per gallon that the Water Quality Association calls very hard. If it is, a softener protects pipes, appliances and fixtures. New Braunfels Elite Water Softener TX provides water softener installation and service in Wimberley, TX and serves homes and businesses across Comal County."}]
+faq: [{"q":"Where does Wimberley's water come from?","a":"Wimberley Water Supply Corporation draws groundwater from the Trinity Aquifer in Hays County. Smaller utilities and private wells supply some homes outside its system."},{"q":"How do I find out how hard my Wimberley water is?","a":"A free water test at your tap gives the exact hardness in grains per gallon. The utility's 2025 report lists no hardness figure, so a test is the reliable way to size a softener."},{"q":"Does Wimberley city water need a softener?","a":"Groundwater from limestone carries calcium and magnesium, and a test shows whether your reading is above the 10.5 grains per gallon that the Water Quality Association calls very hard. If it is, a softener protects pipes, appliances and fixtures. New Braunfels Elite Water Softener TX provides water softener installation and service in Wimberley, TX and serves homes and businesses across Comal County."}]
 markerCount: 1
 ---
 
 ## Why Wimberley Residents Need a Water Softener
 
-Wimberley's public water is groundwater, and groundwater carries more dissolved minerals than surface water. Wimberley Water Supply Corporation (TX1050018) states in its water quality report that its source is groundwater from the Trinity Aquifer in Hays County. <mark class="data-gap">[VERIFY: Wimberley WSC's current average hardness; the report on file is the 2018 edition and lists no hardness figure]</mark>
+Wimberley's public water is groundwater, and groundwater carries more dissolved minerals than surface water. Wimberley WSC (TX1050018) states in its 2025 water quality report that it provides groundwater from the Trinity Aquifer in Hays County. <mark class="data-gap">[NEEDS DATA: Wimberley WSC's average hardness; the 2025 report lists no hardness figure, so confirm with the utility]</mark>
 
 Water that has moved through limestone picks up calcium and magnesium, and those two minerals define hardness. If a test at your tap reads above 180 mg/L, which the U.S. Geological Survey rates as very hard, a 48,000-grain salt-based softener suits a household of four. A free test gives the exact reading for your address.
 
@@ -32,7 +32,7 @@ Water that has moved through limestone picks up calcium and magnesium, and those
 
 ## About Wimberley Water Quality
 
-Wimberley Water Supply Corporation serves about 5,334 people, and its report lists free chlorine as the disinfectant, with a 2018 average of 0.98 ppm against a limit of 4 ppm. Smaller systems such as Cedar Oak Mesa WSC and Skyline Ranch Estates WSC serve nearby subdivisions, so check your water bill to see which utility supplies your address.
+Wimberley Water Supply Corporation serves about 5,334 people, and its 2025 report lists free chlorine as the disinfectant, with a 2025 average of 1.05 ppm against a limit of 4 ppm. The report records one paperwork violation, a late lead consumer notice between 12/30/2024 and 2/4/2025, and no contaminant above its legal limit. Smaller systems such as Cedar Oak Mesa WSC and Skyline Ranch Estates WSC serve nearby subdivisions, so check your water bill to see which utility supplies your address.
 
 Homes on private wells are not covered by any utility report. A well owner tests for bacteria every year and for hardness, nitrate and other substances as local conditions call for.
 
@@ -49,7 +49,7 @@ We serve New Braunfels, Canyon Lake, Seguin, San Marcos, Bulverde and Spring Bra
 Wimberley Water Supply Corporation draws groundwater from the Trinity Aquifer in Hays County. Smaller utilities and private wells supply some homes outside its system.
 
 **How do I find out how hard my Wimberley water is?**
-A free water test at your tap gives the exact hardness in grains per gallon. The utility's report on file lists no hardness figure, so a test is the reliable way to size a softener.
+A free water test at your tap gives the exact hardness in grains per gallon. The utility's 2025 report lists no hardness figure, so a test is the reliable way to size a softener.
 
 **Does Wimberley city water need a softener?**
 Groundwater from limestone carries calcium and magnesium, and a test shows whether your reading is above the 10.5 grains per gallon that the Water Quality Association calls very hard. If it is, a softener protects pipes, appliances and fixtures.
