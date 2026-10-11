@@ -109,6 +109,22 @@
     font-weight: 600;
   }
 
+  /* Homepage services: a 3-column card grid that breaks out of the 780px text column */
+  .prose :global(.svc-grid) {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2.2rem 2rem;
+    width: min(1100px, calc(100vw - 2rem));
+    margin: 1.8rem 0 1.8rem 50%;
+    transform: translateX(-50%);
+  }
+  .prose :global(.svc-card > p:first-child) { margin: 0 0 1rem; }
+  .prose :global(.svc-card img) { margin: 0; aspect-ratio: 3 / 2; object-fit: cover; box-shadow: none; }
+  .prose :global(.svc-card h3) { margin: 0 0 0.5rem; font-size: 1.2rem; }
+  .prose :global(.svc-card p) { font-size: 0.97rem; line-height: 1.65; margin: 0; }
+  @media (max-width: 900px) { .prose :global(.svc-grid) { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 600px) { .prose :global(.svc-grid) { grid-template-columns: 1fr; } }
+
   @media (max-width: 640px) {
     .prose { font-size: 1rem; }
     .prose :global(h2) { max-width: none; }

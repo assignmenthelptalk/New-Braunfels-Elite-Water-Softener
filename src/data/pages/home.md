@@ -34,23 +34,69 @@ Homeowners choose a water softener company on five things: who does the work, ho
 
 New Braunfels Elite Water Softener covers six core services, from first installation to long-term maintenance, and adds specialty systems for larger homes, businesses and wells.
 
+<div class="svc-grid">
+
+<div class="svc-card">
+
+![Water softener installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Installation+photo+placeholder)
+
 ### Water Softener Installation
+
 Installation connects a new softener to your home's main water line so every faucet, shower and appliance receives softened water. The unit is sized to your household and water use, fitted with a bypass valve, connected to a drain and brine line, programmed and tested at every tap before the technician leaves.
 
+</div>
+
+<div class="svc-card">
+
+![Water softener replacement New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Replacement+photo+placeholder)
+
 ### Water Softener Replacement
+
 Replacement removes an old or failing softener and installs a new, correctly sized unit on the existing plumbing. It covers full system replacement, resin bed replacement and upgrades for systems that no longer soften, leak, or cost more to repair than they are worth.
 
+</div>
+
+<div class="svc-card">
+
+![Salt-free water softener system New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Salt-Free+Water+Softener+Systems+photo+placeholder)
+
 ### Salt-Free Water Softener Systems
+
 A salt-free system conditions hard water so scale no longer clings to pipes and fixtures. It does not remove calcium and magnesium, needs no salt and no drain line, and fits homeowners who want lower maintenance over full softening.
 
+</div>
+
+<div class="svc-card">
+
+![Water softener repair and service New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Repair+%26+Service+photo+placeholder)
+
 ### Water Softener Repair & Service
+
 Repair and service restores softeners that stop regenerating, leave hard water, run out of salt too fast or leak at the control head. Routine service includes resin and brine tank checks, cleaning, salt refills and valve testing.
 
+</div>
+
+<div class="svc-card">
+
+![Whole house water filtration New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Whole+House+Water+Filtration+photo+placeholder)
+
 ### Whole House Water Filtration
+
 Whole house filtration treats water where it enters the home, reducing chlorine taste and sediment before it reaches every tap. It pairs with a softener because filtration and softening solve different problems.
 
+</div>
+
+<div class="svc-card">
+
+![Water quality testing New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Quality+Testing+photo+placeholder)
+
 ### Water Quality Testing
+
 A water quality test measures hardness, iron, pH, total dissolved solids and other values that decide which system fits. It is the first step of every recommendation.
+
+</div>
+
+</div>
 
 Dual tank and commercial water softeners, water conditioners, reverse osmosis and UV purification, drinking water systems, well water treatment and contaminant removal filters are also available.
 
