@@ -109,6 +109,21 @@
     font-weight: 600;
   }
 
+  /* Full-width navy band behind a section heading */
+  .prose :global(.svc-band) {
+    width: 100vw;
+    margin: 3rem 0 2rem calc(50% - 50vw);
+    padding: 2.2rem 1rem;
+    background: var(--color-primary);
+    text-align: center;
+  }
+  .prose :global(.svc-band h2) {
+    margin: 0 auto;
+    padding: 0;
+    border-top: 0;
+    max-width: none;
+    color: #fff;
+  }
   /* Homepage services: a 3-column card grid that breaks out of the 780px text column */
   .prose :global(.svc-grid) {
     display: grid;
