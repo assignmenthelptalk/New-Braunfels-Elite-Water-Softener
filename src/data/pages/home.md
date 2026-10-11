@@ -10,8 +10,8 @@ crumb: "New Braunfels Elite Water Softener - Premier Water Softener Installation
 openingHtml: "Most of New Braunfels' drinking water comes from the Guadalupe River, treated at the Gruene Road Surface Water Treatment Plant, with Edwards Aquifer and Trinity Aquifer groundwater added, and the minerals in that blend leave scale on pipes, fixtures and appliances. New Braunfels Elite Water Softener installs, replaces and services water softener systems for homeowners in New Braunfels, Canyon Lake, Seguin, San Marcos, Wimberley, Bulverde and Spring Branch. Request a free estimate and get a system sized to your household and your water."
 formHeading: "Get Your Free Water Softener Estimate in New Braunfels, TX"
 formIntro: "A free estimate covers your home's water use, the right system size and a clear installed price. Fill in the form and we will contact you within 24 hours."
-leadImage: null
-images: [{"file":"hero-water-softener-new-braunfels-tx.webp","alt":"Technician installing a water softener New Braunfels TX home","exists":false},{"file":"installed-softener-new-braunfels-tx.webp","alt":"Installed water softener system New Braunfels TX garage","exists":false},{"file":"card-water-softener-installation-new-braunfels-tx.webp","alt":"Water softener installation New Braunfels TX","exists":false},{"file":"card-water-softener-replacement-new-braunfels-tx.webp","alt":"Water softener replacement New Braunfels TX","exists":false},{"file":"card-salt-free-water-softener-systems-new-braunfels-tx.webp","alt":"Salt-free water softener system New Braunfels TX","exists":false},{"file":"card-water-softener-repair-and-service-new-braunfels-tx.webp","alt":"Water softener repair and service New Braunfels TX","exists":false},{"file":"card-whole-house-water-filtration-new-braunfels-tx.webp","alt":"Whole house water filtration New Braunfels TX","exists":false},{"file":"card-water-quality-testing-new-braunfels-tx.webp","alt":"Water quality testing New Braunfels TX","exists":false},{"file":"hard-water-buildup-new-braunfels-tx.webp","alt":"Hard water scale buildup on a faucet water softener New Braunfels TX","exists":false},{"file":"water-softener-installation-steps-new-braunfels-tx.webp","alt":"Technician installing a water softener in a New Braunfels TX home","exists":false}]
+leadImage: {"file":"hero-water-softener-new-braunfels-tx.webp","alt":"Technician installing a water softener New Braunfels TX home"}
+images: [{"file":"hero-water-softener-new-braunfels-tx.webp","alt":"Technician installing a water softener New Braunfels TX home","exists":true},{"file":"installed-softener-new-braunfels-tx.webp","alt":"Installed water softener system New Braunfels TX garage","exists":true},{"file":"card-water-softener-installation-new-braunfels-tx.webp","alt":"Water softener installation New Braunfels TX","exists":false},{"file":"card-water-softener-replacement-new-braunfels-tx.webp","alt":"Water softener replacement New Braunfels TX","exists":false},{"file":"card-salt-free-water-softener-systems-new-braunfels-tx.webp","alt":"Salt-free water softener system New Braunfels TX","exists":false},{"file":"card-water-softener-repair-and-service-new-braunfels-tx.webp","alt":"Water softener repair and service New Braunfels TX","exists":false},{"file":"card-whole-house-water-filtration-new-braunfels-tx.webp","alt":"Whole house water filtration New Braunfels TX","exists":false},{"file":"card-water-quality-testing-new-braunfels-tx.webp","alt":"Water quality testing New Braunfels TX","exists":false},{"file":"hard-water-buildup-new-braunfels-tx.webp","alt":"Hard water scale buildup on a faucet water softener New Braunfels TX","exists":true},{"file":"water-softener-installation-steps-new-braunfels-tx.webp","alt":"Technician installing a water softener in a New Braunfels TX home","exists":true}]
 faq: [{"q":"How hard is New Braunfels water?","a":"New Braunfels water is hard. NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, classified as very hard by the Water Quality Association, with a range of 8.1 to 19.5 grains per gallon. Hardness differs by supply mix and over time, so a free test at your tap gives the number that matters for sizing."},{"q":"How much does water softener installation cost in New Braunfels, TX?","a":"Installed price depends on system capacity, system type, plumbing layout and whether a drain line already exists. The free estimate gives an itemized price for your home before any work begins."},{"q":"What is the best water softener for New Braunfels water?","a":"The best system matches your household size and your test results. A salt-based softener removes hardness minerals and suits readings above 10.5 gpg, and the technician sizes its capacity to your daily water use. Salt-free systems suit homeowners who prioritize low maintenance."},{"q":"Salt vs. salt-free water softener: what is the difference?","a":"A salt-based softener removes calcium and magnesium through ion exchange and needs salt refills and a drain. A salt-free system conditions the water so scale does not stick, adds no sodium, and leaves the minerals in the water. Salt-based units deliver true softening, while salt-free units reduce scale."},{"q":"How long does water softener installation take?","a":"Most installations finish in a single visit, typically in about 2 to 4 hours. The technician confirms the timeline at your estimate, based on plumbing access and system type."},{"q":"Do I need a water softener with city water or well water in New Braunfels?","a":"Both benefit. City water from NBU blends Guadalupe River surface water with Edwards Aquifer and Trinity Aquifer groundwater, and it still arrives hard. Private well water draws directly from an aquifer and can be harder and carry iron or other minerals. Nobody tests a private well for you, so a test shows whether a softener alone is enough."},{"q":"How often does a water softener need maintenance?","a":"Check the salt level monthly and refill when it drops below one-third full. Have a technician service the system once a year to inspect the resin bed, brine tank and valve."},{"q":"What areas do you serve?","a":"We serve New Braunfels, Canyon Lake, Seguin, San Marcos, Wimberley, Bulverde, Spring Branch, Gruene, Vintage Oaks, Veramendi, Creekside and River Chase."}]
 markerCount: 1
 ---
@@ -21,7 +21,10 @@ markerCount: 1
 <div class="why-photo">
 
 
-![Installed water softener system New Braunfels TX garage](/placeholders/tall.svg)
+
+![Installed water softener system New Braunfels TX garage](../../assets/images/installed-softener-new-braunfels-tx.webp)
+
+
 
 </div>
 
@@ -131,7 +134,10 @@ New Braunfels water is hard because of where it comes from.
 <div class="issues-photo">
 
 
-![Hard water scale buildup on a faucet water softener New Braunfels TX](/placeholders/tall.svg)
+
+![Hard water scale buildup on a faucet water softener New Braunfels TX](../../assets/images/hard-water-buildup-new-braunfels-tx.webp)
+
+
 
 </div>
 
@@ -199,7 +205,10 @@ Every installation follows the same four steps, from the first call to the follo
 <div class="steps-photo">
 
 
-![Technician installing a water softener in a New Braunfels TX home](/placeholders/tall.svg)
+
+![Technician installing a water softener in a New Braunfels TX home](../../assets/images/water-softener-installation-steps-new-braunfels-tx.webp)
+
+
 
 </div>
 

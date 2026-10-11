@@ -10,8 +10,8 @@ crumb: "Commercial Water Softener Installation"
 openingHtml: "A commercial water softener in New Braunfels, TX protects a business's boilers, dishwashers, ice machines and plumbing from the scale that New Braunfels' hard water leaves behind. <a href=\"/\">New Braunfels Elite Water Softener</a> sizes, installs and services commercial systems from peak flow rate, not household size. Request a free commercial estimate and a technician will review your equipment and water use."
 formHeading: ""
 formIntro: ""
-leadImage: null
-images: [{"file":"commercial-water-softener-new-braunfels-tx.webp","alt":"Commercial water softener New Braunfels TX high-flow system in a mechanical room","exists":false}]
+leadImage: {"file":"commercial-water-softener-new-braunfels-tx.webp","alt":"Commercial water softener New Braunfels TX high-flow system in a mechanical room"}
+images: [{"file":"commercial-water-softener-new-braunfels-tx.webp","alt":"Commercial water softener New Braunfels TX high-flow system in a mechanical room","exists":true}]
 faq: [{"q":"How do you size a commercial water softener?","a":"We size it from peak flow rate and daily water use, plus the hardness of your water. Household size does not apply."},{"q":"Can installation happen without shutting down my business?","a":"Most installs need a short water shutoff. We schedule around your busiest hours to limit downtime."},{"q":"What equipment does a commercial softener protect?","a":"It protects boilers, water heaters, dishwashers, ice machines, steamers and plumbing from scale buildup."},{"q":"Do you offer service contracts?","a":"Ask whether service is offered by contract or per visit. The proposal states what is included."},{"q":"Does a commercial system need filtration too?","a":"Often yes. Sediment and chlorine can harm resin and equipment, and a test shows what your water carries. New Braunfels Elite Water Softener TX provides commercial water softener installation for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---
