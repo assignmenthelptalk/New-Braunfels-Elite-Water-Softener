@@ -47,23 +47,43 @@ If hard water breaks through during regeneration, or your household often runs s
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**How does a dual tank water softener differ from a single tank?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>How does a dual tank water softener differ from a single tank?</summary>
+
 A dual tank unit has two resin tanks that alternate, so softened water is continuous. A single tank pauses softening while it regenerates.
 
-**Do dual tank softeners use more salt?**
+</details>
+
+<details class="faq-item">
+<summary>Do dual tank softeners use more salt?</summary>
+
 Not necessarily. Most dual tank systems regenerate by demand, so salt use follows actual water use rather than a fixed schedule.
 
-**How much space does a dual tank system need?**
+</details>
+
+<details class="faq-item">
+<summary>How much space does a dual tank system need?</summary>
+
 It needs more floor area than one tank. We measure your utility room or garage before we recommend it. A dual-tank system typically needs roughly 4 square feet of floor space, about 24 inches wide by 24 inches deep, so check your unit's spec sheet.
 
-**Can a dual tank system serve a small business?**
+</details>
+
+<details class="faq-item">
+<summary>Can a dual tank system serve a small business?</summary>
+
 Yes. It suits businesses that cannot tolerate hard water at any hour, and it is sized from peak flow.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides dual tank water softener installation for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

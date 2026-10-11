@@ -57,26 +57,50 @@ Check three things: peak flow in gallons per minute, which equipment needs prote
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**How do you size a commercial water softener?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>How do you size a commercial water softener?</summary>
+
 We size it from peak flow rate and daily water use, plus the hardness of your water. Household size does not apply.
 
-**Can installation happen without shutting down my business?**
+</details>
+
+<details class="faq-item">
+<summary>Can installation happen without shutting down my business?</summary>
+
 Most installs need a short water shutoff. We schedule around your busiest hours to limit downtime.
 
-**What equipment does a commercial softener protect?**
+</details>
+
+<details class="faq-item">
+<summary>What equipment does a commercial softener protect?</summary>
+
 It protects boilers, water heaters, dishwashers, ice machines, steamers and plumbing from scale buildup.
 
-**Do you offer service contracts?**
+</details>
+
+<details class="faq-item">
+<summary>Do you offer service contracts?</summary>
+
 Ask whether service is offered by contract or per visit. The proposal states what is included.
 
-**Does a commercial system need filtration too?**
+</details>
+
+<details class="faq-item">
+<summary>Does a commercial system need filtration too?</summary>
+
 Often yes. Sediment and chlorine can harm resin and equipment, and a test shows what your water carries.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides commercial water softener installation for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

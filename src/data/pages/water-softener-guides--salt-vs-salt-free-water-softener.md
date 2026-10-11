@@ -49,26 +49,50 @@ Choose salt-based for the strongest result in hard water. Choose salt-free for l
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Can I use potassium instead of salt?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Can I use potassium instead of salt?</summary>
+
 Yes. A salt-based softener can regenerate with potassium chloride. It costs more per bag and adds potassium instead of sodium to the water.
 
-**Does a salt-free system really work?**
+</details>
+
+<details class="faq-item">
+<summary>Does a salt-free system really work?</summary>
+
 It reduces scale, and results depend on the technology and the water. It does not remove hardness minerals.
 
-**Which uses more water?**
+</details>
+
+<details class="faq-item">
+<summary>Which uses more water?</summary>
+
 A salt-based softener uses water for each regeneration. A salt-free system sends no water to the drain.
 
-**Which costs more?**
+</details>
+
+<details class="faq-item">
+<summary>Which costs more?</summary>
+
 Prices vary by size and brand. Salt-free has lower running costs, and salt-based has the stronger result.
 
-**Is softened water safe to drink?**
+</details>
+
+<details class="faq-item">
+<summary>Is softened water safe to drink?</summary>
+
 Yes for most people. Households limiting sodium can choose potassium chloride or an under-sink filter for drinking water.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides salt-free water softener systems for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

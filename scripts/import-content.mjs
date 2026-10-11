@@ -104,6 +104,35 @@ function extractFaq(md) {
   flush();
   return out;
 }
+// FAQ display: the section extractFaq() reads (for the schema) is also rendered as click-to-open rows
+// (<details>), so visitors scan the questions and open only the answers they want. The heading keeps its text;
+// on inner pages it is promoted from H3 to H2 so it gets the same navy band as the other section headings.
+function accordionFaq(md) {
+  const lines = md.split("\n");
+  const i = lines.findIndex((l) => /^#{2,3}\s+.*Frequently Asked/i.test(l));
+  if (i < 0) return md;
+  const level = lines[i].match(/^(#+)/)[1].length;
+  let j = i + 1;
+  while (j < lines.length) {
+    const h = lines[j].match(/^(#{1,6})\s/);
+    if (h && h[1].length <= level) break;
+    j++;
+  }
+  const intro = [], items = [];
+  let cur = null;
+  for (const line of lines.slice(i + 1, j)) {
+    const hq = line.match(/^(#{2,6})\s+(.*)$/);
+    const bold = line.match(/^\*\*(.+\?)\*\*\s*$/);
+    if (hq && hq[1].length > level) { cur = { q: hq[2].trim(), a: [] }; items.push(cur); continue; }
+    if (bold) { cur = { q: bold[1].trim(), a: [] }; items.push(cur); continue; }
+    if (cur) cur.a.push(line); else intro.push(line);
+  }
+  if (!items.length) return md;
+  const heading = lines[i].replace(/^#+/, "##");
+  const rows = items.map((it) => `<details class="faq-item">\n<summary>${esc(it.q)}</summary>\n\n${it.a.join("\n").trim()}\n\n</details>`).join("\n\n");
+  const introText = intro.join("\n").trim();
+  return [...lines.slice(0, i), heading, "", ...(introText ? [introText, ""] : []), `<div class="faq-list">\n\n${rows}\n\n</div>`, "", ...lines.slice(j)].join("\n");
+}
 const inlineHtml = (md) =>
   markers(esc(md))
     .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_, t, u) => `<a href="${u}">${t}</a>`)
@@ -299,7 +328,7 @@ for (const file of files) {
     markerCount: allMarkers.length,
   };
   const yaml = Object.entries(fm).map(([k, v]) => `${k}: ${JSON.stringify(v)}`).join("\n");
-  const out = `---\n${yaml}\n---\n\n${markers(body)}\n`;
+  const out = `---\n${yaml}\n---\n\n${markers(accordionFaq(body))}\n`;
   fs.writeFileSync(path.join(OUT_PAGES, `${slugToFile(slug)}.md`), out);
   pages.push({ slug, file: slugToFile(slug), h1, crumb: fm.crumb, type: fm.pageType, metaDraft, markers: allMarkers, note: noteMatch?.[1], missingImages: images.filter((i) => !i.exists).map((i) => i.file) });
 }

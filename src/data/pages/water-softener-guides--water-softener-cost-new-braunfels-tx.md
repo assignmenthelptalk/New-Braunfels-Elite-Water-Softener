@@ -74,26 +74,50 @@ Request a free estimate. A technician tests your water, checks the install locat
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Is a more expensive water softener always better?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Is a more expensive water softener always better?</summary>
+
 Not always. The right capacity and a good control valve matter more than brand price. A properly sized mid-range unit often beats an oversized premium one.
 
-**Does hard water cost more in the long run?**
+</details>
+
+<details class="faq-item">
+<summary>Does hard water cost more in the long run?</summary>
+
 Hard water scale shortens the life of water heaters and appliances and raises energy use, so softening can offset part of its own cost.
 
-**Are financing options available?**
+</details>
+
+<details class="faq-item">
+<summary>Are financing options available?</summary>
+
 Financing varies by installer. Ask whether it is offered and read the terms before you sign.
 
-**Can I save money by installing it myself?**
+</details>
+
+<details class="faq-item">
+<summary>Can I save money by installing it myself?</summary>
+
 Some homeowners do, but plumbing errors, missing air gaps and wrong sizing cause leaks and poor results. Installation by a licensed installer comes with a tested result and a written warranty, so ask for both.
 
-**What does a salt-free system cost compared with a salt-based one?**
+</details>
+
+<details class="faq-item">
+<summary>What does a salt-free system cost compared with a salt-based one?</summary>
+
 Salt-free systems usually cost less to run and cost less or more to buy depending on the type. 
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides water softener installation for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

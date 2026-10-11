@@ -45,18 +45,34 @@ We serve New Braunfels, Canyon Lake, Seguin, San Marcos, Bulverde and Spring Bra
 
 ## Frequently Asked Questions About Water Softeners in River Chase, TX
 
-**How hard is River Chase water?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>How hard is River Chase water?</summary>
+
 River Chase water is very hard if NBU supplies your address. NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, with a range of 8.1 to 19.5 grains per gallon.
 
-**Who supplies water in River Chase?**
+</details>
+
+<details class="faq-item">
+<summary>Who supplies water in River Chase?</summary>
+
 NBU issued a boil-water notice for its Riverchase Pressure Zone in February 2023, which ties the neighborhood to NBU. Your NBU bill confirms it for your address.
 
-**What size water softener does a River Chase home need?**
+</details>
+
+<details class="faq-item">
+<summary>What size water softener does a River Chase home need?</summary>
+
 Size depends on household water use and your test result. At 15 grains per gallon, a household of four using 320 gallons a day removes about 4,800 grains daily, and a 48,000-grain unit fits that load.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides water softener installation and service in River Chase, TX and serves homes and businesses across Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

@@ -81,26 +81,50 @@ Test it. A home test strip gives a rough reading, and a technician test gives a 
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Is New Braunfels water safe to drink?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Is New Braunfels water safe to drink?</summary>
+
 NBU's water quality reports list results against federal limits. Hardness is a quality issue, not a health limit, and the reports cover regulated contaminants separately.
 
-**Does a water softener remove minerals I need?**
+</details>
+
+<details class="faq-item">
+<summary>Does a water softener remove minerals I need?</summary>
+
 A softener swaps calcium and magnesium for sodium or potassium. Food supplies most of your minerals, and drinking water is a minor source.
 
-**Why does my glassware spot even with a rinse aid?**
+</details>
+
+<details class="faq-item">
+<summary>Why does my glassware spot even with a rinse aid?</summary>
+
 Dissolved minerals dry on glass as white spots. Softened water stops the spotting at the source.
 
-**Can hard water damage my water heater?**
+</details>
+
+<details class="faq-item">
+<summary>Can hard water damage my water heater?</summary>
+
 Scale insulates the heating element or tank bottom, which makes the heater work harder and shortens its life. Flushing helps, and softened water prevents most of the buildup.
 
-**Do homes on well water have harder water?**
+</details>
+
+<details class="faq-item">
+<summary>Do homes on well water have harder water?</summary>
+
 Often yes, since private wells draw directly from the aquifer. A test shows the hardness and checks for iron and other minerals.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides water softener installation for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

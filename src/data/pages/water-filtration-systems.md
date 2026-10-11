@@ -107,26 +107,50 @@ No. Filters remove particles and some chemicals, and softeners remove hardness m
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**How often does a water filter need replacing?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>How often does a water filter need replacing?</summary>
+
 Replacement depends on the filter type and your water. Sediment and carbon cartridges commonly need changing every few months to a year. Whole-house pre-filter cartridges are typically replaced every 6 to 12 months.
 
-**Will a whole house filter lower my water pressure?**
+</details>
+
+<details class="faq-item">
+<summary>Will a whole house filter lower my water pressure?</summary>
+
 A correctly sized filter keeps pressure steady. A clogged or undersized one reduces it, so we size to your flow.
 
-**Do I need a filter if I have a water softener?**
+</details>
+
+<details class="faq-item">
+<summary>Do I need a filter if I have a water softener?</summary>
+
 Often yes. A softener removes hardness, and a filter removes sediment and chlorine that can also damage resin.
 
-**What does a shower filter remove?**
+</details>
+
+<details class="faq-item">
+<summary>What does a shower filter remove?</summary>
+
 It reduces chlorine. It does not remove hardness minerals.
 
-**What does filter installation cost in New Braunfels?**
- Our estimate is free and itemized.
+</details>
+
+<details class="faq-item">
+<summary>What does filter installation cost in New Braunfels?</summary>
+
+Our estimate is free and itemized.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides water filtration system installation for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

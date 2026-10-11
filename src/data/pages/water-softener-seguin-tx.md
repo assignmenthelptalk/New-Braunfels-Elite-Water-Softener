@@ -45,18 +45,34 @@ We serve New Braunfels, Canyon Lake, San Marcos, Wimberley, Bulverde and Spring 
 
 ## Frequently Asked Questions About Water Softeners in Seguin, TX
 
-**Where does Seguin's water come from?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Where does Seguin's water come from?</summary>
+
 Seguin treats surface water from the Guadalupe River at two city plants and buys groundwater from the Carrizo Aquifer through the Schertz-Seguin Local Government Corporation.
 
-**How do I find out how hard my Seguin water is?**
+</details>
+
+<details class="faq-item">
+<summary>How do I find out how hard my Seguin water is?</summary>
+
 A free water test at your tap gives the exact hardness in grains per gallon. The city's 2025 water report lists no hardness figure, so a test is the reliable way to size a softener.
 
-**Does Seguin city water need a softener?**
+</details>
+
+<details class="faq-item">
+<summary>Does Seguin city water need a softener?</summary>
+
 Hardness minerals reach the tap whatever the source, and a test shows whether your reading is above the 10.5 grains per gallon that the Water Quality Association calls very hard. If it is, a softener protects pipes, appliances and fixtures.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides water softener installation and service in Seguin, TX and serves homes and businesses across Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

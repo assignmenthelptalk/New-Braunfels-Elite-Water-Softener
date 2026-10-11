@@ -45,18 +45,34 @@ We serve New Braunfels, Canyon Lake, Seguin, San Marcos, Bulverde and Spring Bra
 
 ## Frequently Asked Questions About Water Softeners in Wimberley, TX
 
-**Where does Wimberley's water come from?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Where does Wimberley's water come from?</summary>
+
 Wimberley Water Supply Corporation draws groundwater from the Trinity Aquifer in Hays County. Smaller utilities and private wells supply some homes outside its system.
 
-**How do I find out how hard my Wimberley water is?**
+</details>
+
+<details class="faq-item">
+<summary>How do I find out how hard my Wimberley water is?</summary>
+
 A free water test at your tap gives the exact hardness in grains per gallon. The utility's 2025 report lists no hardness figure, so a test is the reliable way to size a softener.
 
-**Does Wimberley city water need a softener?**
+</details>
+
+<details class="faq-item">
+<summary>Does Wimberley city water need a softener?</summary>
+
 Groundwater from limestone carries calcium and magnesium, and a test shows whether your reading is above the 10.5 grains per gallon that the Water Quality Association calls very hard. If it is, a softener protects pipes, appliances and fixtures.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides water softener installation and service in Wimberley, TX and serves homes and businesses across Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

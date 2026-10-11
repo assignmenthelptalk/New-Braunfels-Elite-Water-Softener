@@ -107,26 +107,50 @@ Start with hardness, TDS and pH, which cover the common local issues. Add iron a
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Is the water test really free?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Is the water test really free?</summary>
+
 Ask exactly which tests are free and which carry a fee before you book.
 
-**How long does a water test take?**
+</details>
+
+<details class="faq-item">
+<summary>How long does a water test take?</summary>
+
 In-home tests for hardness, TDS, pH, iron and chlorine give results in minutes. Lab tests take longer. Lab results typically take a few business days, depending on the lab and the test.
 
-**How often does water need testing?**
+</details>
+
+<details class="faq-item">
+<summary>How often does water need testing?</summary>
+
 Test city water when you notice a change or move in. Test a private well for bacteria at least once a year, and for other substances as local conditions suggest.
 
-**Do I need a test before buying a softener?**
+</details>
+
+<details class="faq-item">
+<summary>Do I need a test before buying a softener?</summary>
+
 Yes. The result sizes the softener and shows whether you also need a filter.
 
-**What test shows if my water is safe to drink?**
+</details>
+
+<details class="faq-item">
+<summary>What test shows if my water is safe to drink?</summary>
+
 A certified lab panel for bacteria, nitrate, metals and other regulated substances. NBU reports cover the public supply.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides water quality testing for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

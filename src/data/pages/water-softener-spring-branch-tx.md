@@ -45,18 +45,34 @@ We serve New Braunfels, Canyon Lake, Bulverde, San Marcos, Seguin and Wimberley.
 
 ## Frequently Asked Questions About Water Softeners in Spring Branch, TX
 
-**Who supplies water in Spring Branch?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Who supplies water in Spring Branch?</summary>
+
 Several utilities supply Spring Branch, including Cypress Cove WSC, Spring Branch Indian Hills Estates WSC and The Texas Water Company. Your water bill shows which one serves your address.
 
-**How do I find out how hard my Spring Branch water is?**
+</details>
+
+<details class="faq-item">
+<summary>How do I find out how hard my Spring Branch water is?</summary>
+
 A free water test at your tap gives the exact hardness in grains per gallon. Hardness differs from one utility to the next, so a test at your tap is the reliable way to size a softener.
 
-**Does Spring Branch water need a softener?**
+</details>
+
+<details class="faq-item">
+<summary>Does Spring Branch water need a softener?</summary>
+
 Groundwater from limestone carries calcium and magnesium, and a test shows whether your reading is above the 10.5 grains per gallon that the Water Quality Association calls very hard. If it is, a softener protects pipes, appliances and fixtures.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides water softener installation and service in Spring Branch, TX and serves homes and businesses across Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

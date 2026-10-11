@@ -87,26 +87,50 @@ Treat contamination first, then iron, sulfur and sediment, and soften last. That
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Can a water softener remove iron from well water?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Can a water softener remove iron from well water?</summary>
+
 A softener removes small amounts of dissolved iron, but heavier iron needs an iron filter first or it fouls the resin.
 
-**How do I know if my well water is safe?**
+</details>
+
+<details class="faq-item">
+<summary>How do I know if my well water is safe?</summary>
+
 Only a test shows. Guidance recommends testing for bacteria every year, with nitrate and other substances on a schedule that depends on local conditions.
 
-**Why does my well water smell like rotten eggs?**
+</details>
+
+<details class="faq-item">
+<summary>Why does my well water smell like rotten eggs?</summary>
+
 That smell usually comes from hydrogen sulfide gas. A test confirms it, and an oxidizing filter removes it.
 
-**Do I need a softener and a filter for a well?**
+</details>
+
+<details class="faq-item">
+<summary>Do I need a softener and a filter for a well?</summary>
+
 Most wells need both. Filters handle iron, sulfur and sediment, and the softener handles hardness.
 
-**What does well water treatment cost in New Braunfels?**
+</details>
+
+<details class="faq-item">
+<summary>What does well water treatment cost in New Braunfels?</summary>
+
 Iron content and flow rate decide the system, so your test results set the price. The estimate is free and itemized.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides well water softener and treatment for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

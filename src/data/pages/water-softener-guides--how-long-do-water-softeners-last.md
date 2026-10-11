@@ -65,23 +65,43 @@ If it is over ten years old, uses more salt than it used to or lets hard water t
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Can I replace just the resin to extend the life?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Can I replace just the resin to extend the life?</summary>
+
 Yes, when the tank and valve are sound. Resin replacement restores softening for less than a new system.
 
-**Does a warranty change how long it lasts?**
+</details>
+
+<details class="faq-item">
+<summary>Does a warranty change how long it lasts?</summary>
+
 A warranty covers defects, not wear. Longer coverage often signals a better valve and tank.
 
-**Do salt-free systems last longer?**
+</details>
+
+<details class="faq-item">
+<summary>Do salt-free systems last longer?</summary>
+
 They have no resin to wear out, but their media needs replacing on a schedule. Manufacturers commonly rate salt-free media at about 5 to 8 years under normal conditions.
 
-**How do I know if my resin is worn out?**
+</details>
+
+<details class="faq-item">
+<summary>How do I know if my resin is worn out?</summary>
+
 Hard water returns soon after regeneration even with salt in the tank and a working valve. A test of softened water confirms it.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides water softener replacement for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

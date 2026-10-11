@@ -98,26 +98,50 @@ Only a test tells you. Start with a standard panel, then add tests for the conce
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Does one filter remove every contaminant?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Does one filter remove every contaminant?</summary>
+
 No. Each contaminant needs its own method, and reverse osmosis covers the most. A test tells us which ones you need.
 
-**Is New Braunfels tap water safe?**
+</details>
+
+<details class="faq-item">
+<summary>Is New Braunfels tap water safe?</summary>
+
 City reports list results against EPA limits. For your own tap, a home test checks what the report cannot, such as your plumbing.
 
-**How do I know a filter really works?**
+</details>
+
+<details class="faq-item">
+<summary>How do I know a filter really works?</summary>
+
 Look for certification to NSF/ANSI standards for the specific contaminant, and retest your water after installation.
 
-**Can a water softener remove these contaminants?**
+</details>
+
+<details class="faq-item">
+<summary>Can a water softener remove these contaminants?</summary>
+
 No. A softener removes hardness. Contaminant removal needs a different filter.
 
-**What does contaminant removal cost?**
- It depends on the contaminant. The estimate is free and itemized.
+</details>
+
+<details class="faq-item">
+<summary>What does contaminant removal cost?</summary>
+
+It depends on the contaminant. The estimate is free and itemized.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides water contaminant removal for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

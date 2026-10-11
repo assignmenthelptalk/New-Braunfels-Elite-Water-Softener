@@ -97,23 +97,43 @@ Repair a young unit with one failed part. Replace an old unit, a leaking tank or
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**How can I tell if my softener is working?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>How can I tell if my softener is working?</summary>
+
 Test the softened water for hardness or watch for spots and scale. Soft water also makes soap lather easily.
 
-**Is a new softener worth it if mine is 12 years old?**
+</details>
+
+<details class="faq-item">
+<summary>Is a new softener worth it if mine is 12 years old?</summary>
+
 Often yes, if it shows any of the signs above. New units regenerate by demand and use less salt and water.
 
-**Can I replace just the control head?**
+</details>
+
+<details class="faq-item">
+<summary>Can I replace just the control head?</summary>
+
 Yes, when the tank and resin are sound. It restores timing and cycles for less than a new unit.
 
-**How long does replacement take?**
+</details>
+
+<details class="faq-item">
+<summary>How long does replacement take?</summary>
+
 Most replacements finish in one visit, often in 2 to 4 hours.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides water softener replacement for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

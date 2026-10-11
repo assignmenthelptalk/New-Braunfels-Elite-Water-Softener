@@ -76,26 +76,50 @@ Match the system to the result you want: scale protection for pipes and heaters,
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Does a salt-free water softener actually soften water?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Does a salt-free water softener actually soften water?</summary>
+
 No. It conditions water so scale does not stick, and it leaves hardness minerals in place. A salt-based softener removes the minerals.
 
-**How long does a TAC media cartridge last?**
+</details>
+
+<details class="faq-item">
+<summary>How long does a TAC media cartridge last?</summary>
+
 Replacement timing depends on water use and system size. Media is typically rated for about 5 to 8 years. The technician sets the schedule at installation.
 
-**Is a salt-free system better for the environment?**
+</details>
+
+<details class="faq-item">
+<summary>Is a salt-free system better for the environment?</summary>
+
 It uses no salt and sends no brine to the drain. Salt-based systems discharge brine during regeneration, which some communities limit.
 
-**Can I install a salt-free system myself?**
+</details>
+
+<details class="faq-item">
+<summary>Can I install a salt-free system myself?</summary>
+
 Many units install on the main line with basic plumbing skills, but a correct size and pressure check matter. We install and test the unit for you.
 
-**What does a salt-free system cost in New Braunfels?**
- Our estimate is free and itemized.
+</details>
+
+<details class="faq-item">
+<summary>What does a salt-free system cost in New Braunfels?</summary>
+
+Our estimate is free and itemized.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides salt-free water softener systems for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

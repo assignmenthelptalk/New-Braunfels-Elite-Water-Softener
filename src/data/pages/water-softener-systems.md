@@ -140,18 +140,39 @@ Four things decide the system: your water's hardness, your household's daily use
 
 
 
-### Frequently Asked Questions About Water Softener Systems
+## Frequently Asked Questions About Water Softener Systems
 
-#### What is the best water softener system for New Braunfels homes?
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>What is the best water softener system for New Braunfels homes?</summary>
+
 The best system matches your household size and your test result. A salt-based softener removes hardness minerals and suits readings above 10.5 grains per gallon, and a dual tank unit suits large households that cannot wait through a regeneration.
 
-#### Can I install a water softener myself in Texas?
+</details>
+
+<details class="faq-item">
+<summary>Can I install a water softener myself in Texas?</summary>
+
 A homeowner who installs and maintains their own treatment equipment does not need a licensed installer, according to TCEQ's guideline for water treatment specialists. Anyone who installs a softener for a fee must hold a TCEQ Water Treatment Specialist licence or be licensed by the Texas State Board of Plumbing Examiners.
 
-#### What is the difference between a water softener and a water conditioner?
+</details>
+
+<details class="faq-item">
+<summary>What is the difference between a water softener and a water conditioner?</summary>
+
 A softener removes calcium and magnesium through ion exchange, and a conditioner changes how those minerals behave so scale does not stick. The softener lowers the hardness number, and the conditioner leaves it where it is.
 
-#### Does a water softener use electricity?
+</details>
+
+<details class="faq-item">
+<summary>Does a water softener use electricity?</summary>
+
 A softener with an electronic control head uses a small amount of power to run its regeneration schedule, and it needs a nearby outlet. A salt-free conditioner needs no power.
 
 [New Braunfels Elite Water Softener TX](/) provides water softener systems for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
+

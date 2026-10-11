@@ -65,23 +65,43 @@ Count the people in the home, estimate heavy water use and get a hardness and ir
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Is bigger always better for a water softener?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Is bigger always better for a water softener?</summary>
+
 No. An oversized unit costs more and regenerates less often, which can leave resin idle. Aim for a regeneration every three to seven days.
 
-**How often does a softener regenerate?**
+</details>
+
+<details class="faq-item">
+<summary>How often does a softener regenerate?</summary>
+
 Most households do best with a regeneration every three to seven days. Newer control heads regenerate by actual use.
 
-**Does the number of bathrooms matter?**
+</details>
+
+<details class="faq-item">
+<summary>Does the number of bathrooms matter?</summary>
+
 Bathrooms matter through people and usage. Count people and heavy water use rather than rooms.
 
-**What if my family grows or I add a pool?**
+</details>
+
+<details class="faq-item">
+<summary>What if my family grows or I add a pool?</summary>
+
 Re-run the formula. A larger load calls for the next size up or a dual tank system.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides water softener installation for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

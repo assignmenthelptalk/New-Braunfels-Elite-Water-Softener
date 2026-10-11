@@ -74,26 +74,50 @@ Three things decide it: how many people use the water, how hard the water is at 
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**How long does water softener installation take in New Braunfels?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>How long does water softener installation take in New Braunfels?</summary>
+
 Most installations finish in a single visit. Most standard installs take about 2 to 4 hours. The technician confirms the schedule at your estimate, based on plumbing access, drain location and system type.
 
-**Do I need a permit to install a water softener in New Braunfels?**
+</details>
+
+<details class="faq-item">
+<summary>Do I need a permit to install a water softener in New Braunfels?</summary>
+
 Permit rules depend on the plumbing work involved. Ask whether the City of New Braunfels requires a permit for your job. We confirm what applies to your address before the install.
 
-**Can you install a water softener on a private well?**
+</details>
+
+<details class="faq-item">
+<summary>Can you install a water softener on a private well?</summary>
+
 Yes. Well installations go after the pressure tank, and a water test first checks for iron, sulfur and sediment that need their own filters. Treating those first protects the resin in the softener.
 
-**Where in my house does the softener go?**
+</details>
+
+<details class="faq-item">
+<summary>Where in my house does the softener go?</summary>
+
 The unit goes on the main water line, usually in a garage, utility room or by the water heater, near a drain and an electrical outlet. Outdoor spigots can stay on unsoftened water through a loop if you prefer.
 
-**Is a bypass valve necessary?**
+</details>
+
+<details class="faq-item">
+<summary>Is a bypass valve necessary?</summary>
+
 A bypass valve is standard on every installation we do. It lets you isolate the softener for service while the rest of the house keeps water.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides water softener installation for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

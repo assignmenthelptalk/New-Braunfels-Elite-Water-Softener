@@ -67,23 +67,43 @@ If a test finds bacteria, or you rely on a private well, disinfection is worth a
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Does UV remove chemicals or hardness?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Does UV remove chemicals or hardness?</summary>
+
 No. UV inactivates microbes only. Hardness, chemicals and sediment need other treatment.
 
-**How often do I replace the UV lamp?**
+</details>
+
+<details class="faq-item">
+<summary>How often do I replace the UV lamp?</summary>
+
 Lamps commonly need replacing about once a year, even if they still glow, because output fades. Follow your unit's guidance.
 
-**Does UV change the taste of water?**
+</details>
+
+<details class="faq-item">
+<summary>Does UV change the taste of water?</summary>
+
 No. UV adds no chemicals and leaves taste unchanged.
 
-**Do I need a pre-filter with a UV system?**
+</details>
+
+<details class="faq-item">
+<summary>Do I need a pre-filter with a UV system?</summary>
+
 Yes. Cloudy or sediment-heavy water shields microbes from the light, so a sediment filter goes ahead of the UV unit.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides UV water purification system installation for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

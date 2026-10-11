@@ -87,26 +87,50 @@ RO is right when you want the cleanest drinking water or need to reduce a specif
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Does reverse osmosis remove hard water minerals?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Does reverse osmosis remove hard water minerals?</summary>
+
 Yes, RO removes most dissolved minerals from the water it treats, but hard water scales the membrane, so pairing RO with a softener is best.
 
-**How much water does an RO system waste?**
+</details>
+
+<details class="faq-item">
+<summary>How much water does an RO system waste?</summary>
+
 RO sends reject water to the drain. The ratio depends on the system and water pressure. Most traditional systems send about 3 to 4 gallons of water to the drain for every gallon of purified water, while high-efficiency models get closer to 2 to 1.
 
-**How often do I change RO filters?**
+</details>
+
+<details class="faq-item">
+<summary>How often do I change RO filters?</summary>
+
 Sediment and carbon filters usually change every six to twelve months, and the membrane every two to five years. Follow your system's guidance.
 
-**Does RO make water taste different?**
+</details>
+
+<details class="faq-item">
+<summary>Does RO make water taste different?</summary>
+
 Yes. RO water tastes cleaner and flatter because minerals are removed.
 
-**Can you install RO in my kitchen?**
+</details>
+
+<details class="faq-item">
+<summary>Can you install RO in my kitchen?</summary>
+
 Yes, under-sink installation is our most common RO job.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides reverse osmosis system installation for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

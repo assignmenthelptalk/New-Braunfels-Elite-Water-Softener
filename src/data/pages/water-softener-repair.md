@@ -113,29 +113,57 @@ Repair fits a young unit with one failed part. Replacement fits an old unit, a l
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Why is my water still hard even though the softener has salt?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Why is my water still hard even though the softener has salt?</summary>
+
 Salt alone does not soften water. A clogged injector, fouled resin, a failed valve or a missed regeneration cycle can all leave hard water.
 
-**How do I fix a water softener that is not regenerating?**
+</details>
+
+<details class="faq-item">
+<summary>How do I fix a water softener that is not regenerating?</summary>
+
 Check power and the control head settings first. If the unit still does not cycle, the motor, valve or head needs repair, and a technician diagnoses which.
 
-**What causes a salt bridge?**
+</details>
+
+<details class="faq-item">
+<summary>What causes a salt bridge?</summary>
+
 Humidity and salt type cause a crust to form above the water in the brine tank. Breaking the crust and cleaning the tank restores brine.
 
-**Why is my water softener leaking?**
+</details>
+
+<details class="faq-item">
+<summary>Why is my water softener leaking?</summary>
+
 Leaks come from loose fittings, worn seals, a cracked drain line or a failing tank. A technician finds the source and replaces the part.
 
-**How much does water softener repair cost?**
- The cost depends on the part. We give a price before work begins.
+</details>
 
-**Do you offer same-day repair in New Braunfels?**
+<details class="faq-item">
+<summary>How much does water softener repair cost?</summary>
+
+The cost depends on the part. We give a price before work begins.
+
+</details>
+
+<details class="faq-item">
+<summary>Do you offer same-day repair in New Braunfels?</summary>
+
 Same-day service depends on technician availability. Call and we will do our best to schedule quickly.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides water softener repair for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

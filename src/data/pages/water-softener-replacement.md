@@ -89,26 +89,50 @@ Repair makes sense when the unit is young and one part has failed. Replacement m
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**How long does water softener replacement take?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>How long does water softener replacement take?</summary>
+
 Most replacements finish in a single visit. Most standard replacements take about 2 to 4 hours. The technician confirms timing at your estimate.
 
-**Can I replace just the resin instead of the whole unit?**
+</details>
+
+<details class="faq-item">
+<summary>Can I replace just the resin instead of the whole unit?</summary>
+
 Yes, when the tank and valve are sound. A resin replacement restores softening for less than a new system, and the technician tests your water to confirm the resin is the cause.
 
-**Do you remove and dispose of my old water softener?**
+</details>
+
+<details class="faq-item">
+<summary>Do you remove and dispose of my old water softener?</summary>
+
 Ask whether removal and disposal of the old unit is included. The estimate states exactly what is included.
 
-**Will a new softener use less salt?**
+</details>
+
+<details class="faq-item">
+<summary>Will a new softener use less salt?</summary>
+
 A newer control head regenerates by actual water use instead of a fixed timer, which cuts unneeded cycles and salt. Savings depend on your household and your water.
 
-**Is it worth repairing an old softener?**
+</details>
+
+<details class="faq-item">
+<summary>Is it worth repairing an old softener?</summary>
+
 Repair is worth it when one part has failed on an otherwise sound unit. Past roughly 10 to 15 years, or with a leaking tank, replacement usually costs less over time.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides water softener replacement for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 

@@ -67,23 +67,43 @@ Choose by space, flow and quality target. Under sink gives the best all-round re
 
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-**Is an under-sink system better than a countertop unit?**
+<div class="faq-list">
+
+<details class="faq-item">
+<summary>Is an under-sink system better than a countertop unit?</summary>
+
 Under-sink systems filter more water, flow faster and stay out of sight. Countertop units install without plumbing.
 
-**Does an alkaline water system make water healthier?**
+</details>
+
+<details class="faq-item">
+<summary>Does an alkaline water system make water healthier?</summary>
+
 It raises pH and changes taste. Evidence for broader health claims is limited.
 
-**How often do drinking water filters need replacing?**
+</details>
+
+<details class="faq-item">
+<summary>How often do drinking water filters need replacing?</summary>
+
 Replacement depends on the system and use, commonly every six to twelve months for cartridges. As a typical schedule, replace pre-filter cartridges every 6 to 12 months and reverse osmosis membranes every 2 to 3 years.
 
-**Can a bottleless cooler work in a small office?**
+</details>
+
+<details class="faq-item">
+<summary>Can a bottleless cooler work in a small office?</summary>
+
 Yes. It needs a water line and power, and we size the unit to your headcount.
 
 
 
 [New Braunfels Elite Water Softener TX](/) provides drinking water system installation for homes and businesses across New Braunfels and Comal County.
+
+</details>
+
+</div>
 
 ## Get Your Free Estimate
 
