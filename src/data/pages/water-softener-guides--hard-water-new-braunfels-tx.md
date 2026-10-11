@@ -26,7 +26,7 @@ New Braunfels water is hard because most of it comes from underground. According
 
 ### How Hard Is New Braunfels Water?
 
-NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, which the U.S. Geological Survey rates as very hard. Readings vary across the city and through the year because the mix of well and lake water changes, so the number at your tap can differ. A free test at your address gives the figure that matters for choosing equipment.
+NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, which the U.S. Geological Survey rates as very hard. A 2023 peer-reviewed study in the journal Groundwater (Simbo) reports calcium and magnesium for ten samples of NBU system water taken in 2020 and 2021, and those values calculate to 13.2 to 15.9 grains per gallon, which agrees with the 2018 figure. Readings vary across the city and through the year because the mix of river water and aquifer groundwater changes, so the number at your tap can differ. A free test at your address gives the figure that matters for choosing equipment.
 
 ### What Hard Water Does to a Home
 
