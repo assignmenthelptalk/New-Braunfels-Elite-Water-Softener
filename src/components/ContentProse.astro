@@ -139,6 +139,23 @@
   @media (max-width: 900px) { .prose :global(.svc-grid) { grid-template-columns: repeat(2, 1fr); } }
   @media (max-width: 600px) { .prose :global(.svc-grid) { grid-template-columns: 1fr; } }
 
+  /* Homepage installation steps: photo on the left, "Step N: Title" blocks on the right */
+  .prose :global(.steps-split) {
+    display: grid;
+    grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+    gap: 2.5rem;
+    align-items: start;
+    width: min(1100px, calc(100vw - 2rem));
+    margin: 1.8rem 0 1.8rem 50%;
+    transform: translateX(-50%);
+  }
+  .prose :global(.steps-photo > p) { margin: 0; }
+  .prose :global(.steps-photo img) { margin: 0; aspect-ratio: 4 / 5; object-fit: cover; }
+  .prose :global(.steps-list h3) { margin: 0 0 0.45rem; font-size: 1.3rem; }
+  .prose :global(.steps-list h3:not(:first-child)) { margin-top: 1.9rem; }
+  .prose :global(.steps-list p) { margin: 0; }
+  @media (max-width: 800px) { .prose :global(.steps-split) { grid-template-columns: 1fr; gap: 1.5rem; } }
+
   @media (max-width: 640px) {
     .prose { font-size: 1rem; }
     .prose :global(h2) { max-width: none; }
