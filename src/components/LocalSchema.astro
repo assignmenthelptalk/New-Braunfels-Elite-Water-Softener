@@ -35,7 +35,9 @@ const localBusinessSchema = {
     name,
   })),
   serviceType: "Water Softener Installation & Water Treatment",
-  sameAs: site.googleBusinessUrl ? [site.googleBusinessUrl] : undefined,
+  sameAs: [site.googleBusinessUrl, ...Object.values(site.socialLinks ?? {})].filter(Boolean).length
+    ? [site.googleBusinessUrl, ...Object.values(site.socialLinks ?? {})].filter(Boolean)
+    : undefined,
 };
 ---
 
