@@ -10,8 +10,8 @@ crumb: "How Long Does a Water Softener Last"
 openingHtml: "A well-maintained water softener commonly lasts 10 to 15 years, and some last longer with regular care. In New Braunfels, TX, hard water, mineral-rich groundwater and heavy daily use shape that lifespan. This guide explains what wears out, what shortens or extends life and when replacing makes more sense than repairing. A trusted water softener New Braunfels TX company can inspect your unit and tell you where it stands."
 formHeading: ""
 formIntro: ""
-leadImage: null
-images: [{"file":"how-long-do-water-softeners-last-new-braunfels-tx.webp","alt":"Aging water softener New Braunfels TX tank and control head inspection","exists":false}]
+leadImage: {"file":"how-long-do-water-softeners-last-new-braunfels-tx.webp","alt":"Aging water softener New Braunfels TX tank and control head inspection"}
+images: [{"file":"how-long-do-water-softeners-last-new-braunfels-tx.webp","alt":"Aging water softener New Braunfels TX tank and control head inspection","exists":true}]
 faq: [{"q":"Can I replace just the resin to extend the life?","a":"Yes, when the tank and valve are sound. Resin replacement restores softening for less than a new system."},{"q":"Does a warranty change how long it lasts?","a":"A warranty covers defects, not wear. Longer coverage often signals a better valve and tank."},{"q":"Do salt-free systems last longer?","a":"They have no resin to wear out, but their media needs replacing on a schedule. Manufacturers commonly rate salt-free media at about 5 to 8 years under normal conditions."},{"q":"How do I know if my resin is worn out?","a":"Hard water returns soon after regeneration even with salt in the tank and a working valve. A test of softened water confirms it. New Braunfels Elite Water Softener TX provides water softener replacement for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---

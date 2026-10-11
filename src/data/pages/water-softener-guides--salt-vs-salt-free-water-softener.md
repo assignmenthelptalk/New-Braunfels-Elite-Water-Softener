@@ -10,8 +10,8 @@ crumb: "Salt-Based vs Salt-Free Water Softener"
 openingHtml: "A salt-based water softener removes the hardness minerals from your water, and a salt-free system conditions them so they form less scale. For New Braunfels, TX homes with very hard water, the salt-based softener gives the stronger result and the salt-free system gives the lower maintenance. This guide compares them so you can choose with a water softener New Braunfels TX company that explains both."
 formHeading: ""
 formIntro: ""
-leadImage: null
-images: [{"file":"salt-vs-salt-free-water-softener-new-braunfels-tx.webp","alt":"Salt vs salt-free water softener New Braunfels TX side by side comparison","exists":false}]
+leadImage: {"file":"salt-vs-salt-free-water-softener-new-braunfels-tx.webp","alt":"Salt vs salt-free water softener New Braunfels TX side by side comparison"}
+images: [{"file":"salt-vs-salt-free-water-softener-new-braunfels-tx.webp","alt":"Salt vs salt-free water softener New Braunfels TX side by side comparison","exists":true}]
 faq: [{"q":"Can I use potassium instead of salt?","a":"Yes. A salt-based softener can regenerate with potassium chloride. It costs more per bag and adds potassium instead of sodium to the water."},{"q":"Does a salt-free system really work?","a":"It reduces scale, and results depend on the technology and the water. It does not remove hardness minerals."},{"q":"Which uses more water?","a":"A salt-based softener uses water for each regeneration. A salt-free system sends no water to the drain."},{"q":"Which costs more?","a":"Prices vary by size and brand. Salt-free has lower running costs, and salt-based has the stronger result."},{"q":"Is softened water safe to drink?","a":"Yes for most people. Households limiting sodium can choose potassium chloride or an under-sink filter for drinking water. New Braunfels Elite Water Softener TX provides salt-free water softener systems for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---
