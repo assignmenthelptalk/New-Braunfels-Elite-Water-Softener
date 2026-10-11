@@ -16,6 +16,10 @@ faq: [{"q":"What is the difference between a water conditioner and a water softe
 markerCount: 0
 ---
 
+## What Water Conditioning Options Are Available in New Braunfels, TX?
+
+Five options treat scale and hard water: salt-free conditioners, potassium chloride softener systems, hard water treatment, limescale treatment and scale inhibitor systems.
+
 <div class="svc-grid">
 
 <div class="svc-card">

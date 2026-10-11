@@ -22,6 +22,10 @@ A salt-free water softener system is a conditioner that changes how hardness min
 
 New Braunfels water is hard, and NBU draws most of its supply from the Guadalupe River and adds Edwards Aquifer and Trinity Aquifer groundwater. NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, which the U.S. Geological Survey rates as very hard. A salt-free system reduces scale in that water but does not give the slick, mineral-free feel of a salt-based softener. For the full range, see our [Water Softener Systems in New Braunfels, TX](/water-softener-systems/).
 
+## Which Salt-Free Water Conditioners Are Available in New Braunfels, TX?
+
+Three salt-free technologies are installed for scale: template assisted crystallization (TAC) systems, electronic descalers and magnetic water conditioners.
+
 <div class="svc-grid">
 
 <div class="svc-card">

@@ -16,6 +16,10 @@ faq: [{"q":"Why is my water still hard even though the softener has salt?","a":"
 markerCount: 0
 ---
 
+## What Water Softener Repairs Are Available in New Braunfels, TX?
+
+Seven repairs cover the common failures: control valve repair, motor replacement, float valve repair, injector cleaning, head replacement, brine line repair and leak repair.
+
 <div class="svc-grid">
 
 <div class="svc-card">

@@ -16,6 +16,10 @@ faq: [{"q":"Does UV remove chemicals or hardness?","a":"No. UV inactivates micro
 markerCount: 0
 ---
 
+## How Does UV Water Purification Work in New Braunfels, TX?
+
+UV purification covers three topics: how UV works, UV system installation and combining UV with a water softener.
+
 <div class="svc-grid">
 
 <div class="svc-card">

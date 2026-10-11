@@ -16,6 +16,10 @@ faq: [{"q":"What is the best water softener system for New Braunfels homes?","a"
 markerCount: 1
 ---
 
+## What Types of Water Softener Systems Are Available in New Braunfels, TX?
+
+This page covers installation, replacement, salt-free systems, dual tank systems, commercial systems, maintenance, repair and water conditioners, starting with why New Braunfels water needs a softener.
+
 <div class="svc-grid">
 
 <div class="svc-card">

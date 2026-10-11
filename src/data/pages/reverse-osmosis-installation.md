@@ -16,6 +16,10 @@ faq: [{"q":"Does reverse osmosis remove hard water minerals?","a":"Yes, RO remov
 markerCount: 0
 ---
 
+## What Does Reverse Osmosis Installation Include in New Braunfels, TX?
+
+Reverse osmosis installation covers five topics: how RO systems work, under sink installation, whole house systems, membrane replacement and pairing RO with a water softener.
+
 <div class="svc-grid">
 
 <div class="svc-card">

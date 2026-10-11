@@ -16,6 +16,10 @@ faq: [{"q":"Is the water test really free?","a":"Ask exactly which tests are fre
 markerCount: 0
 ---
 
+## What Does Water Quality Testing Measure in New Braunfels, TX?
+
+Seven tests cover hardness, total dissolved solids, iron, pH, chlorine, sulfur and heavy metals.
+
 <div class="svc-grid">
 
 <div class="svc-card">

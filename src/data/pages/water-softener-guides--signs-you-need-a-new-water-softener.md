@@ -16,6 +16,10 @@ faq: [{"q":"How can I tell if my softener is working?","a":"Test the softened wa
 markerCount: 0
 ---
 
+## What Are the Signs That a New Braunfels Water Softener Needs Replacing?
+
+Seven signs show a softener is failing, and the first six are listed below.
+
 <div class="svc-grid">
 
 <div class="svc-card">

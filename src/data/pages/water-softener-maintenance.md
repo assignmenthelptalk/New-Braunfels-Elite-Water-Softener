@@ -16,6 +16,10 @@ faq: [{"q":"How much salt does a water softener use?","a":"Salt use depends on h
 markerCount: 0
 ---
 
+## What Does Water Softener Maintenance Include in New Braunfels, TX?
+
+Four services keep a softener at full capacity: resin cleaning, salt refills, brine tank cleaning and annual maintenance plans.
+
 <div class="svc-grid">
 
 <div class="svc-card">

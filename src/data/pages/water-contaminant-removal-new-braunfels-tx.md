@@ -16,6 +16,10 @@ faq: [{"q":"Does one filter remove every contaminant?","a":"No. Each contaminant
 markerCount: 0
 ---
 
+## Which Contaminants Can a Filter Remove in New Braunfels, TX?
+
+Six filter types target specific contaminants: lead and arsenic, chloramine and chlorine, fluoride, PFAS, nitrate and volatile organic compounds.
+
 <div class="svc-grid">
 
 <div class="svc-card">

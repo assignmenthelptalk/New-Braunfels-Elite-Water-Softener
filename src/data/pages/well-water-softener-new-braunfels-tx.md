@@ -16,6 +16,10 @@ faq: [{"q":"Can a water softener remove iron from well water?","a":"A softener r
 markerCount: 0
 ---
 
+## What Does Well Water Treatment Involve in New Braunfels, TX?
+
+Well water treatment covers four systems: a well water softener, an iron filter, a hydrogen sulfide filter and a well water sediment filter.
+
 <div class="svc-grid">
 
 <div class="svc-card">

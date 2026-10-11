@@ -16,6 +16,10 @@ faq: [{"q":"Is New Braunfels water safe to drink?","a":"NBU's water quality repo
 markerCount: 0
 ---
 
+## What Do New Braunfels Homeowners Need to Know About Hard Water?
+
+Three questions cover the basics: what hard water is, why New Braunfels water is hard and how hard it measures.
+
 <div class="svc-grid">
 
 <div class="svc-card">

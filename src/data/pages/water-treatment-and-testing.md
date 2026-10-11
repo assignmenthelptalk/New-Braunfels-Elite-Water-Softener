@@ -16,6 +16,10 @@ faq: [{"q":"Do I need a filter if I have a water softener?","a":"A softener and 
 markerCount: 0
 ---
 
+## What Water Treatment Services Are Available in New Braunfels, TX?
+
+Water treatment starts with testing and covers filtration, well water treatment, contaminant removal, reverse osmosis, UV purification and drinking water systems.
+
 <div class="svc-grid">
 
 <div class="svc-card">

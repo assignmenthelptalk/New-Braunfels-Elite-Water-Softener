@@ -16,6 +16,10 @@ faq: [{"q":"Is an under-sink system better than a countertop unit?","a":"Under-s
 markerCount: 0
 ---
 
+## What Types of Drinking Water Systems Can You Install in New Braunfels, TX?
+
+Three drinking water systems cover most homes: under sink systems, countertop purification units and alkaline water systems.
+
 <div class="svc-grid">
 
 <div class="svc-card">

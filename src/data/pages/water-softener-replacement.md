@@ -16,6 +16,10 @@ faq: [{"q":"How long does water softener replacement take?","a":"Most replacemen
 markerCount: 0
 ---
 
+## What Water Softener Replacement Options Are Available in New Braunfels, TX?
+
+Three replacement options fit different situations: full system replacement, resin bed replacement and upgrade service.
+
 <div class="svc-grid">
 
 <div class="svc-card">
