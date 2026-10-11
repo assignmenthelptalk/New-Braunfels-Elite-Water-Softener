@@ -16,17 +16,39 @@ faq: [{"q":"Does UV remove chemicals or hardness?","a":"No. UV inactivates micro
 markerCount: 0
 ---
 
+<div class="svc-grid">
+
+<div class="svc-card">
+
+![How UV Water Purification Works New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=How+UV+Water+Purification+Works+photo+placeholder)
+
 ### How UV Water Purification Works
 
 UV purification passes water through a chamber with an ultraviolet lamp. The light damages the genetic material of bacteria, viruses and cysts, so they cannot reproduce or cause illness. UV adds nothing to the water and does not change its taste. It does not remove minerals, chemicals or sediment, so it works as a disinfection step alongside other treatment.
+
+</div>
+
+<div class="svc-card">
+
+![UV System Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=UV+System+Installation+photo+placeholder)
 
 ### UV System Installation
 
 We install the UV unit on the main line after any sediment or carbon filters, so the water entering the chamber is clear. The technician sizes the unit to your flow rate, mounts it, connects power and tests for flow. The lamp needs replacing about once a year, and the quartz sleeve needs occasional cleaning. Replace the lamp every 12 months even if it still glows, because UV output fades before the lamp burns out.
 
+</div>
+
+<div class="svc-card">
+
+![UV and Water Softener Combination New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=UV+and+Water+Softener+Combination+photo+placeholder)
+
 ### UV and Water Softener Combination
 
 A UV system disinfects, and a softener removes hardness, so they solve different problems. Hardness scale can coat the quartz sleeve and reduce UV output, so softened water helps the UV unit work better. Many homes that use both place the softener ahead of the UV system. NBU's supply is mostly Guadalupe River water with Edwards Aquifer and Trinity Aquifer groundwater added, and hardness is the common local concern. NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, which the U.S. Geological Survey rates as very hard.
+
+</div>
+
+</div>
 
 ### Ideal for Well Water in New Braunfels
 

@@ -16,25 +16,59 @@ faq: [{"q":"What is the difference between a water conditioner and a water softe
 markerCount: 0
 ---
 
+<div class="svc-grid">
+
+<div class="svc-card">
+
+![Salt-Free Water Conditioners New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Salt-Free+Water+Conditioners+photo+placeholder)
+
 ### Salt-Free Water Conditioners
 
 A salt-free water conditioner changes how hardness minerals behave so they form less scale, and it leaves the minerals in the water. It needs no salt and no drain. It suits homeowners who want scale protection with minimal upkeep. Our salt-free page covers template assisted crystallization and the other methods in detail.
+
+</div>
+
+<div class="svc-card">
+
+![Potassium Chloride Water Softener Systems New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Potassium+Chloride+Water+Softener+Systems+photo+placeholder)
 
 ### Potassium Chloride Water Softener Systems
 
 A potassium chloride water softener works like a standard softener, using ion exchange to remove calcium and magnesium, but it regenerates with potassium chloride instead of sodium chloride. The result is softened water without added sodium. Potassium chloride costs more per bag than salt, so running costs run higher. It suits households that limit sodium or follow a doctor's guidance on salt.
 
+</div>
+
+<div class="svc-card">
+
+![Hard Water Treatment Service New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Hard+Water+Treatment+Service+photo+placeholder)
+
 ### Hard Water Treatment Service
 
 A hard water treatment service starts with testing and ends with the right equipment. The options are a softener that removes hardness, a conditioner that reduces scale or a scale inhibitor that protects specific equipment. NBU's supply is mostly Guadalupe River water with Edwards Aquifer and Trinity Aquifer groundwater added. NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, which the U.S. Geological Survey rates as very hard.
+
+</div>
+
+<div class="svc-card">
+
+![Limescale Treatment Service New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Limescale+Treatment+Service+photo+placeholder)
 
 ### Limescale Treatment Service
 
 Limescale is the hard, chalky deposit that builds up inside water heaters, kettles, showerheads and pipes. Our limescale treatment service removes existing buildup from fixtures and equipment and then adds a system to slow its return. Water heaters with heavy scale lose efficiency, so treatment protects energy use as well as hardware.
 
+</div>
+
+<div class="svc-card">
+
+![Scale Inhibitor System Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Scale+Inhibitor+System+Installation+photo+placeholder)
+
 ### Scale Inhibitor System Installation
 
 A scale inhibitor system feeds a small, controlled dose of food-grade polyphosphate into the water. The polyphosphate coats pipe and heater surfaces so scale clings less. Inhibitors are common ahead of water heaters and commercial equipment where full softening is not needed.
+
+</div>
+
+</div>
 
 ### Water Conditioner vs. Softener: What New Braunfels Homes Need
 

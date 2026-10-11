@@ -16,33 +16,79 @@ faq: [{"q":"Is the water test really free?","a":"Ask exactly which tests are fre
 markerCount: 0
 ---
 
+<div class="svc-grid">
+
+<div class="svc-card">
+
+![Free Hard Water Test New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Free+Hard+Water+Test+photo+placeholder)
+
 ### Free Hard Water Test
 
 A hard water test measures calcium and magnesium in your water, reported in milligrams per liter or grains per gallon. One grain per gallon equals about 17.1 mg/L. The U.S. Geological Survey rates water under 60 mg/L as soft, 61 to 120 as moderately hard, 121 to 180 as hard and over 180 as very hard. Ask which tests are free and what each one covers before the visit. The result decides what size of softener fits your home.
+
+</div>
+
+<div class="svc-card">
+
+![TDS Testing New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=TDS+Testing+photo+placeholder)
 
 ### TDS Testing
 
 Total dissolved solids (TDS) is the combined amount of minerals, salts and metals dissolved in water, in milligrams per liter. The EPA's secondary guideline for TDS is 500 mg/L, based on taste and appearance rather than health. A high reading points to reverse osmosis or a mineral-focused treatment.
 
+</div>
+
+<div class="svc-card">
+
+![Iron Content Testing New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Iron+Content+Testing+photo+placeholder)
+
 ### Iron Content Testing
 
 An iron test checks for dissolved and particulate iron. The EPA's secondary level is 0.3 mg/L, above which water stains fixtures and tastes metallic. Iron affects softener choice, because high iron fouls resin without a filter ahead of it.
+
+</div>
+
+<div class="svc-card">
+
+![pH Level Testing New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=pH+Level+Testing+photo+placeholder)
 
 ### pH Level Testing
 
 pH measures how acidic or basic water is. The EPA's secondary range is 6.5 to 8.5. Low pH can corrode pipes and fixtures, and high pH can cause scale and bitter taste. pH also guides the choice of media in some filters.
 
+</div>
+
+<div class="svc-card">
+
+![Chlorine Testing New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Chlorine+Testing+photo+placeholder)
+
 ### Chlorine Testing
 
 A chlorine test measures the disinfectant left in your tap water. It helps explain taste and odor and guides carbon filter choices. NBU reports a total chlorine residual that averaged 2.58 ppm in 2025, so a chlorine test at your tap usually reads near that level.
+
+</div>
+
+<div class="svc-card">
+
+![Sulfur Testing New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Sulfur+Testing+photo+placeholder)
 
 ### Sulfur Testing
 
 A sulfur test confirms hydrogen sulfide, the cause of a rotten-egg smell, most common in private wells. The result decides whether you need an oxidizing filter.
 
+</div>
+
+<div class="svc-card">
+
+![Heavy Metals Testing New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Heavy+Metals+Testing+photo+placeholder)
+
 ### Heavy Metals Testing
 
 Heavy metal tests screen for lead, arsenic and similar metals. These need a certified lab and are most useful for older plumbing, private wells and families with infants. Results guide whether a contaminant filter or reverse osmosis is justified.
+
+</div>
+
+</div>
 
 ### City vs. Well Water Testing in New Braunfels
 

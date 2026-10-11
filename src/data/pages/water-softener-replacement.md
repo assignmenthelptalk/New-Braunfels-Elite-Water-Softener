@@ -16,17 +16,39 @@ faq: [{"q":"How long does water softener replacement take?","a":"Most replacemen
 markerCount: 0
 ---
 
+<div class="svc-grid">
+
+<div class="svc-card">
+
+![Full Water Softener System Replacement New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Full+Water+Softener+System+Replacement+photo+placeholder)
+
 ### Full Water Softener System Replacement
 
 Full replacement swaps the tank, resin, brine tank and control valve for a new system. It is the right choice when the tank leaks or cracks, the control valve fails repeatedly, or the unit is old enough that parts cost more than the value they restore. The technician disconnects the old unit, installs the new one on your existing supply, drain and bypass lines and corrects any plumbing that no longer meets current practice. A new system is sized again from your household's water use, so it fits your home as it is today.
+
+</div>
+
+<div class="svc-card">
+
+![Resin Bed Replacement New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Resin+Bed+Replacement+photo+placeholder)
 
 ### Resin Bed Replacement
 
 The resin bed is the layer of small beads inside the softener tank that traps calcium and magnesium. Over time the beads wear out and stop exchanging minerals. Industry sources commonly cite roughly 10 to 15 years of resin life, and chlorine, iron and heavy water use can shorten it. Replacing the resin alone, when the tank and valve are sound, restores softening for less than a full replacement. A test of your softened water shows whether resin is the problem.
 
+</div>
+
+<div class="svc-card">
+
+![Water Softener Upgrade Service New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Upgrade+Service+photo+placeholder)
+
 ### Water Softener Upgrade Service
 
 An upgrade replaces an undersized or older-generation softener with a higher-capacity or more efficient one. Households that grew, added bathrooms or installed a larger water heater often outgrow their original unit. An upgrade also adds a modern control head that regenerates by actual water use, which saves salt and water compared with a fixed timer. Timer or control head replacement alone is available when the tank and resin still work.
+
+</div>
+
+</div>
 
 
 ## Signs You Need a Water Softener Replacement

@@ -16,17 +16,39 @@ faq: [{"q":"Is New Braunfels water safe to drink?","a":"NBU's water quality repo
 markerCount: 0
 ---
 
+<div class="svc-grid">
+
+<div class="svc-card">
+
+![What Is Hard Water? New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=What+Is+Hard+Water%3F+photo+placeholder)
+
 ### What Is Hard Water?
 
 Hard water is water with a high concentration of dissolved calcium and magnesium. These minerals dissolve as water moves through rock and soil, and they stay in the water until something removes them. Hardness is measured in milligrams per liter (mg/L) of calcium carbonate or in grains per gallon (gpg), where 1 gpg equals about 17.1 mg/L. The U.S. Geological Survey rates water under 60 mg/L as soft, 61 to 120 as moderately hard, 121 to 180 as hard and over 180 as very hard.
+
+</div>
+
+<div class="svc-card">
+
+![Why Is New Braunfels Water Hard? New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Why+Is+New+Braunfels+Water+Hard%3F+photo+placeholder)
 
 ### Why Is New Braunfels Water Hard?
 
 New Braunfels water is hard because most of it comes from underground. According to NBU's 2025 water quality report, NBU has 54,575 acre-feet of water available, and the majority is treated at the Gruene Road Surface Water Treatment Plant from the Guadalupe River. NBU also uses groundwater from the Edwards Aquifer and the Trinity Aquifer, and it can buy water from Green Valley Special Utility District and the Guadalupe-Blanco River Authority as needed. Groundwater that has moved through limestone picks up calcium and magnesium on the way.
 
+</div>
+
+<div class="svc-card">
+
+![How Hard Is New Braunfels Water? New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=How+Hard+Is+New+Braunfels+Water%3F+photo+placeholder)
+
 ### How Hard Is New Braunfels Water?
 
 NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, which the U.S. Geological Survey rates as very hard. A 2023 peer-reviewed study in the journal Groundwater (Simbo) reports calcium and magnesium for ten samples of NBU system water taken in 2020 and 2021, and those values calculate to 13.2 to 15.9 grains per gallon, which agrees with the 2018 figure. Readings vary across the city and through the year because the mix of river water and aquifer groundwater changes, so the number at your tap can differ. A free test at your address gives the figure that matters for choosing equipment.
+
+</div>
+
+</div>
 
 ### What Hard Water Does to a Home
 

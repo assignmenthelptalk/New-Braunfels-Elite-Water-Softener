@@ -16,33 +16,79 @@ faq: [{"q":"Why is my water still hard even though the softener has salt?","a":"
 markerCount: 0
 ---
 
+<div class="svc-grid">
+
+<div class="svc-card">
+
+![Water Softener Control Valve Repair New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Control+Valve+Repair+photo+placeholder)
+
 ### Water Softener Control Valve Repair
 
 The control valve directs water through the service, backwash, brine and rinse stages. When it sticks, leaks or fails to cycle, water stays hard or runs constantly to the drain. We rebuild the valve with new seals and spacers, or replace it when it is worn beyond repair.
+
+</div>
+
+<div class="svc-card">
+
+![Water Softener Motor Replacement New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Motor+Replacement+photo+placeholder)
 
 ### Water Softener Motor Replacement
 
 The motor turns the valve through its cycle. A failed motor leaves the unit stuck in one stage, and you hear a hum or grinding. We replace the motor and reset the cycle.
 
+</div>
+
+<div class="svc-card">
+
+![Float Valve Repair New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Float+Valve+Repair+photo+placeholder)
+
 ### Float Valve Repair
 
 The float valve limits how much water enters the brine tank. A stuck float causes overfilling, weak brine or salt that will not dissolve. We clean or replace the float assembly and set the brine level.
+
+</div>
+
+<div class="svc-card">
+
+![Injector Cleaning New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Injector+Cleaning+photo+placeholder)
 
 ### Injector Cleaning
 
 The injector draws brine into the resin tank. Sediment clogs it, and a blocked injector means no brine reaches the resin, so water stays hard. We remove, clean and test the injector, and replace it if it is damaged.
 
+</div>
+
+<div class="svc-card">
+
+![Head Replacement New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Head+Replacement+photo+placeholder)
+
 ### Head Replacement
 
 The control head holds the timer, display and electronics. When it loses its settings, shows no display or stops responding, replacing the head restores the system without a new tank.
+
+</div>
+
+<div class="svc-card">
+
+![Brine Line Repair New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Brine+Line+Repair+photo+placeholder)
 
 ### Brine Line Repair
 
 The brine line carries brine from the tank to the valve. Cracks, kinks or loose fittings cause air leaks and failed regeneration. We replace damaged tubing and tighten or replace fittings.
 
+</div>
+
+<div class="svc-card">
+
+![Water Softener Leak Repair New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Leak+Repair+photo+placeholder)
+
 ### Water Softener Leak Repair
 
 Leaks occur at the control head, drain line, tank connections or bypass valve. We trace the source, replace the faulty seal, fitting or hose and test for leaks. A leaking or cracked tank usually means replacement.
+
+</div>
+
+</div>
 
 
 ## Common Water Softener Problems We Fix

@@ -16,29 +16,69 @@ faq: [{"q":"How can I tell if my softener is working?","a":"Test the softened wa
 markerCount: 0
 ---
 
+<div class="svc-grid">
+
+<div class="svc-card">
+
+![Hard-Water Symptoms Return New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Hard-Water+Symptoms+Return+photo+placeholder)
+
 ### 1. Hard-Water Symptoms Return
 
 Spotted dishes, scale on faucets, soap film and stiff laundry come back even though the tank has salt. **Check:** run a hardness test on softened water. **Verdict:** if a clean valve and injector do not fix it, the resin is likely spent and needs replacing. NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, so the symptoms are obvious when softening fails.
+
+</div>
+
+<div class="svc-card">
+
+![Salt Use Rises Sharply New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Salt+Use+Rises+Sharply+photo+placeholder)
 
 ### 2. Salt Use Rises Sharply
 
 The unit goes through salt much faster than it used to. **Check:** compare how often you refill against last year. **Verdict:** a worn control head or fouled resin forces extra regenerations. A new control head or a new unit with demand-based regeneration cuts the waste.
 
+</div>
+
+<div class="svc-card">
+
+![Salt Bridges or Mush Keep Returning New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Salt+Bridges+or+Mush+Keep+Returning+photo+placeholder)
+
 ### 3. Salt Bridges or Mush Keep Returning
 
 A salt bridge is a hard crust above the water in the brine tank, and mush is a sludge at the bottom. **Check:** push a broom handle into the salt. **Verdict:** one-time cleaning fixes an isolated case. If it recurs after cleaning, the tank, float or salt type is the problem, and an older unit is better replaced.
+
+</div>
+
+<div class="svc-card">
+
+![Leaks From the Tank, Head or Drain New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Leaks+From+the+Tank%2C+Head+or+Drain+photo+placeholder)
 
 ### 4. Leaks From the Tank, Head or Drain
 
 Water pools around the softener or drips from the control head. **Check:** find where the water starts. **Verdict:** a loose fitting or worn seal is a repair. A leaking or cracked resin tank means replacement.
 
+</div>
+
+<div class="svc-card">
+
+![Error Codes or No Cycling New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Error+Codes+or+No+Cycling+photo+placeholder)
+
 ### 5. Error Codes or No Cycling
 
 The display shows repeated codes or the unit never starts a regeneration. **Check:** power, settings and the error code in your manual. **Verdict:** a motor, board or valve fault on a young unit is repairable. On an older unit, repeated faults point to replacement. Our [Water Softener Repair in New Braunfels, TX](/water-softener-repair/) page covers what we fix.
 
+</div>
+
+<div class="svc-card">
+
+![Resin Beads in Faucets or Sinks New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Resin+Beads+in+Faucets+or+Sinks+photo+placeholder)
+
 ### 6. Resin Beads in Faucets or Sinks
 
 Tiny tan or yellow beads appear in faucet screens or the sink. **Check:** compare them to resin beads from your tank. **Verdict:** a broken distributor or worn tank lets resin escape. This usually calls for replacing the tank or the whole unit.
+
+</div>
+
+</div>
 
 ### 7. The Unit Is Past 10 to 15 Years Old
 

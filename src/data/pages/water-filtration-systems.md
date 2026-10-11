@@ -16,33 +16,79 @@ faq: [{"q":"How often does a water filter need replacing?","a":"Replacement depe
 markerCount: 0
 ---
 
+<div class="svc-grid">
+
+<div class="svc-card">
+
+![Whole House Water Filter New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Whole+House+Water+Filter+photo+placeholder)
+
 ### Whole House Water Filter
 
 A whole house water filter treats water at the main line so every tap and appliance gets filtered water. Typical media remove sediment, chlorine, taste and odor. It protects plumbing, appliances and fixtures, and it pairs with a softener because filtration does not remove hardness. A free test shows which media your water needs.
+
+</div>
+
+<div class="svc-card">
+
+![Under Sink Water Filter New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Under+Sink+Water+Filter+photo+placeholder)
 
 ### Under Sink Water Filter
 
 An under sink water filter treats the water at one faucet, usually for drinking and cooking. It installs inside the cabinet with a dedicated faucet or a connection to the existing tap. It gives better-tasting water without treating the whole house.
 
+</div>
+
+<div class="svc-card">
+
+![Sediment Filter Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Sediment+Filter+Installation+photo+placeholder)
+
 ### Sediment Filter Installation
 
 A sediment filter traps sand, silt and rust particles. Filters are rated in microns, and a lower number catches finer particles. Sediment filtration often comes first in a multi-stage system because it protects the filters behind it. Homes on wells or with older pipes benefit most.
+
+</div>
+
+<div class="svc-card">
+
+![Carbon Block Filter New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Carbon+Block+Filter+photo+placeholder)
 
 ### Carbon Block Filter
 
 A carbon block filter uses compressed activated carbon to reduce chlorine, taste, odor and certain organic compounds. It improves the taste and smell of tap water. Carbon filters need replacement on a schedule because the media fills up. We also handle activated carbon filter replacement. Carbon filter cartridges are typically replaced every 6 to 12 months.
 
+</div>
+
+<div class="svc-card">
+
+![Shower Filter Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Shower+Filter+Installation+photo+placeholder)
+
 ### Shower Filter Installation
 
 A shower filter installs between the pipe and the showerhead to reduce chlorine at the point of use. People with dry skin or sensitive hair often choose it. It does not soften water, so hard-water spotting and soap film remain without a softener.
+
+</div>
+
+<div class="svc-card">
+
+![Refrigerator Filter Replacement New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Refrigerator+Filter+Replacement+photo+placeholder)
 
 ### Refrigerator Filter Replacement
 
 Refrigerator filters improve taste and clarity of ice and water. Manufacturers commonly recommend replacement about every six months, and the right interval depends on the model. We replace filters and reset the indicator.
 
+</div>
+
+<div class="svc-card">
+
+![Multi-Stage Filtration New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Multi-Stage+Filtration+photo+placeholder)
+
 ### Multi-Stage Filtration
 
 A multi-stage system combines sediment, carbon and specialty media in sequence, each stage protecting the next. It suits homes with several water concerns at once, such as sediment plus chlorine plus odor.
+
+</div>
+
+</div>
 
 ### Backwash Filter Systems
 

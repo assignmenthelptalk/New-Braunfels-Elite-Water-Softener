@@ -16,17 +16,39 @@ faq: [{"q":"Is an under-sink system better than a countertop unit?","a":"Under-s
 markerCount: 0
 ---
 
+<div class="svc-grid">
+
+<div class="svc-card">
+
+![Under Sink Drinking Water Systems New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Under+Sink+Drinking+Water+Systems+photo+placeholder)
+
 ### Under Sink Drinking Water Systems
 
 An under-sink drinking water system installs in the cabinet and delivers filtered water to a dedicated faucet. Options range from carbon filters to full reverse osmosis. It gives the best balance of water quality, flow and convenience for a kitchen. NBU's supply is mostly Guadalupe River water with Edwards Aquifer and Trinity Aquifer groundwater added, and many homeowners add an under-sink system to improve taste. NBU's 2025 report does not list total dissolved solids, so a test at your tap gives the number that decides whether a softener and an under-sink reverse osmosis system belong together.
+
+</div>
+
+<div class="svc-card">
+
+![Countertop Purification Units New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Countertop+Purification+Units+photo+placeholder)
 
 ### Countertop Purification Units
 
 A countertop purification unit sits beside the sink and connects to the faucet or fills from a pitcher-style tank. It needs no plumbing work, so it suits renters and small spaces. The tradeoff is lower flow and a smaller capacity than an under-sink system.
 
+</div>
+
+<div class="svc-card">
+
+![Alkaline Water Systems New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Alkaline+Water+Systems+photo+placeholder)
+
 ### Alkaline Water Systems
 
 An alkaline water system adds a stage that raises the water's pH after filtration. It changes how the water tastes and measures on a pH test. Claims about health benefits are limited, so we explain what the stage does and does not do before you choose it. NBU's 2025 report does not list pH, so a test at your tap gives it.
+
+</div>
+
+</div>
 
 ### Bottleless Water Cooler Installation
 

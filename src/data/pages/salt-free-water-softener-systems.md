@@ -22,17 +22,39 @@ A salt-free water softener system is a conditioner that changes how hardness min
 
 New Braunfels water is hard, and NBU draws most of its supply from the Guadalupe River and adds Edwards Aquifer and Trinity Aquifer groundwater. NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, which the U.S. Geological Survey rates as very hard. A salt-free system reduces scale in that water but does not give the slick, mineral-free feel of a salt-based softener. For the full range, see our [Water Softener Systems in New Braunfels, TX](/water-softener-systems/).
 
+<div class="svc-grid">
+
+<div class="svc-card">
+
+![Template Assisted Crystallization (TAC) Systems New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Template+Assisted+Crystallization+%28TAC%29+Systems+photo+placeholder)
+
 ### Template Assisted Crystallization (TAC) Systems
 
 A template assisted crystallization (TAC) system passes water over specially made media that turns dissolved hardness minerals into microscopic crystals. Those crystals stay suspended and resist attaching to pipes, heaters and fixtures. TAC is the most widely used salt-free method, and the media is replaced on a schedule that depends on water use. Manufacturers commonly rate the media at about 5 to 8 years under normal conditions.
+
+</div>
+
+<div class="svc-card">
+
+![Electronic Descaler Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Electronic+Descaler+Installation+photo+placeholder)
 
 ### Electronic Descaler Installation
 
 An electronic descaler wraps a coil around the main pipe and sends a changing electronic signal through the water. It installs in under an hour without cutting pipe. Independent evidence of how well electronic descalers prevent scale is mixed, and results vary with water chemistry, so we explain what to expect before you buy.
 
+</div>
+
+<div class="svc-card">
+
+![Magnetic Water Conditioner Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Magnetic+Water+Conditioner+Installation+photo+placeholder)
+
 ### Magnetic Water Conditioner Installation
 
 A magnetic water conditioner clamps magnets onto the pipe to alter how minerals form scale. It is the lowest-cost, lowest-maintenance option. Independent evidence for magnetic conditioners is limited, and we recommend them only where a light scale reduction is the goal.
+
+</div>
+
+</div>
 
 ### Salt-Free vs. Salt-Based: Which Is Right for New Braunfels Water?
 

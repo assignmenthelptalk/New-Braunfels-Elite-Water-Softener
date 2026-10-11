@@ -16,41 +16,99 @@ faq: [{"q":"What is the best water softener system for New Braunfels homes?","a"
 markerCount: 1
 ---
 
+<div class="svc-grid">
+
+<div class="svc-card">
+
+![Why New Braunfels Water Needs a Water Softener System New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Why+New+Braunfels+Water+Needs+a+Water+Softener+System+photo+placeholder)
+
 ### Why New Braunfels Water Needs a Water Softener System
 
 New Braunfels water tests as very hard, and a softening system treats it where it enters the home so every tap benefits. NBU reports that the majority of its supply is Guadalupe River water treated at the Gruene Road Surface Water Treatment Plant, with Edwards Aquifer and Trinity Aquifer groundwater added, and its 2018 report gave a hardness range of 8.1 to 19.5 grains per gallon. The Water Quality Association classes anything over 10.5 grains per gallon as very hard, so the 15.1 average sits well above that line. <mark class="data-gap">[VERIFY: NBU's current average hardness; its 2019 to 2025 reports do not list hardness]</mark>
+
+</div>
+
+<div class="svc-card">
+
+![Water Softener Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Installation+photo+placeholder)
 
 ### Water Softener Installation
 
 [Water Softener Installation in New Braunfels, TX](/water-softener-installation/) connects a whole-house unit to your main water line, with a bypass valve, a drain line and a tested result at every tap. It is the starting point for most New Braunfels homeowners.
 
+</div>
+
+<div class="svc-card">
+
+![Water Softener Replacement New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Replacement+photo+placeholder)
+
 ### Water Softener Replacement
 
 [Water Softener Replacement in New Braunfels, TX](/water-softener-replacement/) removes a failing or undersized unit and installs a correctly sized new one, including resin bed and upgrade options.
+
+</div>
+
+<div class="svc-card">
+
+![Salt-Free Water Softener Systems New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Salt-Free+Water+Softener+Systems+photo+placeholder)
 
 ### Salt-Free Water Softener Systems
 
 [Salt-Free Water Softener Systems in New Braunfels, TX](/salt-free-water-softener-systems/) condition the water so scale does not stick. They need no salt and no drain line, and they leave the minerals in the water, so they reduce scale rather than remove hardness.
 
+</div>
+
+<div class="svc-card">
+
+![Dual Tank Water Softener Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Dual+Tank+Water+Softener+Installation+photo+placeholder)
+
 ### Dual Tank Water Softener Installation
 
 [Dual Tank Water Softener Installation in New Braunfels, TX](/dual-tank-water-softener/) uses two tanks, so one serves the house while the other regenerates. Soft water never pauses, which suits large households and heavy water use.
+
+</div>
+
+<div class="svc-card">
+
+![Commercial Water Softener Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Commercial+Water+Softener+Installation+photo+placeholder)
 
 ### Commercial Water Softener Installation
 
 [Commercial Water Softener Installation in New Braunfels, TX](/commercial-water-softener/) protects restaurants, laundries, car washes, hotels and other businesses where scale damages equipment and raises operating cost.
 
+</div>
+
+<div class="svc-card">
+
+![Water Softener Maintenance New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Maintenance+photo+placeholder)
+
 ### Water Softener Maintenance
 
 [Water Softener Maintenance in New Braunfels, TX](/water-softener-maintenance/) keeps a unit at full capacity with resin and brine tank checks, cleaning, salt refills and valve testing.
+
+</div>
+
+<div class="svc-card">
+
+![Water Softener Repair New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Repair+photo+placeholder)
 
 ### Water Softener Repair
 
 [Water Softener Repair in New Braunfels, TX](/water-softener-repair/) restores softeners that stop regenerating, leave hard water, use too much salt or leak at the control head.
 
+</div>
+
+<div class="svc-card">
+
+![Water Conditioner Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Conditioner+Installation+photo+placeholder)
+
 ### Water Conditioner Installation
 
 [Water Conditioner Installation in New Braunfels, TX](/water-conditioner-installation/) adds a scale-control system to the main line for homes that want protection without salt or a drain.
+
+</div>
+
+</div>
 
 ### How to Choose a Water Softener System
 

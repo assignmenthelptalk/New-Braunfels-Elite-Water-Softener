@@ -16,21 +16,49 @@ faq: [{"q":"How much salt does a water softener use?","a":"Salt use depends on h
 markerCount: 0
 ---
 
+<div class="svc-grid">
+
+<div class="svc-card">
+
+![Water Softener Resin Cleaning Service New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Resin+Cleaning+Service+photo+placeholder)
+
 ### Water Softener Resin Cleaning Service
 
 Resin cleaning removes iron, sediment and mineral film from the resin beads that do the softening. Fouled resin loses capacity, so water turns hard sooner after each cycle. We flush the resin bed with a resin cleaner and test your softened water afterward. Homes on private wells or with iron in the water benefit most. A routine service visit typically takes 60 to 90 minutes.
+
+</div>
+
+<div class="svc-card">
+
+![Water Softener Salt Refill Service New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Salt+Refill+Service+photo+placeholder)
 
 ### Water Softener Salt Refill Service
 
 A salt refill service keeps the brine tank stocked so the softener can regenerate. Keep the salt level above about one-third full, and check it monthly. We deliver and load salt that suits your unit, whether block, pellet or crystal, or potassium chloride for households that avoid sodium. Ask whether the installer delivers salt, and compare that with buying 40-pound bags yourself.
 
+</div>
+
+<div class="svc-card">
+
+![Water Softener Brine Tank Cleaning New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Water+Softener+Brine+Tank+Cleaning+photo+placeholder)
+
 ### Water Softener Brine Tank Cleaning
 
 The brine tank collects sludge from impurities in salt over time, and sludge can clog the injector and block the brine line. We empty the tank, remove sludge and salt crust, rinse it and refill with fresh salt. Plan this about once a year, or sooner if you see a salt bridge or a thick, wet layer at the bottom.
 
+</div>
+
+<div class="svc-card">
+
+![Annual Maintenance Plans New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Annual+Maintenance+Plans+photo+placeholder)
+
 ### Annual Maintenance Plans
 
 An annual maintenance plan covers a scheduled inspection of the resin, control valve, injector, brine system and settings, along with cleaning. Regular service extends the life of the unit and spots small problems before they become repairs. A yearly service visit typically includes sanitization, a valve check and a tune-up, and a salt delivery is a separate item. Ask what a plan includes and how many visits it covers each year.
+
+</div>
+
+</div>
 
 ### How Often Does a Softener Need Service in New Braunfels?
 

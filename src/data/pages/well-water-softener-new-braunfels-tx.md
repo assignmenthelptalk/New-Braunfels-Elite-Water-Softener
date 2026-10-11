@@ -16,25 +16,59 @@ faq: [{"q":"Can a water softener remove iron from well water?","a":"A softener r
 markerCount: 0
 ---
 
+<div class="svc-grid">
+
+<div class="svc-card">
+
+![Well Water Softener Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Well+Water+Softener+Installation+photo+placeholder)
+
 ### Well Water Softener Installation
 
 A well water softener installs after the pressure tank so it treats all water entering the house. The unit is sized to your household's water use and the hardness of your well, and it needs clean water to work properly. Iron, sulfur and sediment must be handled first or alongside it, because they foul the resin.
+
+</div>
+
+<div class="svc-card">
+
+![Iron Filter Installation New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Iron+Filter+Installation+photo+placeholder)
 
 ### Iron Filter Installation
 
 An iron filter removes dissolved iron that causes orange or rust stains on fixtures and laundry, and a metallic taste. It oxidizes the iron and filters it out before the water reaches the softener. Removing iron protects the softener's resin and extends its life.
 
+</div>
+
+<div class="svc-card">
+
+![Hydrogen Sulfide Filter New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Hydrogen+Sulfide+Filter+photo+placeholder)
+
 ### Hydrogen Sulfide Filter
 
 Hydrogen sulfide gives water a rotten-egg smell. A hydrogen sulfide filter uses an oxidizing media or carbon to remove the gas and the odor. A test confirms that sulfur is the cause before we install one.
+
+</div>
+
+<div class="svc-card">
+
+![Well Water Sediment Filter New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Well+Water+Sediment+Filter+photo+placeholder)
 
 ### Well Water Sediment Filter
 
 A sediment filter catches sand, silt and rust particles that cloud well water and clog equipment. It installs at the start of the treatment line and protects every stage behind it.
 
+</div>
+
+<div class="svc-card">
+
+![Why Well Water in the New Braunfels Area Needs Special Treatment New Braunfels TX](https://placehold.co/660x440/1A3C5E/FFFFFF.png?text=Why+Well+Water+in+the+New+Braunfels+Area+Needs+Special+Treatment+photo+placeholder)
+
 ### Why Well Water in the New Braunfels Area Needs Special Treatment
 
 Private wells draw directly from an aquifer, and NBU itself uses groundwater from the Edwards Aquifer and the Trinity Aquifer. City water is different: NBU treats and tests it before it reaches homes, and its 2025 report lists no violations. Well water is not. Hardness, iron, sulfur and other minerals occur naturally in groundwater, and each well differs, so a test is the only reliable guide.
+
+</div>
+
+</div>
 
 ### Well Water Testing
 
