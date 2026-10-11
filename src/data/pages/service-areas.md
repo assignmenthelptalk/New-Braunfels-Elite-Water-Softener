@@ -24,7 +24,7 @@ We serve Gruene, Vintage Oaks, Veramendi, Creekside and River Chase, along with 
 - Vintage Oaks
 - Veramendi
 - Creekside
-- River Chase
+- [River Chase](/water-softener-river-chase-new-braunfels/)
 
 ## Nearby Towns
 
@@ -32,7 +32,7 @@ We serve Gruene, Vintage Oaks, Veramendi, Creekside and River Chase, along with 
 - [Seguin](/water-softener-seguin-tx/): Guadalupe River water plus Carrizo Aquifer groundwater.
 - [Canyon Lake](/water-softener-canyon-lake-tx/): Canyon Lake Reservoir water blended with Trinity Aquifer groundwater.
 - [Wimberley](/water-softener-wimberley-tx/): Trinity Aquifer groundwater in Hays County.
-- Bulverde and Spring Branch in Comal County.
+- [Bulverde](/water-softener-bulverde-tx/) and [Spring Branch](/water-softener-spring-branch-tx/) in Comal County.
 
 Not sure whether your home is in our area? Call or request an estimate, and we will confirm.
 

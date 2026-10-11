@@ -1,5 +1,5 @@
 {
-  "source": "OpenStreetMap Nominatim, looked up 2026-10-11. City and town points are the OSM boundary centres (Canyon Lake is the OSM place node). Add a point here for every location page once it is written.",
+  "source": "OpenStreetMap Nominatim, looked up 2026-10-11. River Chase has no OpenStreetMap entry, so it has no pin yet. City and town points are the OSM boundary centres (Canyon Lake is the OSM place node). Add a point here for every location page once it is written.",
   "center": {
     "name": "New Braunfels",
     "lat": 29.7028,
@@ -32,6 +32,20 @@
       "slug": "/water-softener-canyon-lake-tx/",
       "lat": 29.8643,
       "lng": -98.2438,
+      "approx": false
+    },
+    {
+      "name": "Bulverde",
+      "slug": "/water-softener-bulverde-tx/",
+      "lat": 29.7438,
+      "lng": -98.4531,
+      "approx": false
+    },
+    {
+      "name": "Spring Branch",
+      "slug": "/water-softener-spring-branch-tx/",
+      "lat": 29.8902,
+      "lng": -98.4264,
       "approx": false
     }
   ]
