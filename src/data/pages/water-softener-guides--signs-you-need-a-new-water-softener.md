@@ -11,7 +11,7 @@ openingHtml: "You need to replace your water softener when hard water keeps retu
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"signs-you-need-a-new-water-softener-new-braunfels-tx.webp","alt":"Signs you need a new water softener New Braunfels TX scale on faucet and leaking tank"}
-images: [{"file":"signs-you-need-a-new-water-softener-new-braunfels-tx.webp","alt":"Signs you need a new water softener New Braunfels TX scale on faucet and leaking tank","exists":true},{"file":"card-hard-water-symptoms-return-new-braunfels-tx.webp","alt":"Hard-Water Symptoms Return New Braunfels TX","exists":true},{"file":"card-salt-use-rises-sharply-new-braunfels-tx.webp","alt":"Salt Use Rises Sharply New Braunfels TX","exists":false},{"file":"card-salt-bridges-or-mush-keep-returning-new-braunfels-tx.webp","alt":"Salt Bridges or Mush Keep Returning New Braunfels TX","exists":false},{"file":"card-leaks-from-the-tank-head-or-drain-new-braunfels-tx.webp","alt":"Leaks From the Tank, Head or Drain New Braunfels TX","exists":false},{"file":"card-error-codes-or-no-cycling-new-braunfels-tx.webp","alt":"Error Codes or No Cycling New Braunfels TX","exists":false},{"file":"card-resin-beads-in-faucets-or-sinks-new-braunfels-tx.webp","alt":"Resin Beads in Faucets or Sinks New Braunfels TX","exists":false}]
+images: [{"file":"signs-you-need-a-new-water-softener-new-braunfels-tx.webp","alt":"Signs you need a new water softener New Braunfels TX scale on faucet and leaking tank","exists":true},{"file":"card-hard-water-symptoms-return-new-braunfels-tx.webp","alt":"Hard-Water Symptoms Return New Braunfels TX","exists":true},{"file":"card-salt-use-rises-sharply-new-braunfels-tx.webp","alt":"Salt Use Rises Sharply New Braunfels TX","exists":true},{"file":"card-salt-bridges-or-mush-keep-returning-new-braunfels-tx.webp","alt":"Salt Bridges or Mush Keep Returning New Braunfels TX","exists":true},{"file":"card-leaks-from-the-tank-head-or-drain-new-braunfels-tx.webp","alt":"Leaks From the Tank, Head or Drain New Braunfels TX","exists":false},{"file":"card-error-codes-or-no-cycling-new-braunfels-tx.webp","alt":"Error Codes or No Cycling New Braunfels TX","exists":false},{"file":"card-resin-beads-in-faucets-or-sinks-new-braunfels-tx.webp","alt":"Resin Beads in Faucets or Sinks New Braunfels TX","exists":false}]
 faq: [{"q":"How can I tell if my softener is working?","a":"Test the softened water for hardness or watch for spots and scale. Soft water also makes soap lather easily."},{"q":"Is a new softener worth it if mine is 12 years old?","a":"Often yes, if it shows any of the signs above. New units regenerate by demand and use less salt and water."},{"q":"Can I replace just the control head?","a":"Yes, when the tank and resin are sound. It restores timing and cycles for less than a new unit."},{"q":"How long does replacement take?","a":"Most replacements finish in one visit, often in 2 to 4 hours. New Braunfels Elite Water Softener TX provides water softener replacement for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---
@@ -39,7 +39,10 @@ Spotted dishes, scale on faucets, soap film and stiff laundry come back even tho
 <div class="svc-card">
 
 
-![Salt Use Rises Sharply New Braunfels TX](/placeholders/card.svg)
+
+![Salt Use Rises Sharply New Braunfels TX](../../assets/images/card-salt-use-rises-sharply-new-braunfels-tx.webp)
+
+
 
 ### 2. Salt Use Rises Sharply
 
@@ -50,7 +53,10 @@ The unit goes through salt much faster than it used to. **Check:** compare how o
 <div class="svc-card">
 
 
-![Salt Bridges or Mush Keep Returning New Braunfels TX](/placeholders/card.svg)
+
+![Salt Bridges or Mush Keep Returning New Braunfels TX](../../assets/images/card-salt-bridges-or-mush-keep-returning-new-braunfels-tx.webp)
+
+
 
 ### 3. Salt Bridges or Mush Keep Returning
 
