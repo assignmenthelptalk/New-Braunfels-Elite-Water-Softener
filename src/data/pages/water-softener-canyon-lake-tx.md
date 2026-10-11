@@ -10,8 +10,8 @@ crumb: "Water Softener Installation & Service in Canyon Lake, TX"
 openingHtml: "Water softener installation and service in Canyon Lake, TX covers installing, replacing, repairing and testing softeners for homes around the lake. The area's largest utility blends Canyon Lake Reservoir water with Trinity Aquifer groundwater, and its 2018 report measured total hardness from 187 to 333 mg/L. New Braunfels Elite Water Softener serves Canyon Lake from its <a href=\"/\">water softener New Braunfels TX</a> base. Request a free estimate to get started."
 formHeading: ""
 formIntro: ""
-leadImage: null
-images: [{"file":"water-softener-canyon-lake-tx.webp","alt":"Water softener Canyon Lake TX home installation","exists":false}]
+leadImage: {"file":"water-softener-canyon-lake-tx.webp","alt":"Water softener Canyon Lake TX home installation"}
+images: [{"file":"water-softener-canyon-lake-tx.webp","alt":"Water softener Canyon Lake TX home installation","exists":true}]
 faq: [{"q":"How hard is Canyon Lake water?","a":"Canyon Lake water is hard to very hard. The Canyon Lake Water Service Company 2018 report for Canyon Lake Shores listed total hardness from 187 to 333 mg/L, which is 10.9 to 19.5 grains per gallon, so a free test at your tap gives the number for your home."},{"q":"Where does Canyon Lake's water come from?","a":"The main utility takes surface water from Canyon Lake Reservoir at two treatment plants and adds groundwater from the Trinity Aquifer. Smaller systems and private wells supply some homes."},{"q":"What size water softener does a Canyon Lake home need?","a":"Size depends on household water use and your test result. At 15 grains per gallon, a household of four using 320 gallons a day removes about 4,800 grains daily, and a 48,000-grain unit fits that load. New Braunfels Elite Water Softener TX provides water softener installation and service in Canyon Lake, TX and serves homes and businesses across Comal County."}]
 markerCount: 1
 ---

@@ -10,8 +10,8 @@ crumb: "Water Softener Installation & Service in Bulverde, TX"
 openingHtml: "Water softener installation and service in Bulverde, TX covers installing, replacing, repairing and testing softeners for homes in the city and the Hill Country around it. The City of Bulverde runs no water system of its own, and two private utilities supply its residents. New Braunfels Elite Water Softener serves Bulverde from its <a href=\"/\">water softener New Braunfels TX</a> base. Request a free estimate to get started."
 formHeading: ""
 formIntro: ""
-leadImage: null
-images: [{"file":"water-softener-bulverde-tx.webp","alt":"Water softener Bulverde TX home installation","exists":false}]
+leadImage: {"file":"water-softener-bulverde-tx.webp","alt":"Water softener Bulverde TX home installation"}
+images: [{"file":"water-softener-bulverde-tx.webp","alt":"Water softener Bulverde TX home installation","exists":true}]
 faq: [{"q":"Who supplies water in Bulverde?","a":"The City of Bulverde does not run a water system. It lists The Texas Water Company and Water Services, Inc. as the utilities serving its residents, so your water bill shows which one serves your address."},{"q":"How hard is Bulverde water?","a":"Hardness depends on your supply. The Texas Water Company's Canyon Lake Shores report listed total hardness of 187 to 333 mg/L in 2018, which is 10.9 to 19.5 grains per gallon, and a free test at your tap gives the number for your home."},{"q":"What size water softener does a Bulverde home need?","a":"Size depends on household water use and your test result. At 15 grains per gallon, a household of four using 320 gallons a day removes about 4,800 grains daily, and a 48,000-grain unit fits that load. New Braunfels Elite Water Softener TX provides water softener installation and service in Bulverde, TX and serves homes and businesses across Comal County."}]
 markerCount: 1
 ---

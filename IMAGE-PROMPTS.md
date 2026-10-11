@@ -303,7 +303,7 @@ A homeowner seen from behind at a sunlit kitchen table with a laptop (screen fac
 - **Alt text (from the page copy):** Water softener Bulverde TX home installation
 
 ```
-A quiet street in a small the Texas Hill Country town in the spirit of Bulverde: modest single-story brick and stone homes, live oaks, limestone outcrops and a rolling hill horizon under a big sky; one garage is open and a generic water softener is just visible inside. No people, no vehicles with markings, no signs. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A quiet street in a small town in the Texas Hill Country, in the spirit of Bulverde: modest single-story brick and stone homes, live oaks, limestone outcrops and a rolling hill horizon under a big sky; one garage is open and a generic water softener is just visible inside. No people, no vehicles with markings, no signs. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `water-softener-canyon-lake-tx`
@@ -312,7 +312,7 @@ A quiet street in a small the Texas Hill Country town in the spirit of Bulverde:
 - **Alt text (from the page copy):** Water softener Canyon Lake TX home installation
 
 ```
-A quiet street in a small the Texas Hill Country town in the spirit of Canyon Lake: modest single-story brick and stone homes, live oaks, limestone outcrops and a rolling hill horizon under a big sky; one garage is open and a generic water softener is just visible inside. No people, no vehicles with markings, no signs. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A quiet street in a small town in the Texas Hill Country, in the spirit of Canyon Lake: modest single-story brick and stone homes, live oaks, limestone outcrops and a rolling hill horizon under a big sky; one garage is open and a generic water softener is just visible inside. No people, no vehicles with markings, no signs. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `water-softener-river-chase-new-braunfels`
@@ -330,7 +330,7 @@ A tidy residential street in a newer New Braunfels neighborhood in the spirit of
 - **Alt text (from the page copy):** Water softener San Marcos TX home installation
 
 ```
-A quiet street in a small the Texas Hill Country town in the spirit of San Marcos: modest single-story brick and stone homes, live oaks, limestone outcrops and a rolling hill horizon under a big sky; one garage is open and a generic water softener is just visible inside. No people, no vehicles with markings, no signs. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A quiet street in a small town in the Texas Hill Country, in the spirit of San Marcos: modest single-story brick and stone homes, live oaks, limestone outcrops and a rolling hill horizon under a big sky; one garage is open and a generic water softener is just visible inside. No people, no vehicles with markings, no signs. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `water-softener-seguin-tx`
@@ -339,7 +339,7 @@ A quiet street in a small the Texas Hill Country town in the spirit of San Marco
 - **Alt text (from the page copy):** Water softener Seguin TX home installation
 
 ```
-A quiet street in a small the Texas Hill Country town in the spirit of Seguin: modest single-story brick and stone homes, live oaks, limestone outcrops and a rolling hill horizon under a big sky; one garage is open and a generic water softener is just visible inside. No people, no vehicles with markings, no signs. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A quiet street in a small town in the Texas Hill Country, in the spirit of Seguin: modest single-story brick and stone homes, live oaks, limestone outcrops and a rolling hill horizon under a big sky; one garage is open and a generic water softener is just visible inside. No people, no vehicles with markings, no signs. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `water-softener-spring-branch-tx`
@@ -348,7 +348,7 @@ A quiet street in a small the Texas Hill Country town in the spirit of Seguin: m
 - **Alt text (from the page copy):** Water softener Spring Branch TX home installation
 
 ```
-A quiet street in a small the Texas Hill Country town in the spirit of Spring Branch: modest single-story brick and stone homes, live oaks, limestone outcrops and a rolling hill horizon under a big sky; one garage is open and a generic water softener is just visible inside. No people, no vehicles with markings, no signs. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A quiet street in a small town in the Texas Hill Country, in the spirit of Spring Branch: modest single-story brick and stone homes, live oaks, limestone outcrops and a rolling hill horizon under a big sky; one garage is open and a generic water softener is just visible inside. No people, no vehicles with markings, no signs. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `water-softener-wimberley-tx`
@@ -357,7 +357,7 @@ A quiet street in a small the Texas Hill Country town in the spirit of Spring Br
 - **Alt text (from the page copy):** Water softener Wimberley TX home installation
 
 ```
-A quiet street in a small the Texas Hill Country town in the spirit of Wimberley: modest single-story brick and stone homes, live oaks, limestone outcrops and a rolling hill horizon under a big sky; one garage is open and a generic water softener is just visible inside. No people, no vehicles with markings, no signs. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+A quiet street in a small town in the Texas Hill Country, in the spirit of Wimberley: modest single-story brick and stone homes, live oaks, limestone outcrops and a rolling hill horizon under a big sky; one garage is open and a generic water softener is just visible inside. No people, no vehicles with markings, no signs. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 

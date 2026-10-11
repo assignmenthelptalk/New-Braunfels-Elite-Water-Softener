@@ -10,8 +10,8 @@ crumb: "Water Softener Installation & Service in River Chase, TX"
 openingHtml: "Water softener installation and service in River Chase, TX covers installing, replacing, repairing and testing softeners for homes in this New Braunfels neighborhood. New Braunfels Utilities (NBU) operates a Riverchase Pressure Zone, and NBU water is very hard. New Braunfels Elite Water Softener serves River Chase from its <a href=\"/\">water softener New Braunfels TX</a> base. Request a free estimate to get started."
 formHeading: ""
 formIntro: ""
-leadImage: null
-images: [{"file":"water-softener-river-chase-new-braunfels.webp","alt":"Water softener River Chase New Braunfels TX home installation","exists":false}]
+leadImage: {"file":"water-softener-river-chase-new-braunfels.webp","alt":"Water softener River Chase New Braunfels TX home installation"}
+images: [{"file":"water-softener-river-chase-new-braunfels.webp","alt":"Water softener River Chase New Braunfels TX home installation","exists":true}]
 faq: [{"q":"How hard is River Chase water?","a":"River Chase water is very hard if NBU supplies your address. NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, with a range of 8.1 to 19.5 grains per gallon."},{"q":"Who supplies water in River Chase?","a":"NBU issued a boil-water notice for its Riverchase Pressure Zone in February 2023, which ties the neighborhood to NBU. Your NBU bill confirms it for your address."},{"q":"What size water softener does a River Chase home need?","a":"Size depends on household water use and your test result. At 15 grains per gallon, a household of four using 320 gallons a day removes about 4,800 grains daily, and a 48,000-grain unit fits that load. New Braunfels Elite Water Softener TX provides water softener installation and service in River Chase, TX and serves homes and businesses across Comal County."}]
 markerCount: 1
 ---

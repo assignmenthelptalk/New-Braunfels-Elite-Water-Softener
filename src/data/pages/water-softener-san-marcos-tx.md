@@ -10,8 +10,8 @@ crumb: "Water Softener Installation & Service in San Marcos, TX"
 openingHtml: "Water softener installation and service in San Marcos, TX covers installing, replacing, repairing and testing softeners for homes across the city. The City of San Marcos 2024 water quality report puts average hardness at 16 grains per gallon, about 269 mg/L, which is very hard. New Braunfels Elite Water Softener serves San Marcos from its <a href=\"/\">water softener New Braunfels TX</a> base. Request a free estimate to get started."
 formHeading: ""
 formIntro: ""
-leadImage: null
-images: [{"file":"water-softener-san-marcos-tx.webp","alt":"Water softener San Marcos TX home installation","exists":false}]
+leadImage: {"file":"water-softener-san-marcos-tx.webp","alt":"Water softener San Marcos TX home installation"}
+images: [{"file":"water-softener-san-marcos-tx.webp","alt":"Water softener San Marcos TX home installation","exists":true}]
 faq: [{"q":"How hard is San Marcos water?","a":"San Marcos water is very hard. The City of San Marcos 2024 water quality report lists average total hardness of 16 grains per gallon, about 269 mg/L, with a range of 14 to 18 grains per gallon."},{"q":"What water sources does San Marcos use?","a":"San Marcos uses groundwater from the Edwards Aquifer and the Carrizo-Wilcox Aquifer, plus surface water from Canyon Lake. The mix changes with demand, so a free test at your tap gives the reading for your home."},{"q":"What size water softener does a San Marcos home need?","a":"Size depends on household water use and hardness. At 16 grains per gallon, a household of four using 320 gallons a day removes about 5,120 grains daily, and a 48,000-grain unit fits that load. New Braunfels Elite Water Softener TX provides water softener installation and service in San Marcos, TX and serves homes and businesses across Comal County."}]
 markerCount: 0
 ---
