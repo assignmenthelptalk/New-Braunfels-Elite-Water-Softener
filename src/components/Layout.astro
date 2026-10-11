@@ -35,15 +35,16 @@ interface NavData { hubs: NavLink[]; services: NavLink[]; guideHub: NavLink | nu
 const nav = navData as NavData;
 const navGroups = nav.hubs.map((hub) => ({ hub, items: nav.services.filter((service) => service.parent === hub.href) }));
 const navLabels: string[] = nav.menuLabels ?? [];
-// Footer: a flat row of the hubs, the two footer-only hubs, About and Contact.
+// Footer: only the menu's own top-level links, with the menu's labels (like the header), so the footer adds no
+// extra outgoing links. The guides hub is reached from the "Other Services" dropdown.
 const footerLinks: NavLink[] = [
   { href: "/", label: "Home" },
-  ...nav.hubs,
-  ...(nav.guideHub ? [nav.guideHub] : []),
-  ...(nav.geoHub ? [nav.geoHub] : []),
+  ...nav.hubs.map((hub, i) => ({ href: hub.href, label: navLabels[i] ?? hub.label })),
+  ...(nav.geoHub ? [{ href: nav.geoHub.href, label: "Service Areas" }] : []),
   { href: "/about/", label: "About" },
   { href: "/contact/", label: "Contact" },
 ];
+const hasEmail = site.businessEmail && site.businessEmail !== "BUSINESS_EMAIL";
 ---
 
 <!doctype html>
@@ -153,6 +154,7 @@ const footerLinks: NavLink[] = [
                   {group.items.map((item) => (
                     <a href={item.href}>{item.label}</a>
                   ))}
+                  {index === navGroups.length - 1 && nav.guideHub && <a href={nav.guideHub.href}>Guides</a>}
                 </div>
               </li>
             ))
@@ -173,9 +175,12 @@ const footerLinks: NavLink[] = [
     <footer class="site-footer">
       <div class="container footer-inner">
         <span class="footer-brand">{site.businessName}</span>
-        {site.phoneNumber && site.phoneNumber !== "PHONE_NUMBER" && (
-          <a class="footer-phone" href={`tel:${telDigits}`}>{site.phoneNumber}</a>
-        )}
+        <div class="footer-contact">
+          {site.phoneNumber && site.phoneNumber !== "PHONE_NUMBER" && (
+            <a class="footer-phone" href={`tel:${telDigits}`}>{site.phoneNumber}</a>
+          )}
+          {hasEmail && <a class="footer-email" href={`mailto:${site.businessEmail}`}>{site.businessEmail}</a>}
+        </div>
 
         <nav class="footer-nav" aria-label="Footer">
           {footerLinks.map((link) => (
@@ -518,17 +523,21 @@ const footerLinks: NavLink[] = [
         margin-bottom: 8px;
         display: block;
       }
-      .footer-phone {
+      .footer-contact { margin-bottom: 24px; }
+      .footer-phone,
+      .footer-email {
         font-family: var(--font-body);
         font-size: 14px;
         color: rgba(255, 255, 255, 0.70);
         text-decoration: none;
         display: block;
-        margin-bottom: 24px;
+        margin-bottom: 4px;
         transition: color 150ms ease;
       }
-      .footer-phone:hover { color: #ffffff; }
-      .footer-phone:focus-visible { outline: 2px solid rgba(255, 255, 255, 0.50); outline-offset: 2px; }
+      .footer-phone:hover,
+      .footer-email:hover { color: #ffffff; }
+      .footer-phone:focus-visible,
+      .footer-email:focus-visible { outline: 2px solid rgba(255, 255, 255, 0.50); outline-offset: 2px; }
       .footer-nav {
         display: flex;
         flex-wrap: wrap;

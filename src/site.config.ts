@@ -309,7 +309,7 @@ export const siteConfig: SiteConfig = {
   // Business identity — edit directly, no CMS
   businessName: "New Braunfels Elite Water Softener",
   phoneNumber: "(830) 000-0000",
-  businessEmail: "BUSINESS_EMAIL",
+  businessEmail: "tupateltd@gmail.com",
   address: "",
   googleBusinessUrl: "",
   siteUrl: `https://${domain}`,
