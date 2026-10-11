@@ -1,8 +1,8 @@
 ---
 title: "7 Signs You Need to Replace Your Water Softener in New Braunfels, TX | Trusted Local Specialists"
 seoTitle: "7 Signs You Need to Replace Your Water Softener in New Braunfels, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
-description: "You need to replace your water softener when hard water keeps returning, repairs keep failing, the tank leaks or the unit is past about 10 to 15 years..."
-metaDraft: true
+description: "7 signs your water softener needs replacing in New Braunfels, TX, from returning hard-water spots to rising salt use. Learn when repair stops paying off."
+metaDraft: false
 slug: "/water-softener-guides/signs-you-need-a-new-water-softener/"
 pageType: "guide"
 parentSlug: "/water-softener-guides/"

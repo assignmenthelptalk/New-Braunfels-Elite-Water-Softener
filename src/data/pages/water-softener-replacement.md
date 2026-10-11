@@ -1,8 +1,8 @@
 ---
 title: "Water Softener Replacement in New Braunfels, TX | Trusted Local Specialists"
 seoTitle: "Water Softener Replacement in New Braunfels, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
-description: "Water softener replacement in New Braunfels, TX removes an old or failing unit and installs a correctly sized new one on your existing plumbing, so..."
-metaDraft: true
+description: "Water softener replacement in New Braunfels, TX: remove a failing unit and install a correctly sized new one, or replace the resin bed. Free estimate."
+metaDraft: false
 slug: "/water-softener-replacement/"
 pageType: "core-service"
 parentSlug: "/water-softener-systems/"

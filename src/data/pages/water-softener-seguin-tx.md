@@ -1,8 +1,8 @@
 ---
 title: "Water Softener Installation & Service in Seguin, TX | Trusted Local Specialists"
 seoTitle: "Water Softener Installation & Service in Seguin, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
-description: "Water softener installation and service in Seguin, TX covers installing, replacing, repairing and testing softeners for homes in the city and the farms..."
-metaDraft: true
+description: "Water softener installation and service in Seguin, TX, where water comes from the Guadalupe River and Carrizo Aquifer. Free test and estimate for homes."
+metaDraft: false
 slug: "/water-softener-seguin-tx/"
 pageType: "geo"
 parentSlug: "/service-areas/"

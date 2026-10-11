@@ -1,8 +1,8 @@
 ---
 title: "Water Softener Repair in New Braunfels, TX | Trusted Local Specialists"
 seoTitle: "Water Softener Repair in New Braunfels, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
-description: "Water softener repair in New Braunfels, TX finds and fixes the failed part when your softener stops softening, leaks, stops regenerating or shows an..."
-metaDraft: true
+description: "Water softener repair in New Braunfels, TX for units that stop regenerating, let hard water through, leak or use too much salt. Request a free estimate."
+metaDraft: false
 slug: "/water-softener-repair/"
 pageType: "service"
 parentSlug: "/water-softener-systems/"

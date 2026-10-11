@@ -1,8 +1,8 @@
 ---
 title: "Dual Tank Water Softener Installation in New Braunfels, TX | Trusted Local Specialists"
 seoTitle: "Dual Tank Water Softener Installation in New Braunfels, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
-description: "A dual tank water softener in New Braunfels, TX uses two resin tanks so one always serves the house while the other regenerates, and softened water..."
-metaDraft: true
+description: "Dual tank water softener installation in New Braunfels, TX gives softened water around the clock, even during regeneration. How it works. Free estimate."
+metaDraft: false
 slug: "/dual-tank-water-softener/"
 pageType: "service"
 parentSlug: "/water-softener-systems/"

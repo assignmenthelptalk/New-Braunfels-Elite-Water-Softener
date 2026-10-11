@@ -1,8 +1,8 @@
 ---
 title: "Water Softener Installation & Service in Canyon Lake, TX | Trusted Local Specialists"
 seoTitle: "Water Softener Installation & Service in Canyon Lake, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
-description: "Water softener installation and service in Canyon Lake, TX covers installing, replacing, repairing and testing softeners for homes around the lake. The..."
-metaDraft: true
+description: "Water softener installation and service in Canyon Lake, TX, where local water tested 10.9 to 19.5 gpg in 2018. Sized to your home and water. Free estimate."
+metaDraft: false
 slug: "/water-softener-canyon-lake-tx/"
 pageType: "geo"
 parentSlug: "/service-areas/"

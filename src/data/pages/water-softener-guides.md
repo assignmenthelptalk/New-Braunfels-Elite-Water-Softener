@@ -1,8 +1,8 @@
 ---
 title: "Water Softener Guides for New Braunfels Homeowners | Trusted Local Specialists"
 seoTitle: "Water Softener Guides for New Braunfels Homeowners | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
-description: "These guides answer the questions New Braunfels, TX homeowners ask before they buy, replace or repair a water softener. Each one uses local water facts..."
-metaDraft: true
+description: "Water softener guides for New Braunfels homeowners: hard water, sizing, cost, salt vs salt-free, lifespan and replacement signs, written for local water."
+metaDraft: false
 slug: "/water-softener-guides/"
 pageType: "guide-hub"
 parentSlug: "/"

@@ -1,8 +1,8 @@
 ---
 title: "Water Softener Service Areas in New Braunfels, TX | Trusted Local Specialists"
 seoTitle: "Water Softener Service Areas in New Braunfels, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
-description: "New Braunfels Elite Water Softener installs, replaces, repairs and tests water softeners in New Braunfels and across the Texas Hill Country. Water..."
-metaDraft: true
+description: "Water softener service areas around New Braunfels, TX: San Marcos, Seguin, Wimberley, Canyon Lake and more, with the water source for each. Free estimate."
+metaDraft: false
 slug: "/service-areas/"
 pageType: "geo-hub"
 parentSlug: "/"

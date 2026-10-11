@@ -1,8 +1,8 @@
 ---
 title: "UV Water Purification System Installation in New Braunfels, TX | Trusted Local Specialists"
 seoTitle: "UV Water Purification System Installation in New Braunfels, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
-description: "UV water purification system installation in New Braunfels, TX adds an ultraviolet light chamber that inactivates bacteria and viruses in your water..."
-metaDraft: true
+description: "UV water purification system installation in New Braunfels, TX inactivates bacteria and viruses without chemicals. See what UV treats and what it does not."
+metaDraft: false
 slug: "/uv-water-purification/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"

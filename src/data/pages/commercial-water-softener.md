@@ -1,8 +1,8 @@
 ---
 title: "Commercial Water Softener Installation in New Braunfels, TX | Trusted Local Specialists"
 seoTitle: "Commercial Water Softener Installation in New Braunfels, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
-description: "A commercial water softener in New Braunfels, TX protects a business's boilers, dishwashers, ice machines and plumbing from the scale that New..."
-metaDraft: true
+description: "Commercial water softener installation in New Braunfels, TX for restaurants, offices and shops. Sized to your flow rate and peak demand. Free estimate."
+metaDraft: false
 slug: "/commercial-water-softener/"
 pageType: "service"
 parentSlug: "/water-softener-systems/"

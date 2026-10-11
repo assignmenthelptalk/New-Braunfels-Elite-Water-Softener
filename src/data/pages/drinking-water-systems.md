@@ -1,8 +1,8 @@
 ---
 title: "Drinking Water System Installation in New Braunfels, TX | Trusted Local Specialists"
 seoTitle: "Drinking Water System Installation in New Braunfels, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
-description: "Drinking water system installation in New Braunfels, TX puts a purification unit where you actually drink and cook: under the sink, on the counter or..."
-metaDraft: true
+description: "Drinking water system installation in New Braunfels, TX: under-sink filters and reverse osmosis taps for cleaner water at the faucet. Request an estimate."
+metaDraft: false
 slug: "/drinking-water-systems/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"

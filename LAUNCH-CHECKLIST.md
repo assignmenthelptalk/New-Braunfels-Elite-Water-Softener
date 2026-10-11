@@ -20,7 +20,7 @@ Do not publish while any item below is open. Markers show on the site as highlig
 ## Totals
 - Pages built: 30
 - Open markers: 5
-- Draft meta descriptions: 27
+- Draft meta descriptions: 0
 
 ## Per page
 ### /
@@ -29,127 +29,127 @@ Do not publish while any item below is open. Markers show on the site as highlig
   - [VERIFY: NBU's current average hardness; its 2019 to 2025 reports do not list hardness]
 
 ### /commercial-water-softener/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /drinking-water-systems/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /dual-tank-water-softener/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /reverse-osmosis-installation/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /salt-free-water-softener-systems/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /service-areas/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /uv-water-purification/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /water-conditioner-installation/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /water-contaminant-removal-new-braunfels-tx/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /water-filtration-systems/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /water-quality-testing/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /water-softener-canyon-lake-tx/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 1
   - [VERIFY: the current average hardness; the report on file is the 2018 edition]
 
 ### /water-softener-guides/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /water-softener-guides/hard-water-new-braunfels-tx/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /water-softener-guides/how-long-do-water-softeners-last/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /water-softener-guides/salt-vs-salt-free-water-softener/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /water-softener-guides/signs-you-need-a-new-water-softener/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /water-softener-guides/water-softener-cost-new-braunfels-tx/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /water-softener-guides/water-softener-size-guide/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /water-softener-installation/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /water-softener-maintenance/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /water-softener-repair/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /water-softener-replacement/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /water-softener-san-marcos-tx/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)
 
 ### /water-softener-seguin-tx/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 1
   - [NEEDS DATA: Seguin's average hardness; the 2025 report lists no hardness figure, so confirm with the city at 830-379-3212]
 
@@ -159,7 +159,7 @@ Do not publish while any item below is open. Markers show on the site as highlig
   - [VERIFY: NBU's current average hardness; its 2019 to 2025 reports do not list hardness]
 
 ### /water-softener-wimberley-tx/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 1
   - [NEEDS DATA: Wimberley WSC's average hardness; the 2025 report lists no hardness figure, so confirm with the utility]
 
@@ -169,6 +169,6 @@ Do not publish while any item below is open. Markers show on the site as highlig
   - (none)
 
 ### /well-water-softener-new-braunfels-tx/
-- Meta description: DRAFT, needs final wording
+- Meta description: final
 - Open markers: 0
   - (none)

@@ -1,8 +1,8 @@
 ---
 title: "Water Softener Cost in New Braunfels, TX | Trusted Local Specialists"
 seoTitle: "Water Softener Cost in New Braunfels, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
-description: "The cost of a water softener in New Braunfels, TX depends on the system type, its capacity and what the installation involves, so two homes can pay..."
-metaDraft: true
+description: "What decides water softener cost in New Braunfels, TX: capacity, system type and plumbing. See what a quote includes and get a free itemized estimate."
+metaDraft: false
 slug: "/water-softener-guides/water-softener-cost-new-braunfels-tx/"
 pageType: "guide"
 parentSlug: "/water-softener-guides/"

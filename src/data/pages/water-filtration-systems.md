@@ -1,8 +1,8 @@
 ---
 title: "Water Filtration System Installation in New Braunfels, TX | Trusted Local Specialists"
 seoTitle: "Water Filtration System Installation in New Braunfels, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
-description: "Water filtration system installation in New Braunfels, TX puts filters where they protect your home and improve your water: at the main line, under the..."
-metaDraft: true
+description: "Whole house water filtration installation in New Braunfels, TX reduces chlorine taste and sediment at every tap. Pairs with a softener. Free estimate."
+metaDraft: false
 slug: "/water-filtration-systems/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"

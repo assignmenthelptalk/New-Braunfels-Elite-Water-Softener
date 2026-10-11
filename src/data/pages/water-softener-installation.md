@@ -1,8 +1,8 @@
 ---
 title: "Water Softener Installation in New Braunfels, TX | Trusted Local Specialists"
 seoTitle: "Water Softener Installation in New Braunfels, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
-description: "Water softener installation in New Braunfels, TX connects a softening system to your home's main water line so every faucet, shower and appliance..."
-metaDraft: true
+description: "Water softener installation in New Braunfels, TX, sized to your household and your water. Bypass valve, drain line and a tested result. Free estimate."
+metaDraft: false
 slug: "/water-softener-installation/"
 pageType: "core-service"
 parentSlug: "/water-softener-systems/"

@@ -1,8 +1,8 @@
 ---
 title: "Hard Water in New Braunfels, TX | Trusted Local Specialists"
 seoTitle: "Hard Water in New Braunfels, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
-description: "Hard water in New Braunfels, TX is water that carries dissolved calcium and magnesium, and NBU supplies it mostly from the Guadalupe River with Edwards..."
-metaDraft: true
+description: "New Braunfels water averaged 15.1 grains per gallon in NBU's 2018 report, which is very hard. Learn what that does to pipes and fixtures and how to fix it."
+metaDraft: false
 slug: "/water-softener-guides/hard-water-new-braunfels-tx/"
 pageType: "guide"
 parentSlug: "/water-softener-guides/"

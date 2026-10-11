@@ -1,8 +1,8 @@
 ---
 title: "Water Quality Testing in New Braunfels, TX | Trusted Local Specialists"
 seoTitle: "Water Quality Testing in New Braunfels, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
-description: "Water quality testing in New Braunfels, TX measures the hardness, minerals, disinfectants and contaminants in your tap water so you know what, if..."
-metaDraft: true
+description: "Water quality testing in New Braunfels, TX measures hardness, iron, pH and total dissolved solids so the right system is sized first. Request a free test."
+metaDraft: false
 slug: "/water-quality-testing/"
 pageType: "service"
 parentSlug: "/water-treatment-and-testing/"
