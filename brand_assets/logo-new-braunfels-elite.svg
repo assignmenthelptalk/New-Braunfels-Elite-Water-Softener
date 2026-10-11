@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <g transform="translate(18 22) scale(2.56)">
+  <defs>
+    <clipPath id="a"><path d="M50 5 C50 5 19 40 19 63 A31 31 0 0 0 81 63 C81 40 50 5 50 5 Z"/></clipPath>
+    <linearGradient id="ag" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#24507B"/><stop offset="1" stop-color="#12293F"/></linearGradient>
+  </defs>
+  <path d="M50 5 C50 5 19 40 19 63 A31 31 0 0 0 81 63 C81 40 50 5 50 5 Z" fill="url(#ag)"/>
+  <g clip-path="url(#a)">
+    <path d="M10 70 C24 60 34 62 46 69 C58 76 70 74 92 62 L92 100 L10 100 Z" fill="#E87722"/>
+    <path d="M10 80 C24 72 36 74 48 80 C60 86 72 85 92 75 L92 100 L10 100 Z" fill="#E6EDF4" opacity="0.95"/>
+    <path d="M10 88 C26 82 38 84 50 89 C62 94 74 93 92 85 L92 100 L10 100 Z" fill="#1A3C5E"/>
+  </g>
+  <path d="M33 47 C30 53 29 58 30 63" fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" opacity="0.85"/></g>
+  <text x="318" y="148" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="96" font-weight="800" letter-spacing="2" fill="#1A3C5E">NEW BRAUNFELS</text>
+  <rect x="322" y="170" width="90" height="7" rx="3.5" fill="#E87722"/>
+  <text x="320" y="238" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="9" fill="#E87722">ELITE WATER SOFTENER</text>
+</svg>
