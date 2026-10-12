@@ -10,8 +10,8 @@ crumb: "Water Softener Installation & Service in Wimberley, TX"
 openingHtml: "Water softener installation and service in Wimberley, TX covers installing, replacing, repairing and testing softeners for homes in the village and the Hill Country around it. Wimberley Water Supply Corporation draws its water from the Trinity Aquifer in Hays County. New Braunfels Elite Water Softener serves Wimberley from its <a href=\"/\">water softener New Braunfels TX</a> base. Request a free estimate to get started."
 formHeading: ""
 formIntro: ""
-leadImage: null
-images: [{"file":"water-softener-wimberley-tx.webp","alt":"Water softener Wimberley TX home installation","exists":false}]
+leadImage: {"file":"water-softener-wimberley-tx.webp","alt":"Water softener Wimberley TX home installation"}
+images: [{"file":"water-softener-wimberley-tx.webp","alt":"Water softener Wimberley TX home installation","exists":true}]
 faq: [{"q":"Where does Wimberley's water come from?","a":"Wimberley Water Supply Corporation draws groundwater from the Trinity Aquifer in Hays County. Smaller utilities and private wells supply some homes outside its system."},{"q":"How do I find out how hard my Wimberley water is?","a":"A free water test at your tap gives the exact hardness in grains per gallon. The utility's 2025 report lists no hardness figure, so a test is the reliable way to size a softener."},{"q":"Does Wimberley city water need a softener?","a":"Groundwater from limestone carries calcium and magnesium, and a test shows whether your reading is above the 10.5 grains per gallon that the Water Quality Association calls very hard. If it is, a softener protects pipes, appliances and fixtures. New Braunfels Elite Water Softener TX provides water softener installation and service in Wimberley, TX and serves homes and businesses across Comal County."}]
 markerCount: 1
 ---
