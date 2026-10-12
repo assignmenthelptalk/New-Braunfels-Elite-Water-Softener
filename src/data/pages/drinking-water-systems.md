@@ -32,7 +32,7 @@ Three drinking water systems cover most homes: under sink systems, countertop pu
 
 ### Under Sink Drinking Water Systems
 
-An under-sink drinking water system installs in the cabinet and delivers filtered water to a dedicated faucet. Options range from carbon filters to full reverse osmosis. It gives the best balance of water quality, flow and convenience for a kitchen. NBU's supply is mostly Guadalupe River water with Edwards Aquifer and Trinity Aquifer groundwater added, and many homeowners add an under-sink system to improve taste. NBU's 2025 report does not list total dissolved solids, so a test at your tap gives the number that decides whether a softener and an under-sink reverse osmosis system belong together.
+An under-sink drinking water system installs in the cabinet and delivers filtered water to a dedicated faucet. Options range from carbon filters to full [reverse osmosis](/reverse-osmosis-installation/). It gives the best balance of water quality, flow and convenience for a kitchen. NBU's supply is mostly Guadalupe River water with Edwards Aquifer and Trinity Aquifer groundwater added, and many homeowners add an under-sink system to improve taste. NBU's 2025 report does not list total dissolved solids, so a test at your tap gives the number that decides whether a softener and an under-sink reverse osmosis system belong together.
 
 </div>
 
@@ -60,7 +60,7 @@ A countertop purification unit sits beside the sink and connects to the faucet o
 
 ### Alkaline Water Systems
 
-An alkaline water system adds a stage that raises the water's pH after filtration. It changes how the water tastes and measures on a pH test. Claims about health benefits are limited, so we explain what the stage does and does not do before you choose it. NBU's 2025 report does not list pH, so a test at your tap gives it.
+An alkaline water system adds a stage that raises the water's pH after [filtration](/water-filtration-systems/). It changes how the water tastes and measures on a pH test. Claims about health benefits are limited, so we explain what the stage does and does not do before you choose it. NBU's 2025 report does not list pH, so a test at your tap gives it.
 
 </div>
 
@@ -76,6 +76,10 @@ A bottleless water cooler connects to your water line and filters water on deman
 ## Which drinking water system fits your home or office?
 
 Choose by space, flow and quality target. Under sink gives the best all-round result, countertop is simplest, and a cooler suits busy offices. A free estimate compares them for you.
+
+
+
+Homeowners comparing options also read about [UV water purification](/uv-water-purification/), [free water testing](/water-quality-testing/), [the hard water guide](/water-softener-guides/hard-water-new-braunfels-tx/) and [water contaminant removal](/water-contaminant-removal-new-braunfels-tx/).
 
 
 

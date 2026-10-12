@@ -32,7 +32,7 @@ Seven tests cover hardness, total dissolved solids, iron, pH, chlorine, sulfur a
 
 ### Free Hard Water Test
 
-A hard water test measures calcium and magnesium in your water, reported in milligrams per liter or grains per gallon. One grain per gallon equals about 17.1 mg/L. The U.S. Geological Survey rates water under 60 mg/L as soft, 61 to 120 as moderately hard, 121 to 180 as hard and over 180 as very hard. Ask which tests are free and what each one covers before the visit. The result decides what size of softener fits your home.
+A [hard water](/water-softener-guides/hard-water-new-braunfels-tx/) test measures calcium and magnesium in your water, reported in milligrams per liter or grains per gallon. One grain per gallon equals about 17.1 mg/L. The U.S. Geological Survey rates water under 60 mg/L as soft, 61 to 120 as moderately hard, 121 to 180 as hard and over 180 as very hard. Ask which tests are free and what each one covers before the visit. The result decides what size of softener fits your home.
 
 </div>
 
@@ -46,7 +46,7 @@ A hard water test measures calcium and magnesium in your water, reported in mill
 
 ### TDS Testing
 
-Total dissolved solids (TDS) is the combined amount of minerals, salts and metals dissolved in water, in milligrams per liter. The EPA's secondary guideline for TDS is 500 mg/L, based on taste and appearance rather than health. A high reading points to reverse osmosis or a mineral-focused treatment.
+Total dissolved solids (TDS) is the combined amount of minerals, salts and metals dissolved in water, in milligrams per liter. The EPA's secondary guideline for TDS is 500 mg/L, based on taste and appearance rather than health. A high reading points to [reverse osmosis](/reverse-osmosis-installation/) or a mineral-focused treatment.
 
 </div>
 
@@ -102,7 +102,7 @@ A chlorine test measures the disinfectant left in your tap water. It helps expla
 
 ### Sulfur Testing
 
-A sulfur test confirms hydrogen sulfide, the cause of a rotten-egg smell, most common in private wells. The result decides whether you need an oxidizing filter.
+A sulfur test confirms hydrogen sulfide, the cause of a rotten-egg smell, most common in [private wells](/well-water-softener-new-braunfels-tx/). The result decides whether you need an oxidizing filter.
 
 </div>
 
@@ -132,6 +132,10 @@ City water and well water need different testing. NBU's 2025 report shows that m
 ## Which test comes first?
 
 Start with hardness, TDS and pH, which cover the common local issues. Add iron and sulfur for wells or staining, and add heavy metals when plumbing is old or there is an infant in the home.
+
+
+
+Homeowners comparing options also read about [water contaminant removal](/water-contaminant-removal-new-braunfels-tx/), [whole-house water filtration](/water-filtration-systems/), [water softener installation](/water-softener-installation/) and [the other towns we serve](/service-areas/).
 
 
 

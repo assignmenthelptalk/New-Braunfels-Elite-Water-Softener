@@ -27,7 +27,7 @@ Hardness shows up at home whatever the source. Scale narrows pipes, coats water 
 - **Installation:** a sized whole-house softener with a bypass valve, drain connection and a tested result. See [Water Softener Installation in New Braunfels, TX](/water-softener-installation/) for the full process.
 - **Replacement and upgrade:** removal of a failing unit and installation of a correctly sized new one.
 - **Repair and maintenance:** control valves, injectors, leaks, salt and resin service.
-- **Water testing:** a hardness, iron and pH test at your tap.
+- **[Water testing](/water-quality-testing/):** a hardness, iron and pH test at your tap.
 - **Well water treatment:** for homes outside the city system on private wells, with iron and sediment filters where the test shows a need.
 
 ## About Seguin Water Quality
@@ -38,9 +38,13 @@ Homes on private wells are not covered by any utility report. A well owner tests
 
 ## Service Areas Near Seguin
 
-We serve New Braunfels, Canyon Lake, San Marcos, Wimberley, Bulverde and Spring Branch. See the full [Water Softener Service Areas in New Braunfels, TX](/service-areas/) page for the list.
+We serve New Braunfels, Canyon Lake, [San Marcos](/water-softener-san-marcos-tx/), Wimberley, Bulverde and Spring Branch. See the full [Water Softener Service Areas in New Braunfels, TX](/service-areas/) page for the list.
 
 > **Not a good fit if...** you are on a private well with iron or bacteria. A softener alone will not fix those, and we test and treat them first.
+
+
+
+Nearby homeowners also use our [water softener repair](/water-softener-repair/), [water softener service in River Chase](/water-softener-river-chase-new-braunfels/), [the hard water guide](/water-softener-guides/hard-water-new-braunfels-tx/) and [water softener maintenance](/water-softener-maintenance/).
 
 
 ## Frequently Asked Questions About Water Softeners in Seguin, TX

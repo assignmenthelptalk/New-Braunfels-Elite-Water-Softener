@@ -40,7 +40,7 @@ Full replacement swaps the tank, resin, brine tank and control valve for a new s
 
 ### Resin Bed Replacement
 
-The resin bed is the layer of small beads inside the softener tank that traps calcium and magnesium. Over time the beads wear out and stop exchanging minerals. Industry sources commonly cite roughly 10 to 15 years of resin life, and chlorine, iron and heavy water use can shorten it. Replacing the resin alone, when the tank and valve are sound, restores softening for less than a full replacement. A test of your softened water shows whether resin is the problem.
+The resin bed is the layer of small beads inside the softener tank that traps calcium and magnesium. Over time the beads wear out and stop exchanging minerals. Industry sources commonly cite roughly [10 to 15 years](/water-softener-guides/how-long-do-water-softeners-last/) of resin life, and chlorine, iron and heavy water use can shorten it. Replacing the resin alone, when the tank and valve are sound, restores softening for less than a full replacement. A test of your softened water shows whether resin is the problem.
 
 </div>
 
@@ -60,7 +60,7 @@ An upgrade replaces an undersized or older-generation softener with a higher-cap
 
 ## Signs You Need a Water Softener Replacement
 
-Eight signs point to replacement or a repair visit:
+Eight [signs](/water-softener-guides/signs-you-need-a-new-water-softener/) point to replacement or a repair visit:
 
 - Soap scum, spotted dishes or scale return on fixtures even though salt is in the tank.
 - Water tastes or feels hard straight after a regeneration cycle.
@@ -89,6 +89,10 @@ Replacement cost depends on whether you replace the whole system, only the resin
 ## Repair or replace: which fits your water softener?
 
 Repair makes sense when the unit is young and one part has failed. Replacement makes sense when the tank leaks, the resin is spent or repairs keep returning. A free inspection gives you both prices side by side.
+
+
+
+Homeowners comparing options also read about [water softener installation](/water-softener-installation/), [water softener repair](/water-softener-repair/), [what a water softener costs](/water-softener-guides/water-softener-cost-new-braunfels-tx/), [dual tank water softeners](/dual-tank-water-softener/) and [free water testing](/water-quality-testing/).
 
 
 

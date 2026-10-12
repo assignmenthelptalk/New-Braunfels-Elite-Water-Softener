@@ -22,7 +22,7 @@ A salt-based softener passes water through a tank of resin beads that hold sodiu
 
 ### How a Salt-Free System Works
 
-A salt-free system does not remove calcium and magnesium. The most common type, template assisted crystallization (TAC), turns dissolved minerals into tiny crystals that stay suspended and resist sticking to pipes and fixtures. Electronic descalers and magnetic conditioners use signals or magnets on the pipe instead. Independent evidence for those two is limited or mixed, so we recommend TAC when scale reduction is the goal. There is no NSF/ANSI standard for TAC performance yet, so we explain the limits before you buy.
+A salt-free system does not remove calcium and magnesium. The most common type, template assisted crystallization (TAC), turns dissolved minerals into tiny crystals that stay suspended and resist sticking to pipes and fixtures. Electronic descalers and magnetic [conditioners](/water-conditioner-installation/) use signals or magnets on the pipe instead. Independent evidence for those two is limited or mixed, so we recommend TAC when scale reduction is the goal. There is no NSF/ANSI standard for TAC performance yet, so we explain the limits before you buy.
 
 ### Salt vs. Salt-Free at a Glance
 
@@ -45,7 +45,11 @@ NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, 
 
 ## Which system fits your home?
 
-Choose salt-based for the strongest result in hard water. Choose salt-free for low maintenance and scale protection. A free water test and a short conversation decide it.
+Choose salt-based for the strongest result in [hard water](/water-softener-guides/hard-water-new-braunfels-tx/). Choose salt-free for low maintenance and scale protection. A free water test and a short conversation decide it.
+
+
+
+To go further, see [water softener installation](/water-softener-installation/), [what a water softener costs](/water-softener-guides/water-softener-cost-new-braunfels-tx/) and [how long a water softener lasts](/water-softener-guides/how-long-do-water-softeners-last/).
 
 
 

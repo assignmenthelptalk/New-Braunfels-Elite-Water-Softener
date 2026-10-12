@@ -18,9 +18,9 @@ markerCount: 0
 
 ### What Is a Salt-Free Water Softener System?
 
-A salt-free water softener system is a conditioner that changes how hardness minerals behave instead of removing them. Calcium and magnesium stay in the water, but they are less likely to form hard scale. The unit installs on the main line, needs no electricity or a drain in most designs and has no regeneration cycle. Because it adds no sodium, it suits homeowners watching salt intake.
+A salt-free water softener system is a [conditioner](/water-conditioner-installation/) that changes how hardness minerals behave instead of removing them. Calcium and magnesium stay in the water, but they are less likely to form hard scale. The unit installs on the main line, needs no electricity or a drain in most designs and has no regeneration cycle. Because it adds no sodium, it suits homeowners watching salt intake.
 
-New Braunfels water is hard, and NBU draws most of its supply from the Guadalupe River and adds Edwards Aquifer and Trinity Aquifer groundwater. NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, which the U.S. Geological Survey rates as very hard. A salt-free system reduces scale in that water but does not give the slick, mineral-free feel of a salt-based softener. For the full range, see our [Water Softener Systems in New Braunfels, TX](/water-softener-systems/).
+New Braunfels water is hard, and NBU draws most of its supply from the Guadalupe River and adds Edwards Aquifer and Trinity Aquifer groundwater. NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, which the U.S. Geological Survey rates as very hard. A salt-free system reduces scale in that water but does not give the slick, mineral-free feel of a [salt-based](/water-softener-guides/salt-vs-salt-free-water-softener/) softener. For the full range, see our [Water Softener Systems in New Braunfels, TX](/water-softener-systems/).
 
 ## Which Salt-Free Water Conditioners Are Available in New Braunfels, TX?
 
@@ -84,7 +84,11 @@ A salt-based softener removes calcium and magnesium through ion exchange, and it
 
 ## Which system matches your water and your priorities?
 
-Match the system to the result you want: scale protection for pipes and heaters, or fully softened water at every tap. A free water test and a short conversation settle it.
+Match the system to the result you want: scale protection for pipes and heaters, or fully softened water at every tap. A [free water test](/water-quality-testing/) and a short conversation settle it.
+
+
+
+Homeowners comparing options also read about [water softener installation](/water-softener-installation/), [the hard water guide](/water-softener-guides/hard-water-new-braunfels-tx/) and [how long a water softener lasts](/water-softener-guides/how-long-do-water-softeners-last/).
 
 
 

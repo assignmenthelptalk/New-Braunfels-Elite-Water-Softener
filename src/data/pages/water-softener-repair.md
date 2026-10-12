@@ -18,7 +18,7 @@ markerCount: 0
 
 ## What Water Softener Repairs Are Available in New Braunfels, TX?
 
-Seven repairs cover the common failures: control valve repair, motor replacement, float valve repair, injector cleaning, head replacement, brine line repair and leak repair.
+Seven repairs cover the common failures: control valve repair, motor [replacement](/water-softener-replacement/), float valve repair, injector cleaning, head replacement, brine line repair and leak repair.
 
 <div class="svc-grid">
 
@@ -120,6 +120,10 @@ Leaks occur at the control head, drain line, tank connections or bypass valve. W
 ## Is it time to repair or replace?
 
 Repair fits a young unit with one failed part. Replacement fits an old unit, a leaking tank or repeated failures. Our free inspection compares both prices.
+
+
+
+Homeowners comparing options also read about [water softener maintenance](/water-softener-maintenance/), [signs you need a new water softener](/water-softener-guides/signs-you-need-a-new-water-softener/), [how long a water softener lasts](/water-softener-guides/how-long-do-water-softeners-last/), [free water testing](/water-quality-testing/) and [water softener installation](/water-softener-installation/).
 
 
 

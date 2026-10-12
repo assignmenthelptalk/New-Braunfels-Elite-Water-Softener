@@ -65,6 +65,10 @@ Count the people in the home, estimate heavy water use and get a hardness and ir
 
 
 
+To go further, see [free water testing](/water-quality-testing/), [what a water softener costs](/water-softener-guides/water-softener-cost-new-braunfels-tx/), [the hard water guide](/water-softener-guides/hard-water-new-braunfels-tx/) and [salt-based and salt-free softeners compared](/water-softener-guides/salt-vs-salt-free-water-softener/).
+
+
+
 ## Frequently Asked Questions
 
 <div class="faq-list">

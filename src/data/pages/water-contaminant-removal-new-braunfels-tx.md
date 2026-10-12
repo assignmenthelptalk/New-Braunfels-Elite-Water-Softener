@@ -29,7 +29,7 @@ Six filter types target specific contaminants: lead and arsenic, chloramine and 
 
 ### Lead and Arsenic Removal
 
-Lead enters drinking water mainly from old plumbing, and the EPA sets its health goal for lead at zero. Arsenic occurs naturally in some groundwater, and the EPA limit is 10 micrograms per liter. Under-sink reverse osmosis systems and certified filters reduce both. We recommend filters certified to the relevant NSF/ANSI standard and a test before and after installation.
+Lead enters drinking water mainly from old plumbing, and the EPA sets its health goal for lead at zero. Arsenic occurs naturally in some groundwater, and the EPA limit is 10 micrograms per liter. Under-sink [reverse osmosis systems](/reverse-osmosis-installation/) and certified filters reduce both. We recommend filters certified to the relevant NSF/ANSI standard and a test before and after installation.
 
 </div>
 
@@ -79,7 +79,7 @@ PFAS are man-made chemicals. In 2024 the EPA set limits of 4 parts per trillion 
 
 ### Nitrate Filter Installation
 
-Nitrate comes from fertilizer, septic systems and livestock, and the EPA limit is 10 milligrams per liter as nitrogen. It matters most for infants and for private wells in farming areas. Ion exchange and reverse osmosis reduce nitrate, and boiling water does not.
+Nitrate comes from fertilizer, septic systems and livestock, and the EPA limit is 10 milligrams per liter as nitrogen. It matters most for infants and for [private wells](/well-water-softener-new-braunfels-tx/) in farming areas. Ion exchange and reverse osmosis reduce nitrate, and boiling water does not.
 
 </div>
 
@@ -110,6 +110,10 @@ Test your water if you have a private well, an infant in the home, old plumbing,
 ## How do you know which contaminant matters?
 
 Only a test tells you. Start with a standard panel, then add tests for the concern that prompted it.
+
+
+
+Homeowners comparing options also read about [free water testing](/water-quality-testing/), [whole-house water filtration](/water-filtration-systems/), [UV water purification](/uv-water-purification/) and [the hard water guide](/water-softener-guides/hard-water-new-braunfels-tx/).
 
 
 

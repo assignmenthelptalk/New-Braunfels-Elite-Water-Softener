@@ -68,7 +68,7 @@ A UV system disinfects, and a softener removes hardness, so they solve different
 
 ### Ideal for Well Water in New Braunfels
 
-Private wells are not tested or disinfected for you, and well-water guidance recommends that owners test for bacteria at least annually. UV purification is a chemical-free way to protect a household when a test finds bacteria or when you want ongoing protection. Wells with sediment or iron need those problems treated first, since particles shield microbes from the light.
+[Private wells](/well-water-softener-new-braunfels-tx/) are not tested or disinfected for you, and well-water guidance recommends that owners test for bacteria at least annually. UV purification is a chemical-free way to protect a household when a test finds bacteria or when you want ongoing protection. Wells with sediment or iron need those problems treated first, since particles shield microbes from the light.
 
 > **Not a good fit if...** your main concern is chemicals, hardness or taste. UV does not address those. A carbon filter, softener or RO does.
 
@@ -76,6 +76,10 @@ Private wells are not tested or disinfected for you, and well-water guidance rec
 ## Does your water need disinfection?
 
 If a test finds bacteria, or you rely on a private well, disinfection is worth adding. A test tells you before you spend.
+
+
+
+Homeowners comparing options also read about [whole-house water filtration](/water-filtration-systems/), [free water testing](/water-quality-testing/), [drinking water systems](/drinking-water-systems/) and [the hard water guide](/water-softener-guides/hard-water-new-braunfels-tx/).
 
 
 

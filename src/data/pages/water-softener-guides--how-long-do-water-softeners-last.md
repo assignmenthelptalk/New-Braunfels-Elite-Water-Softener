@@ -65,6 +65,10 @@ If it is over ten years old, uses more salt than it used to or lets hard water t
 
 
 
+To go further, see [water softener repair](/water-softener-repair/), [signs you need a new water softener](/water-softener-guides/signs-you-need-a-new-water-softener/), [what a water softener costs](/water-softener-guides/water-softener-cost-new-braunfels-tx/) and [water softener installation](/water-softener-installation/).
+
+
+
 ## Frequently Asked Questions
 
 <div class="faq-list">

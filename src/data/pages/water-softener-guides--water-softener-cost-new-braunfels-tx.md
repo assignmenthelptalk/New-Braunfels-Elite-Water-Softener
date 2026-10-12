@@ -20,7 +20,7 @@ markerCount: 0
 
 Eight factors set the price of a softener installed in New Braunfels:
 
-- **System type:** salt-based, salt-free, dual tank or a softener paired with a filter or reverse osmosis.
+- **System type:** salt-based, salt-free, [dual tank](/dual-tank-water-softener/) or a softener paired with a filter or reverse osmosis.
 - **Capacity:** larger households and harder water need more resin and a larger tank.
 - **Brand and valve:** control valve quality and warranty vary widely.
 - **Installation conditions:** distance to a drain, access to the main line and the condition of existing plumbing.
@@ -71,6 +71,10 @@ Compare capacity first, since a cheap unit that is too small costs more in salt 
 ## How do you get an exact price?
 
 Request a free estimate. A technician tests your water, checks the install location and gives an itemized price in writing before any work starts. See our [Water Softener Installation in New Braunfels, TX](/water-softener-installation/) page for what the visit covers.
+
+
+
+To go further, see [how to size a water softener](/water-softener-guides/water-softener-size-guide/), [how long a water softener lasts](/water-softener-guides/how-long-do-water-softeners-last/), [water softener replacement](/water-softener-replacement/) and [the hard water guide](/water-softener-guides/hard-water-new-braunfels-tx/).
 
 
 

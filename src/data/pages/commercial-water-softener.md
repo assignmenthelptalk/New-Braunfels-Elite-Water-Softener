@@ -21,7 +21,7 @@ markerCount: 0
 Commercial systems come in four common forms:
 
 - **Single-tank high-capacity units** for steady, moderate demand.
-- **Dual tank systems** that alternate tanks for continuous softened water around the clock.
+- **[Dual tank systems](/dual-tank-water-softener/)** that alternate tanks for continuous softened water around the clock.
 - **High-flow systems** with larger valves for sites that draw a lot of water at once.
 - **Softener plus filter combinations** that also remove sediment and chlorine before equipment.
 
@@ -35,11 +35,11 @@ NBU's supply is mostly Guadalupe River water with Edwards Aquifer and Trinity Aq
 
 ### Commercial vs. Residential Water Softeners
 
-Commercial units differ from residential ones in four ways: they handle higher flow rates, hold more resin, run around the clock and usually come with a service schedule. A residential unit placed on a commercial load wears out fast and lets hard water through, so sizing from peak flow is the first step.
+Commercial units differ from residential ones in four ways: they handle higher flow rates, hold more resin, run around the clock and usually come with a service schedule. A residential unit placed on a commercial load wears out fast and lets hard water through, so [sizing](/water-softener-guides/water-softener-size-guide/) from peak flow is the first step.
 
 ### Commercial Installation Process
 
-1. **Site visit and water test.** We measure flow, pressure and hardness and review the equipment to protect.
+1. **Site visit and [water test](/water-quality-testing/).** We measure flow, pressure and hardness and review the equipment to protect.
 2. **Written proposal.** You receive a sized system and an itemized price.
 3. **Installation.** A qualified technician installs the unit with a bypass valve and drain, scheduled to limit downtime. Ask for the technician's TCEQ or plumbing-board licence number and proof of insurance before the work starts.
 4. **Handover and support.** We show your staff how to check salt and read the control head.
@@ -54,6 +54,10 @@ Commercial softeners need salt, cleaning and inspection on a regular schedule so
 ## Which checks decide the right commercial system?
 
 Check three things: peak flow in gallons per minute, which equipment needs protection first and how much downtime you can accept during installation. A free site review settles all three.
+
+
+
+Homeowners comparing options also read about [water softener installation](/water-softener-installation/), [water softener maintenance](/water-softener-maintenance/) and [whole-house water filtration](/water-filtration-systems/).
 
 
 

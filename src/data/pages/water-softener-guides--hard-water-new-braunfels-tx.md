@@ -84,12 +84,16 @@ Three options reduce the effects of hard water:
 2. **A conditioner or descaler** changes how minerals form scale without removing them. It reduces scale with less maintenance but does not make water feel soft.
 3. **Point-of-use treatment**, such as a shower filter or an under-sink system, improves one tap and leaves the rest of the house untreated.
 
-Most New Braunfels homeowners choose a salt-based softener when hardness is the main complaint. A test first confirms hardness and checks for iron, which affects sizing.
+Most New Braunfels homeowners choose a [salt-based](/water-softener-guides/salt-vs-salt-free-water-softener/) softener when hardness is the main complaint. A test first confirms hardness and checks for iron, which affects [sizing](/water-softener-guides/water-softener-size-guide/).
 
 
 ## How do you know how hard your water is?
 
 Test it. A home test strip gives a rough reading, and a technician test gives a precise one with iron and other values. Our [Water Quality Testing in New Braunfels, TX](/water-quality-testing/) covers hardness, total dissolved solids, iron, pH and more.
+
+
+
+To go further, see [salt-free water softener systems](/salt-free-water-softener-systems/) and [what a water softener costs](/water-softener-guides/water-softener-cost-new-braunfels-tx/).
 
 
 

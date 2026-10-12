@@ -20,12 +20,12 @@ markerCount: 0
 
 San Marcos water is very hard, and the city's own report shows it. The City of San Marcos Water/Wastewater Utilities reported total hardness of 16 gpg on average in 2024, with a range of 14 to 18 gpg (236 to 302 mg/L). The U.S. Geological Survey rates anything over 180 mg/L as very hard, and the Water Quality Association calls anything over 10.5 gpg very hard, so every reading in the range qualifies.
 
-The city's report explains the cause: hard water forms when water moves through limestone and chalk deposits made of calcium and magnesium carbonates. The minerals are not a health risk, but they build up on plumbing fixtures and reduce the cleaning power of soap and detergent. If your water tests near 16 gpg, a household of four using 320 gallons a day removes about 5,120 grains daily, so a 48,000-grain salt-based softener regenerates about every 9 days.
+The city's report explains the cause: [hard water](/water-softener-guides/hard-water-new-braunfels-tx/) forms when water moves through limestone and chalk deposits made of calcium and magnesium carbonates. The minerals are not a health risk, but they build up on plumbing fixtures and reduce the cleaning power of soap and detergent. If your [water tests](/water-quality-testing/) near 16 gpg, a household of four using 320 gallons a day removes about 5,120 grains daily, so a 48,000-grain salt-based softener regenerates about every 9 days.
 
 ## Water Softener Services in San Marcos
 
 - **Installation:** a sized whole-house softener with a bypass valve, drain connection and a tested result. See [Water Softener Installation in New Braunfels, TX](/water-softener-installation/) for the full process.
-- **Replacement and upgrade:** removal of a failing unit and installation of a correctly sized new one.
+- **[Replacement](/water-softener-replacement/) and upgrade:** removal of a failing unit and installation of a correctly sized new one.
 - **Repair and maintenance:** control valves, injectors, leaks, salt and resin service.
 - **Water testing:** a hardness, iron and pH test at your tap.
 - **Well water treatment:** for homes outside the city water system on private wells, with iron and sediment filters where the test shows a need.
@@ -38,9 +38,13 @@ Homes on private wells and the Texas State University campus system (TX1050003) 
 
 ## Service Areas Near San Marcos
 
-We serve New Braunfels, Canyon Lake, Seguin, Wimberley, Bulverde and Spring Branch. See the full [Water Softener Service Areas in New Braunfels, TX](/service-areas/) page for the list.
+We serve New Braunfels, Canyon Lake, [Seguin](/water-softener-seguin-tx/), [Wimberley](/water-softener-wimberley-tx/), Bulverde and Spring Branch. See the full [Water Softener Service Areas in New Braunfels, TX](/service-areas/) page for the list.
 
 > **Not a good fit if...** you are on a private well with iron or bacteria. A softener alone will not fix those, and we test and treat them first.
+
+
+
+Nearby homeowners also use our [water softener repair](/water-softener-repair/).
 
 
 ## Frequently Asked Questions About Water Softeners in San Marcos, TX

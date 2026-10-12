@@ -1,7 +1,7 @@
 ---
 title: "Water Softener Installation & Service in Canyon Lake, TX | Trusted Local Specialists"
 seoTitle: "Water Softener Service in Canyon Lake | New Braunfels Elite"
-description: "Water softener installation and service in Canyon Lake, TX, where local water tested 10.9 to 19.5 gpg in 2018. Sized to your home and water. Free estimate."
+description: "Water softener installation and service in Canyon Lake, TX, where local [water test](/water-quality-testing/)ed 10.9 to 19.5 gpg in 2018. Sized to your home and water. Free estimate."
 metaDraft: false
 slug: "/water-softener-canyon-lake-tx/"
 pageType: "geo"
@@ -28,7 +28,7 @@ The wide range follows the sources. The report states that groundwater is genera
 - **Replacement and upgrade:** removal of a failing unit and installation of a correctly sized new one.
 - **Repair and maintenance:** control valves, injectors, leaks, salt and resin service.
 - **Water testing:** a hardness, iron and pH test at your tap.
-- **Well water treatment:** for homes on private wells, with iron and sediment filters where the test shows a need.
+- **[Well water treatment](/well-water-softener-new-braunfels-tx/):** for homes on private wells, with iron and sediment filters where the test shows a need.
 
 ## About Canyon Lake Water Quality
 
@@ -38,9 +38,13 @@ Homes on private wells are not covered by any utility report. A well owner tests
 
 ## Service Areas Near Canyon Lake
 
-We serve New Braunfels, Seguin, San Marcos, Wimberley, Bulverde and Spring Branch. See the full [Water Softener Service Areas in New Braunfels, TX](/service-areas/) page for the list.
+We serve New Braunfels, Seguin, San Marcos, Wimberley, Bulverde and [Spring Branch](/water-softener-spring-branch-tx/). See the full [Water Softener Service Areas in New Braunfels, TX](/service-areas/) page for the list.
 
 > **Not a good fit if...** you are on a private well with iron or bacteria. A softener alone will not fix those, and we test and treat them first.
+
+
+
+Nearby homeowners also use our [water softener service in River Chase](/water-softener-river-chase-new-braunfels/), [the hard water guide](/water-softener-guides/hard-water-new-braunfels-tx/) and [water softener maintenance](/water-softener-maintenance/).
 
 
 ## Frequently Asked Questions About Water Softeners in Canyon Lake, TX

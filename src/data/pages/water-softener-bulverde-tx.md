@@ -1,7 +1,7 @@
 ---
 title: "Water Softener Installation & Service in Bulverde, TX | Trusted Local Specialists"
 seoTitle: "Water Softener Service in Bulverde, TX | New Braunfels Elite"
-description: "Water softener installation and service in Bulverde, TX, where two private utilities supply water. Free water test and estimate sized to your address."
+description: "Water softener installation and service in Bulverde, TX, where two private utilities supply water. [Free water test](/water-quality-testing/) and estimate sized to your address."
 metaDraft: false
 slug: "/water-softener-bulverde-tx/"
 pageType: "geo"
@@ -18,7 +18,7 @@ markerCount: 1
 
 ## Why Bulverde Residents Need a Water Softener
 
-Bulverde water comes from one of two utilities, and the one hardness report on file shows hard water. The City of Bulverde lists The Texas Water Company (formerly Canyon Lake Water Service Company) and Water Services, Inc. as the utilities serving its residents. The Texas Water Company's Canyon Lake Shores system (TX0460019) listed total hardness of 187 to 333 mg/L in 2018, which is 10.9 to 19.5 grains per gallon. <mark class="data-gap">[VERIFY: which utility and system serves your address, and its current average hardness; the report on file is the 2018 edition]</mark>
+Bulverde water comes from one of two utilities, and the one hardness report on file shows [hard water](/water-softener-guides/hard-water-new-braunfels-tx/). The City of Bulverde lists The Texas Water Company (formerly Canyon Lake Water Service Company) and Water Services, Inc. as the utilities serving its residents. The Texas Water Company's Canyon Lake Shores system (TX0460019) listed total hardness of 187 to 333 mg/L in 2018, which is 10.9 to 19.5 grains per gallon. <mark class="data-gap">[VERIFY: which utility and system serves your address, and its current average hardness; the report on file is the 2018 edition]</mark>
 
 Hardness shows up at home whatever the source. Scale narrows pipes, coats water heater elements and leaves spots on glass. If a test at your tap reads above 180 mg/L, which the U.S. Geological Survey rates as very hard, a 48,000-grain salt-based softener suits a household of four. At 15 grains per gallon, that household removes about 4,800 grains daily, so the unit regenerates about every 10 days.
 
@@ -28,7 +28,7 @@ Hardness shows up at home whatever the source. Scale narrows pipes, coats water 
 - **Replacement and upgrade:** removal of a failing unit and installation of a correctly sized new one.
 - **Repair and maintenance:** control valves, injectors, leaks, salt and resin service.
 - **Water testing:** a hardness, iron and pH test at your tap.
-- **Well water treatment:** for homes on private wells, with iron and sediment filters where the test shows a need.
+- **[Well water treatment](/well-water-softener-new-braunfels-tx/):** for homes on private wells, with iron and sediment filters where the test shows a need.
 
 ## About Bulverde Water Quality
 
@@ -38,9 +38,13 @@ Homes on private wells are not covered by any utility report. A well owner tests
 
 ## Service Areas Near Bulverde
 
-We serve New Braunfels, Canyon Lake, Spring Branch, San Marcos, Seguin and Wimberley. See the full [Water Softener Service Areas in New Braunfels, TX](/service-areas/) page for the list.
+We serve New Braunfels, Canyon Lake, [Spring Branch](/water-softener-spring-branch-tx/), San Marcos, Seguin and Wimberley. See the full [Water Softener Service Areas in New Braunfels, TX](/service-areas/) page for the list.
 
 > **Not a good fit if...** you are on a private well with iron or bacteria. A softener alone will not fix those, and we test and treat them first.
+
+
+
+Nearby homeowners also use our [water softener maintenance](/water-softener-maintenance/).
 
 
 ## Frequently Asked Questions About Water Softeners in Bulverde, TX

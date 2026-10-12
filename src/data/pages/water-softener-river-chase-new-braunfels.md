@@ -1,7 +1,7 @@
 ---
 title: "Water Softener Installation & Service in River Chase, TX | Trusted Local Specialists"
 seoTitle: "Water Softener Service in River Chase | New Braunfels Elite"
-description: "Water softener installation and service in River Chase, New Braunfels, TX, on NBU water that averaged 15.1 gpg in 2018. Free water test and an estimate."
+description: "Water softener installation and service in River Chase, New Braunfels, TX, on NBU water that averaged 15.1 gpg in 2018. [Free water test](/water-quality-testing/) and an estimate."
 metaDraft: false
 slug: "/water-softener-river-chase-new-braunfels/"
 pageType: "geo"
@@ -38,9 +38,13 @@ Homes on private wells are not covered by NBU's report. A well owner tests for b
 
 ## Service Areas Near River Chase
 
-We serve New Braunfels, Canyon Lake, Seguin, San Marcos, Bulverde and Spring Branch. See the full [Water Softener Service Areas in New Braunfels, TX](/service-areas/) page for the list.
+We serve New Braunfels, [Canyon Lake](/water-softener-canyon-lake-tx/), [Seguin](/water-softener-seguin-tx/), San Marcos, Bulverde and Spring Branch. See the full [Water Softener Service Areas in New Braunfels, TX](/service-areas/) page for the list.
 
 > **Not a good fit if...** you are on a private well with iron or bacteria. A softener alone will not fix those, and we test and treat them first.
+
+
+
+Nearby homeowners also use our [water softener maintenance](/water-softener-maintenance/), [the hard water guide](/water-softener-guides/hard-water-new-braunfels-tx/) and [water softener repair](/water-softener-repair/).
 
 
 ## Frequently Asked Questions About Water Softeners in River Chase, TX

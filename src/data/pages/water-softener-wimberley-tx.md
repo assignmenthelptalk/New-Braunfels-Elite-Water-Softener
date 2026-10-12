@@ -1,7 +1,7 @@
 ---
 title: "Water Softener Installation & Service in Wimberley, TX | Trusted Local Specialists"
 seoTitle: "Water Softener Service in Wimberley, TX | New Braunfels Elite"
-description: "Water softener installation and service in Wimberley, TX, where public water is Trinity Aquifer groundwater. Free water test and estimate for your home."
+description: "Water softener installation and service in Wimberley, TX, where public water is Trinity Aquifer groundwater. [Free water test](/water-quality-testing/) and estimate for your home."
 metaDraft: false
 slug: "/water-softener-wimberley-tx/"
 pageType: "geo"
@@ -28,7 +28,7 @@ Water that has moved through limestone picks up calcium and magnesium, and those
 - **Replacement and upgrade:** removal of a failing unit and installation of a correctly sized new one.
 - **Repair and maintenance:** control valves, injectors, leaks, salt and resin service.
 - **Water testing:** a hardness, iron and pH test at your tap.
-- **Well water treatment:** for homes on private wells, with iron and sediment filters where the test shows a need.
+- **[Well water treatment](/well-water-softener-new-braunfels-tx/):** for homes on private wells, with iron and sediment filters where the test shows a need.
 
 ## About Wimberley Water Quality
 
@@ -38,9 +38,13 @@ Homes on private wells are not covered by any utility report. A well owner tests
 
 ## Service Areas Near Wimberley
 
-We serve New Braunfels, Canyon Lake, Seguin, San Marcos, Bulverde and Spring Branch. See the full [Water Softener Service Areas in New Braunfels, TX](/service-areas/) page for the list.
+We serve New Braunfels, Canyon Lake, Seguin, [San Marcos](/water-softener-san-marcos-tx/), Bulverde and Spring Branch. See the full [Water Softener Service Areas in New Braunfels, TX](/service-areas/) page for the list.
 
 > **Not a good fit if...** you are on a private well with iron or bacteria. A softener alone will not fix those, and we test and treat them first.
+
+
+
+Nearby homeowners also use our [the hard water guide](/water-softener-guides/hard-water-new-braunfels-tx/) and [water softener maintenance](/water-softener-maintenance/).
 
 
 ## Frequently Asked Questions About Water Softeners in Wimberley, TX

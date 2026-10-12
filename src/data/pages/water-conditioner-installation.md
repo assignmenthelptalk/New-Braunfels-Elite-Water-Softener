@@ -18,7 +18,7 @@ markerCount: 0
 
 ## What Water Conditioning Options Are Available in New Braunfels, TX?
 
-Five options treat scale and hard water: salt-free conditioners, potassium chloride softener systems, hard water treatment, limescale treatment and scale inhibitor systems.
+Five options treat scale and [hard water](/water-softener-guides/hard-water-new-braunfels-tx/): [salt-free conditioners](/salt-free-water-softener-systems/), potassium chloride softener systems, hard water treatment, limescale treatment and scale inhibitor systems.
 
 <div class="svc-grid">
 
@@ -110,6 +110,10 @@ For the full softener range, see the [Water Treatment Services in New Braunfels,
 ## What does your home need to protect?
 
 If the goal is a water heater and pipes, a conditioner or inhibitor is enough. If the goal is soft-feeling water everywhere, a softener fits. A free test and estimate settle the choice.
+
+
+
+Homeowners comparing options also read about [salt-based and salt-free softeners compared](/water-softener-guides/salt-vs-salt-free-water-softener/), [water softener installation](/water-softener-installation/), [free water testing](/water-quality-testing/) and [how long a water softener lasts](/water-softener-guides/how-long-do-water-softeners-last/).
 
 
 

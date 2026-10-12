@@ -93,6 +93,10 @@ Adding salt and checking the control head are simple homeowner tasks. Resin clea
 
 
 
+Homeowners comparing options also read about [water softener repair](/water-softener-repair/), [water softener replacement](/water-softener-replacement/), [how long a water softener lasts](/water-softener-guides/how-long-do-water-softeners-last/), [salt-based and salt-free softeners compared](/water-softener-guides/salt-vs-salt-free-water-softener/) and [free water testing](/water-quality-testing/).
+
+
+
 ## Frequently Asked Questions
 
 <div class="faq-list">

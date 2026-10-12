@@ -32,7 +32,7 @@ Seven signs show a softener is failing, and the first six are listed below.
 
 ### 1. Hard-Water Symptoms Return
 
-Spotted dishes, scale on faucets, soap film and stiff laundry come back even though the tank has salt. **Check:** run a hardness test on softened water. **Verdict:** if a clean valve and injector do not fix it, the resin is likely spent and needs replacing. NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, so the symptoms are obvious when softening fails.
+Spotted dishes, scale on faucets, soap film and stiff laundry come back even though the tank has salt. **Check:** run a [hardness test](/water-quality-testing/) on softened water. **Verdict:** if a clean valve and injector do not fix it, the resin is likely spent and needs replacing. NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, so the symptoms are obvious when softening fails.
 
 </div>
 
@@ -110,7 +110,7 @@ Tiny tan or yellow beads appear in faucet screens or the sink. **Check:** compar
 
 ### 7. The Unit Is Past 10 to 15 Years Old
 
-Industry guidance commonly cites 10 to 15 years for a residential softener. **Check:** find the date on the tank label. **Verdict:** at or beyond that age, with any of the signs above, replacement usually costs less over time than repeated repairs.
+Industry guidance commonly cites [10 to 15 years](/water-softener-guides/how-long-do-water-softeners-last/) for a residential softener. **Check:** find the date on the tank label. **Verdict:** at or beyond that age, with any of the signs above, replacement usually costs less over time than repeated repairs.
 
 > **Not a good fit if...** your unit is under about five years old and only shows one sign. Repair or maintenance is the cheaper answer. See our [Water Softener Replacement in New Braunfels, TX](/water-softener-replacement/) page for when a new unit makes sense.
 
@@ -118,6 +118,10 @@ Industry guidance commonly cites 10 to 15 years for a residential softener. **Ch
 ## Repair or replace: which fits?
 
 Repair a young unit with one failed part. Replace an old unit, a leaking tank or one that keeps failing. A free inspection compares both prices side by side.
+
+
+
+To go further, see [what a water softener costs](/water-softener-guides/water-softener-cost-new-braunfels-tx/) and [water softener maintenance](/water-softener-maintenance/).
 
 
 

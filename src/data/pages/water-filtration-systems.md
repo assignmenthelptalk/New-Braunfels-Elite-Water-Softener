@@ -135,6 +135,10 @@ No. Filters remove particles and some chemicals, and softeners remove hardness m
 
 
 
+Homeowners comparing options also read about [reverse osmosis systems](/reverse-osmosis-installation/), [drinking water systems](/drinking-water-systems/), [UV water purification](/uv-water-purification/), [water contaminant removal](/water-contaminant-removal-new-braunfels-tx/) and [free water testing](/water-quality-testing/).
+
+
+
 ## Frequently Asked Questions
 
 <div class="faq-list">

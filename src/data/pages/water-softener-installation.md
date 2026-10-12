@@ -20,7 +20,7 @@ markerCount: 0
 
 A whole-house water softener is a single unit installed on the main water line that treats every cold and hot water fixture in the home. The technician sizes the unit from your household size, daily water use and a hardness reading, then sets the control head to regenerate on a schedule that matches your usage. A correctly sized unit softens water without running out between regenerations or wasting salt on cycles it does not need.
 
-The installation includes the softener tank, brine tank, control valve, drain connection and a test at every tap before we leave. For homes served by the city, the unit sits after the main shut-off. For homes on a private well, it sits after the pressure tank, and a water test first confirms whether iron or sulfur need separate treatment. NBU's supply is mostly Guadalupe River water with Edwards Aquifer and Trinity Aquifer groundwater added, and it arrives hard, so a water softener installation protects the water heater and plumbing along the whole line.
+The installation includes the softener tank, brine tank, control valve, drain connection and a test at every tap before we leave. For homes served by the city, the unit sits after the main shut-off. For homes on a private well, it sits after the pressure tank, and a [water test](/water-quality-testing/) first confirms whether iron or sulfur need separate treatment. NBU's supply is mostly Guadalupe River water with Edwards Aquifer and Trinity Aquifer groundwater added, and it arrives hard, so a water softener installation protects the water heater and plumbing along the whole line.
 
 ### Portable Water Softener Installation
 
@@ -71,6 +71,10 @@ Water softener installation in New Braunfels costs depend on five things: system
 ## What decides which water softener fits a New Braunfels home?
 
 Three things decide it: how many people use the water, how hard the water is at your tap and whether the home uses city water or a well. Hardness readings in New Braunfels vary with the supply mix, so a free test at your address replaces guesswork. NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, which the U.S. Geological Survey rates as very hard.
+
+
+
+Homeowners comparing options also read about [water softener replacement](/water-softener-replacement/), [dual tank water softeners](/dual-tank-water-softener/), [salt-free water softener systems](/salt-free-water-softener-systems/), [water conditioner installation](/water-conditioner-installation/) and [what a water softener costs](/water-softener-guides/water-softener-cost-new-braunfels-tx/).
 
 
 

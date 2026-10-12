@@ -88,7 +88,7 @@ The membrane wears out as it loads with minerals. Membranes commonly last two to
 
 ### RO and Water Softener Combination
 
-Hard water scales an RO membrane and shortens its life. A water softener ahead of RO protects the membrane. NBU's supply is mostly Guadalupe River water with Edwards Aquifer and Trinity Aquifer groundwater added, so the pairing makes sense for many local homes. NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, which the U.S. Geological Survey rates as very hard.
+[Hard water](/water-softener-guides/hard-water-new-braunfels-tx/) scales an RO membrane and shortens its life. A water softener ahead of RO protects the membrane. NBU's supply is mostly Guadalupe River water with Edwards Aquifer and Trinity Aquifer groundwater added, so the pairing makes sense for many local homes. NBU's 2018 water quality report put average hardness at 15.1 grains per gallon, about 258 mg/L, which the U.S. Geological Survey rates as very hard.
 
 </div>
 
@@ -103,7 +103,11 @@ Cost depends on system size, number of stages, storage capacity and installation
 
 ## Is reverse osmosis right for your water?
 
-RO is right when you want the cleanest drinking water or need to reduce a specific dissolved contaminant. A water test and a short conversation tell you whether a simpler filter will do.
+RO is right when you want the cleanest [drinking water](/drinking-water-systems/) or need to reduce a specific dissolved contaminant. A [water test](/water-quality-testing/) and a short conversation tell you whether a simpler filter will do.
+
+
+
+Homeowners comparing options also read about [whole-house water filtration](/water-filtration-systems/), [water softener installation](/water-softener-installation/) and [water contaminant removal](/water-contaminant-removal-new-braunfels-tx/).
 
 
 

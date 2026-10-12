@@ -81,7 +81,7 @@ Private wells draw directly from an aquifer, and NBU itself uses groundwater fro
 
 ### Well Water Testing
 
-A well water test is the first step of every well job. Well-water guidance recommends that private well owners test for bacteria every year, and for nitrate, arsenic and other substances on a schedule that depends on local conditions, because no utility does it for you. EPA secondary standards give the benchmarks a well test is read against: iron 0.3 mg/L, total dissolved solids 500 mg/L and pH 6.5 to 8.5, and hardness above 180 mg/L is very hard on the USGS scale. We test for hardness, iron, sulfur, pH, sediment and more, and we can arrange lab tests for bacteria and contaminants. Ask which tests are free and which are billed.
+A well [water test](/water-quality-testing/) is the first step of every well job. Well-water guidance recommends that private well owners test for bacteria every year, and for nitrate, arsenic and other substances on a schedule that depends on local conditions, because no utility does it for you. EPA secondary standards give the benchmarks a well test is read against: iron 0.3 mg/L, total dissolved solids 500 mg/L and pH 6.5 to 8.5, and hardness above 180 mg/L is very hard on the USGS scale. We test for hardness, iron, sulfur, pH, sediment and more, and we can arrange lab tests for bacteria and [contaminants](/water-contaminant-removal-new-braunfels-tx/). Ask which tests are free and which are billed.
 
 > **Not a good fit if...** your well has bacterial contamination. A softener will not fix that, and disinfection or UV treatment must come first.
 
@@ -89,6 +89,10 @@ A well water test is the first step of every well job. Well-water guidance recom
 ## What does a well need treated first?
 
 Treat contamination first, then iron, sulfur and sediment, and soften last. That order protects the softener and gives you the best result for the money.
+
+
+
+Homeowners comparing options also read about [UV water purification](/uv-water-purification/), [whole-house water filtration](/water-filtration-systems/), [water softener installation](/water-softener-installation/), [the hard water guide](/water-softener-guides/hard-water-new-braunfels-tx/) and [how to size a water softener](/water-softener-guides/water-softener-size-guide/).
 
 
 
