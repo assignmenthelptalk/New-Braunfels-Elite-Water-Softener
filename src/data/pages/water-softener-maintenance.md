@@ -11,7 +11,7 @@ openingHtml: "Water softener maintenance in New Braunfels, TX means refilling sa
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-maintenance-new-braunfels-tx.webp","alt":"Water softener maintenance New Braunfels TX technician checking brine tank"}
-images: [{"file":"water-softener-maintenance-new-braunfels-tx.webp","alt":"Water softener maintenance New Braunfels TX technician checking brine tank","exists":true},{"file":"card-water-softener-resin-cleaning-service-new-braunfels-tx.webp","alt":"Water Softener Resin Cleaning Service New Braunfels TX","exists":false},{"file":"card-water-softener-salt-refill-service-new-braunfels-tx.webp","alt":"Water Softener Salt Refill Service New Braunfels TX","exists":false},{"file":"card-water-softener-brine-tank-cleaning-new-braunfels-tx.webp","alt":"Water Softener Brine Tank Cleaning New Braunfels TX","exists":false},{"file":"card-annual-maintenance-plans-new-braunfels-tx.webp","alt":"Annual Maintenance Plans New Braunfels TX","exists":false}]
+images: [{"file":"water-softener-maintenance-new-braunfels-tx.webp","alt":"Water softener maintenance New Braunfels TX technician checking brine tank","exists":true},{"file":"card-water-softener-resin-cleaning-service-new-braunfels-tx.webp","alt":"Water Softener Resin Cleaning Service New Braunfels TX","exists":true},{"file":"card-water-softener-salt-refill-service-new-braunfels-tx.webp","alt":"Water Softener Salt Refill Service New Braunfels TX","exists":true},{"file":"card-water-softener-brine-tank-cleaning-new-braunfels-tx.webp","alt":"Water Softener Brine Tank Cleaning New Braunfels TX","exists":true},{"file":"card-annual-maintenance-plans-new-braunfels-tx.webp","alt":"Annual Maintenance Plans New Braunfels TX","exists":true}]
 faq: [{"q":"How much salt does a water softener use?","a":"Salt use depends on hardness and water use. Check the brine tank monthly and refill when the level drops near one-third full."},{"q":"Which type of salt suits my softener?","a":"Block, pellet or crystal salt all work, and your manual names the right one. Potassium chloride suits households that avoid sodium."},{"q":"What is a salt bridge?","a":"A salt bridge is a hard crust that forms above the water in the brine tank, so salt cannot dissolve into brine. We break it up and clean the tank."},{"q":"Why does my water feel hard right after a refill?","a":"Salt alone does not soften water. The unit must complete a regeneration cycle, and hard water after that points to resin, injector or valve trouble."},{"q":"Do you service softeners you did not install?","a":"Many brands can be serviced. Tell us the make and model when you request service and we will confirm whether we can work on it. New Braunfels Elite Water Softener TX provides water softener maintenance for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---
@@ -25,7 +25,10 @@ Four services keep a softener at full capacity: resin cleaning, salt refills, br
 <div class="svc-card">
 
 
-![Water Softener Resin Cleaning Service New Braunfels TX](/placeholders/card.svg)
+
+![Water Softener Resin Cleaning Service New Braunfels TX](../../assets/images/card-water-softener-resin-cleaning-service-new-braunfels-tx.webp)
+
+
 
 ### Water Softener Resin Cleaning Service
 
@@ -36,7 +39,10 @@ Resin cleaning removes iron, sediment and mineral film from the resin beads that
 <div class="svc-card">
 
 
-![Water Softener Salt Refill Service New Braunfels TX](/placeholders/card.svg)
+
+![Water Softener Salt Refill Service New Braunfels TX](../../assets/images/card-water-softener-salt-refill-service-new-braunfels-tx.webp)
+
+
 
 ### Water Softener Salt Refill Service
 
@@ -47,7 +53,10 @@ A salt refill service keeps the brine tank stocked so the softener can regenerat
 <div class="svc-card">
 
 
-![Water Softener Brine Tank Cleaning New Braunfels TX](/placeholders/card.svg)
+
+![Water Softener Brine Tank Cleaning New Braunfels TX](../../assets/images/card-water-softener-brine-tank-cleaning-new-braunfels-tx.webp)
+
+
 
 ### Water Softener Brine Tank Cleaning
 
@@ -58,7 +67,10 @@ The brine tank collects sludge from impurities in salt over time, and sludge can
 <div class="svc-card">
 
 
-![Annual Maintenance Plans New Braunfels TX](/placeholders/card.svg)
+
+![Annual Maintenance Plans New Braunfels TX](../../assets/images/card-annual-maintenance-plans-new-braunfels-tx.webp)
+
+
 
 ### Annual Maintenance Plans
 
