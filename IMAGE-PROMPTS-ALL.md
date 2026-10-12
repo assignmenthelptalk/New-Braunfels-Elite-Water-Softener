@@ -58,6 +58,7 @@ A technician's gloved hands connecting the bypass valve on a new water softener,
 - **Size:** 3:2 (export about 1200x800)
 - **Used on:** /, /water-softener-systems/
 - **Alt text (from the page copy):** Water softener replacement New Braunfels TX
+- **Redo note:** First attempt showed the technician face in clear profile. Keep the old and new unit, but the technician must be seen strictly from behind, head turned away.
 
 ```
 An old, stained softener tank on a hand truck beside a clean new generic unit in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, a technician seen from behind from the shoulders down. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
@@ -85,6 +86,7 @@ A technician kneeling beside a generic, unbranded residential water softener: a 
 - **Size:** 3:2 (export about 1200x800)
 - **Used on:** /
 - **Alt text (from the page copy):** Whole house water filtration New Braunfels TX
+- **Redo note:** First attempt showed the technician face in profile as he leaned over the panel. Show hands only, or the technician strictly from behind.
 
 ```
 Two large whole-house filter housings (a sediment stage and a carbon stage) mounted on a plywood panel on the wall of a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, copper pipework and pressure gauges with blank faces. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
