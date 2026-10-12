@@ -10,8 +10,8 @@ crumb: "Water Softener Installation & Service in Spring Branch, TX"
 openingHtml: "Water softener installation and service in Spring Branch, TX covers installing, replacing, repairing and testing softeners for homes across the community. Several utilities supply Spring Branch, so the water at your tap depends on your street. New Braunfels Elite Water Softener serves Spring Branch from its <a href=\"/\">water softener New Braunfels TX</a> base. Request a free estimate to get started."
 formHeading: ""
 formIntro: ""
-leadImage: null
-images: [{"file":"water-softener-spring-branch-tx.webp","alt":"Water softener Spring Branch TX home installation","exists":false}]
+leadImage: {"file":"water-softener-spring-branch-tx.webp","alt":"Water softener Spring Branch TX home installation"}
+images: [{"file":"water-softener-spring-branch-tx.webp","alt":"Water softener Spring Branch TX home installation","exists":true}]
 faq: [{"q":"Who supplies water in Spring Branch?","a":"Several utilities supply Spring Branch, including Cypress Cove WSC, Spring Branch Indian Hills Estates WSC and The Texas Water Company. Your water bill shows which one serves your address."},{"q":"How do I find out how hard my Spring Branch water is?","a":"A free water test at your tap gives the exact hardness in grains per gallon. Hardness differs from one utility to the next, so a test at your tap is the reliable way to size a softener."},{"q":"Does Spring Branch water need a softener?","a":"Groundwater from limestone carries calcium and magnesium, and a test shows whether your reading is above the 10.5 grains per gallon that the Water Quality Association calls very hard. If it is, a softener protects pipes, appliances and fixtures. New Braunfels Elite Water Softener TX provides water softener installation and service in Spring Branch, TX and serves homes and businesses across Comal County."}]
 markerCount: 2
 ---

@@ -10,8 +10,8 @@ crumb: "Water Softener Guides for New Braunfels Homeowners"
 openingHtml: "These guides answer the questions New Braunfels, TX homeowners ask before they buy, replace or repair a water softener. Each one uses local water facts and plain explanations, and each links to the service that fits. For installation, replacement and repair, visit <a href=\"/\">New Braunfels Elite Water Softener</a>."
 formHeading: ""
 formIntro: ""
-leadImage: null
-images: [{"file":"water-softener-guides-new-braunfels-tx.webp","alt":"Water softener guides New Braunfels TX homeowner reading about hard water","exists":false}]
+leadImage: {"file":"water-softener-guides-new-braunfels-tx.webp","alt":"Water softener guides New Braunfels TX homeowner reading about hard water"}
+images: [{"file":"water-softener-guides-new-braunfels-tx.webp","alt":"Water softener guides New Braunfels TX homeowner reading about hard water","exists":true}]
 faq: []
 markerCount: 0
 ---

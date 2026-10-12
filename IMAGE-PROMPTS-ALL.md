@@ -413,6 +413,7 @@ A quiet street in a small town in the Texas Hill Country, in the spirit of Sprin
 - **Size:** 3:2 (export about 1200x800)
 - **Used on:** /water-softener-wimberley-tx/
 - **Alt text (from the page copy):** Water softener Wimberley TX home installation
+- **Redo note:** First attempt was almost the same street as the Spring Branch photo, so it was held back. Show a distinct Wimberley scene: a small Hill Country village street with bald cypress trees, limestone walls and rolling hills, not a suburban cul-de-sac.
 
 ```
 A quiet street in a small town in the Texas Hill Country, in the spirit of Wimberley: modest single-story brick and stone homes, live oaks, limestone outcrops and a rolling hill horizon under a big sky; one garage is open and a generic water softener is just visible inside. No people, no vehicles with markings, no signs. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.

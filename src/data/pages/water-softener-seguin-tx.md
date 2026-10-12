@@ -10,8 +10,8 @@ crumb: "Water Softener Installation & Service in Seguin, TX"
 openingHtml: "Water softener installation and service in Seguin, TX covers installing, replacing, repairing and testing softeners for homes in the city and the farms around it. The City of Seguin treats Guadalupe River water and buys Carrizo Aquifer groundwater from the Schertz-Seguin Local Government Corporation. New Braunfels Elite Water Softener serves Seguin from its <a href=\"/\">water softener New Braunfels TX</a> base. Request a free estimate to get started."
 formHeading: ""
 formIntro: ""
-leadImage: null
-images: [{"file":"water-softener-seguin-tx.webp","alt":"Water softener Seguin TX home installation","exists":false}]
+leadImage: {"file":"water-softener-seguin-tx.webp","alt":"Water softener Seguin TX home installation"}
+images: [{"file":"water-softener-seguin-tx.webp","alt":"Water softener Seguin TX home installation","exists":true}]
 faq: [{"q":"Where does Seguin's water come from?","a":"Seguin treats surface water from the Guadalupe River at two city plants and buys groundwater from the Carrizo Aquifer through the Schertz-Seguin Local Government Corporation."},{"q":"How do I find out how hard my Seguin water is?","a":"A free water test at your tap gives the exact hardness in grains per gallon. The city's 2025 water report lists no hardness figure, so a test is the reliable way to size a softener."},{"q":"Does Seguin city water need a softener?","a":"Hardness minerals reach the tap whatever the source, and a test shows whether your reading is above the 10.5 grains per gallon that the Water Quality Association calls very hard. If it is, a softener protects pipes, appliances and fixtures. New Braunfels Elite Water Softener TX provides water softener installation and service in Seguin, TX and serves homes and businesses across Comal County."}]
 markerCount: 1
 ---
