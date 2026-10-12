@@ -1,7 +1,9 @@
 ---
 /**
- * QuoteForm — plain formsubmit.co POST. No JavaScript required for the
- * submission itself; formsubmit.co handles delivery and the redirect.
+ * QuoteForm — formsubmit.co delivery. With JavaScript the form is sent in the background
+ * (formsubmit.co /ajax/ endpoint) and the visitor is moved to the site's own /thank-you/ page
+ * without ever leaving the domain. Without JavaScript, or if the background send fails, the form
+ * falls back to a normal POST and formsubmit.co redirects to /thank-you/ (the _next field).
  * A secondary contact option — phone is the primary conversion path in
  * this phone-call-based rank-and-rent model.
  *
@@ -34,6 +36,8 @@ const trustSignals = ["Free Consultation", "No obligation", `Local ${site.city} 
   class={compact ? "quote-form card compact" : "quote-form card"}
   action={`https://formsubmit.co/${site.businessEmail}`}
   method="POST"
+  data-ajax-action={`https://formsubmit.co/ajax/${site.businessEmail}`}
+  data-thank-you="/thank-you/"
 >
   <h3>{heading}</h3>
 
@@ -141,6 +145,29 @@ const trustSignals = ["Free Consultation", "No obligation", `Local ${site.city} 
     </>
   )}
 </form>
+
+<script>
+  // Background send, then stay on the site: /thank-you/ is a page of this site. Any failure falls back to a normal POST.
+  document.querySelectorAll<HTMLFormElement>("form.quote-form[data-ajax-action]").forEach((form) => {
+    form.addEventListener("submit", async (event) => {
+      if (!form.checkValidity()) return;
+      event.preventDefault();
+      const button = form.querySelector<HTMLButtonElement>("button[type=submit]");
+      if (button) button.disabled = true;
+      try {
+        const res = await fetch(form.dataset.ajaxAction!, { method: "POST", body: new FormData(form), headers: { Accept: "application/json" } });
+        const data = await res.json();
+        if (res.ok && String(data.success) === "true") {
+          window.location.assign(form.dataset.thankYou || "/thank-you/");
+          return;
+        }
+      } catch {
+        /* network or parse error: use the normal POST below */
+      }
+      form.submit();
+    });
+  });
+</script>
 
 <style>
   /* Elevated surface + layered primary-tinted shadow, not a flat card border */
