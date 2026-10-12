@@ -1,6 +1,6 @@
 ---
 title: "7 Signs You Need to Replace Your Water Softener in New Braunfels, TX | Trusted Local Specialists"
-seoTitle: "7 Signs You Need a New Water Softener in New Braunfels, TX | New Braunfels Elite Water Softener"
+seoTitle: "7 Signs You Need a New Softener, New Braunfels TX | New Braunfels Elite Water Softener"
 description: "7 signs your water softener needs replacing in New Braunfels, TX, from returning hard-water spots to rising salt use. Learn when repair stops paying off."
 metaDraft: false
 slug: "/water-softener-guides/signs-you-need-a-new-water-softener/"

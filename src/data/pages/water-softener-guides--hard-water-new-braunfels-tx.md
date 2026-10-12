@@ -1,6 +1,6 @@
 ---
 title: "Hard Water in New Braunfels, TX | Trusted Local Specialists"
-seoTitle: "Hard Water in New Braunfels, TX | New Braunfels Elite Water Softener"
+seoTitle: "Hard Water New Braunfels, TX | New Braunfels Elite Water Softener"
 description: "New Braunfels water averaged 15.1 grains per gallon in NBU's 2018 report, which is very hard. Learn what that does to pipes and fixtures and how to fix it."
 metaDraft: false
 slug: "/water-softener-guides/hard-water-new-braunfels-tx/"

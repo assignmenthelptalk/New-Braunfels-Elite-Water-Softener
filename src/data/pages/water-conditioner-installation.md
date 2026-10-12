@@ -1,6 +1,6 @@
 ---
 title: "Water Conditioner Installation in New Braunfels, TX | Trusted Local Specialists"
-seoTitle: "Water Conditioner Installation in New Braunfels, TX | New Braunfels Elite Water Softener"
+seoTitle: "Water Conditioner New Braunfels, TX | New Braunfels Elite Water Softener"
 description: "Water conditioner installation in New Braunfels, TX: a salt-free way to reduce scale on pipes and fixtures. See when it fits and when a softener is better."
 metaDraft: false
 slug: "/water-conditioner-installation/"

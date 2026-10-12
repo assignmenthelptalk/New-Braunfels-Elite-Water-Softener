@@ -1,6 +1,6 @@
 ---
 title: "How Long Does a Water Softener Last in New Braunfels, TX | Trusted Local Specialists"
-seoTitle: "How Long Does a Water Softener Last in New Braunfels, TX | New Braunfels Elite Water Softener"
+seoTitle: "How Long Softeners Last New Braunfels, TX | New Braunfels Elite Water Softener"
 description: "A well-maintained home water softener commonly lasts 10 to 15 years. See what shortens or extends its life in New Braunfels, TX and when to replace it."
 metaDraft: false
 slug: "/water-softener-guides/how-long-do-water-softeners-last/"

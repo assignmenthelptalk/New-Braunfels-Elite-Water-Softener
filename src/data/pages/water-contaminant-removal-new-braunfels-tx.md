@@ -1,6 +1,6 @@
 ---
 title: "Water Contaminant Removal in New Braunfels, TX | Trusted Local Specialists"
-seoTitle: "Water Contaminant Removal in New Braunfels, TX | New Braunfels Elite Water Softener"
+seoTitle: "Water Contaminant Removal New Braunfels, TX | New Braunfels Elite Water Softener"
 description: "Water contaminant removal in New Braunfels, TX: match the filter to the contaminant, from chlorine to sediment. Test first, then treat. Free estimate."
 metaDraft: false
 slug: "/water-contaminant-removal-new-braunfels-tx/"

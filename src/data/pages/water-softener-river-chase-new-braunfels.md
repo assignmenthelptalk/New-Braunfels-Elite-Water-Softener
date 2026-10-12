@@ -1,6 +1,6 @@
 ---
 title: "Water Softener Installation & Service in River Chase, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Service in River Chase, TX | New Braunfels Elite Water Softener"
+seoTitle: "Water Softener in River Chase, TX | New Braunfels Elite Water Softener"
 description: "Water softener installation and service in River Chase, New Braunfels, TX, on NBU water that averaged 15.1 gpg in 2018. [Free water test](/water-quality-testing/) and an estimate."
 metaDraft: false
 slug: "/water-softener-river-chase-new-braunfels/"

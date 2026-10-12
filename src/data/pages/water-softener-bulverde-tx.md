@@ -1,6 +1,6 @@
 ---
 title: "Water Softener Installation & Service in Bulverde, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Service in Bulverde, TX | New Braunfels Elite Water Softener"
+seoTitle: "Water Softener in Bulverde, TX | New Braunfels Elite Water Softener"
 description: "Water softener installation and service in Bulverde, TX, where two private utilities supply water. [Free water test](/water-quality-testing/) and estimate sized to your address."
 metaDraft: false
 slug: "/water-softener-bulverde-tx/"
