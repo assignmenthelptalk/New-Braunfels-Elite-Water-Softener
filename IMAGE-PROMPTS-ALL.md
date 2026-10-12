@@ -25,7 +25,7 @@
 Check each result for stray text or logos, extra fingers, plumbing that makes no sense (pipes to nowhere, a salt-free unit with a brine tank) and visible faces. Regenerate if any appear.
 
 
-## Homepage (4)
+## Homepage (10)
 
 ### `hero-water-softener-new-braunfels-tx`
 - **Size:** 16:9 (export about 1200x675)
@@ -43,6 +43,60 @@ A wide shot of a technician seen from behind, kneeling beside a generic, unbrand
 
 ```
 A generic, unbranded residential water softener: a tall slim navy-blue resin tank beside a squat gray brine tank with a closed lid, a digital control head on top, copper and white PEX pipe connections, freshly installed against the wall of a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. A water heater and copper supply lines are visible behind it. Soft light from a garage window. The softener is the clear subject, centered, with breathing room around it. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 4:5.
+```
+
+### `card-water-softener-installation-new-braunfels-tx`
+- **Size:** 3:2 (export about 1200x800)
+- **Used on:** /, /water-softener-systems/
+- **Alt text (from the page copy):** Water softener installation New Braunfels TX
+
+```
+A technician's gloved hands connecting the bypass valve on a new water softener, copper and white PEX pipe, in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+```
+
+### `card-water-softener-replacement-new-braunfels-tx`
+- **Size:** 3:2 (export about 1200x800)
+- **Used on:** /, /water-softener-systems/
+- **Alt text (from the page copy):** Water softener replacement New Braunfels TX
+
+```
+An old, stained softener tank on a hand truck beside a clean new generic unit in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, a technician seen from behind from the shoulders down. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+```
+
+### `card-salt-free-water-softener-systems-new-braunfels-tx`
+- **Size:** 3:2 (export about 1200x800)
+- **Used on:** /, /water-softener-systems/
+- **Alt text (from the page copy):** Salt-free water softener system New Braunfels TX
+
+```
+A single slim stainless-and-navy salt-free conditioner canister mounted on the main water line in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, no brine tank and no drain hose, a copper bypass loop. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+```
+
+### `card-water-softener-repair-and-service-new-braunfels-tx`
+- **Size:** 3:2 (export about 1200x800)
+- **Used on:** /
+- **Alt text (from the page copy):** Water softener repair and service New Braunfels TX
+
+```
+A technician kneeling beside a generic, unbranded residential water softener: a tall slim navy-blue resin tank beside a squat gray brine tank with a closed lid, a digital control head on top, copper and white PEX pipe connections, seen from behind, opening the control head with a screwdriver, hand tools on a towel. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+```
+
+### `card-whole-house-water-filtration-new-braunfels-tx`
+- **Size:** 3:2 (export about 1200x800)
+- **Used on:** /
+- **Alt text (from the page copy):** Whole house water filtration New Braunfels TX
+
+```
+Two large whole-house filter housings (a sediment stage and a carbon stage) mounted on a plywood panel on the wall of a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, copper pipework and pressure gauges with blank faces. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
+```
+
+### `card-water-quality-testing-new-braunfels-tx`
+- **Size:** 3:2 (export about 1200x800)
+- **Used on:** /, /water-treatment-and-testing/
+- **Alt text (from the page copy):** Water quality testing New Braunfels TX
+
+```
+A technician's hands holding a small clear test vial of tap water at a kitchen faucet, test strips and a handheld meter with a blank screen on the counter. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `hard-water-buildup-new-braunfels-tx`
@@ -363,7 +417,7 @@ A quiet street in a small town in the Texas Hill Country, in the spirit of Wimbe
 ```
 
 
-## Card images (86)
+## Card images (80)
 
 ### `card-under-sink-drinking-water-systems-new-braunfels-tx`
 - **Size:** 3:2 (export about 1200x800)
@@ -473,60 +527,6 @@ The control head of a residential water softener (the digital head on top of a t
 
 ```
 A kitchen sink drain strainer holding a few tiny tan resin beads, a chrome faucet above, macro shot. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
-```
-
-### `card-water-softener-installation-new-braunfels-tx`
-- **Size:** 3:2 (export about 1200x800)
-- **Used on:** /, /water-softener-systems/
-- **Alt text (from the page copy):** Water softener installation New Braunfels TX
-
-```
-A technician's gloved hands connecting the bypass valve on a new water softener, copper and white PEX pipe, in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
-```
-
-### `card-water-softener-replacement-new-braunfels-tx`
-- **Size:** 3:2 (export about 1200x800)
-- **Used on:** /, /water-softener-systems/
-- **Alt text (from the page copy):** Water softener replacement New Braunfels TX
-
-```
-An old, stained softener tank on a hand truck beside a clean new generic unit in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, a technician seen from behind from the shoulders down. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
-```
-
-### `card-salt-free-water-softener-systems-new-braunfels-tx`
-- **Size:** 3:2 (export about 1200x800)
-- **Used on:** /, /water-softener-systems/
-- **Alt text (from the page copy):** Salt-free water softener system New Braunfels TX
-
-```
-A single slim stainless-and-navy salt-free conditioner canister mounted on the main water line in a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, no brine tank and no drain hose, a copper bypass loop. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
-```
-
-### `card-water-softener-repair-and-service-new-braunfels-tx`
-- **Size:** 3:2 (export about 1200x800)
-- **Used on:** /
-- **Alt text (from the page copy):** Water softener repair and service New Braunfels TX
-
-```
-A technician kneeling beside a generic, unbranded residential water softener: a tall slim navy-blue resin tank beside a squat gray brine tank with a closed lid, a digital control head on top, copper and white PEX pipe connections, seen from behind, opening the control head with a screwdriver, hand tools on a towel. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
-```
-
-### `card-whole-house-water-filtration-new-braunfels-tx`
-- **Size:** 3:2 (export about 1200x800)
-- **Used on:** /
-- **Alt text (from the page copy):** Whole house water filtration New Braunfels TX
-
-```
-Two large whole-house filter housings (a sediment stage and a carbon stage) mounted on a plywood panel on the wall of a tidy Texas home garage with a painted concrete slab floor, white walls and a storage shelf, copper pipework and pressure gauges with blank faces. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
-```
-
-### `card-water-quality-testing-new-braunfels-tx`
-- **Size:** 3:2 (export about 1200x800)
-- **Used on:** /, /water-treatment-and-testing/
-- **Alt text (from the page copy):** Water quality testing New Braunfels TX
-
-```
-A technician's hands holding a small clear test vial of tap water at a kitchen faucet, test strips and a handheld meter with a blank screen on the counter. Photorealistic editorial photo, natural daylight, clean composition, muted navy-blue and warm copper accents, crisp detail. No text, letters, numbers or logos anywhere; screens, dials, gauges and paper stay blank. No visible faces; people appear only from behind or as hands. Generic, unbranded equipment. Aspect ratio 3:2.
 ```
 
 ### `card-how-reverse-osmosis-systems-work-new-braunfels-tx`
@@ -1164,14 +1164,14 @@ A small stone wellhead pump house on a Texas Hill Country limestone hillside wit
 
 | Group | Count |
 |---|---|
-| Homepage | 4 |
+| Homepage | 10 |
 | Social share | 1 |
 | Hub pages | 2 |
 | Core service pages | 2 |
 | Service pages | 13 |
 | Guide pages | 6 |
 | Town and neighborhood pages | 7 |
-| Card images | 86 |
+| Card images | 80 |
 | **AI photos in total** | **121** |
 | Built in code | 3 |
 
