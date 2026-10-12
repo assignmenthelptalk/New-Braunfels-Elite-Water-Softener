@@ -1,6 +1,6 @@
 ---
 title: "Water Softener Installation & Service in Wimberley, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Service in Wimberley, TX | New Braunfels Elite"
+seoTitle: "Water Softener Service in Wimberley, TX | New Braunfels Elite Water Softener"
 description: "Water softener installation and service in Wimberley, TX, where public water is Trinity Aquifer groundwater. [Free water test](/water-quality-testing/) and estimate for your home."
 metaDraft: false
 slug: "/water-softener-wimberley-tx/"

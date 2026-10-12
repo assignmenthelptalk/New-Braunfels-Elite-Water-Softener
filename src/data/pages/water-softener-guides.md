@@ -1,6 +1,6 @@
 ---
 title: "Water Softener Guides for New Braunfels Homeowners | Trusted Local Specialists"
-seoTitle: "Water Softener Guides for New Braunfels | New Braunfels Elite"
+seoTitle: "Water Softener Guides for New Braunfels Homeowners | New Braunfels Elite Water Softener"
 description: "Water softener guides for New Braunfels homeowners: hard water, sizing, cost, salt vs salt-free, lifespan and replacement signs, written for local water."
 metaDraft: false
 slug: "/water-softener-guides/"

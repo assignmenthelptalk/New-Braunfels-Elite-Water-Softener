@@ -1,6 +1,6 @@
 ---
 title: "Water Softener Installation & Service in Spring Branch, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Service in Spring Branch | New Braunfels Elite"
+seoTitle: "Water Softener Service in Spring Branch, TX | New Braunfels Elite Water Softener"
 description: "Water softener installation and service in Spring Branch, TX, where several utilities supply water by street. [Free water test](/water-quality-testing/) and estimate for your home."
 metaDraft: false
 slug: "/water-softener-spring-branch-tx/"

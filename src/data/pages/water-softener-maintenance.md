@@ -1,6 +1,6 @@
 ---
 title: "Water Softener Maintenance in New Braunfels, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Maintenance in New Braunfels | NB Elite"
+seoTitle: "Water Softener Maintenance in New Braunfels, TX | New Braunfels Elite Water Softener"
 description: "Water softener maintenance in New Braunfels, TX: salt refills, resin and brine tank cleaning and valve checks that keep your softener at full capacity."
 metaDraft: false
 slug: "/water-softener-maintenance/"

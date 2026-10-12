@@ -1,6 +1,6 @@
 ---
 title: "Well Water Softener and Treatment in New Braunfels, TX | Trusted Local Specialists"
-seoTitle: "Well Water Softener and Treatment in New Braunfels | NB Elite"
+seoTitle: "Well Water Softener and Treatment in New Braunfels, TX | New Braunfels Elite Water Softener"
 description: "Well water softener and treatment in New Braunfels, TX: iron, hardness and sediment handled together after a test. Request a free estimate and water test."
 metaDraft: false
 slug: "/well-water-softener-new-braunfels-tx/"

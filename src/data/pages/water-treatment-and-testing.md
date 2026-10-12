@@ -1,6 +1,6 @@
 ---
 title: "Water Treatment Services in New Braunfels, TX | Trusted Local Specialists"
-seoTitle: "Water Treatment Services in New Braunfels | NB Elite"
+seoTitle: "Water Treatment Services in New Braunfels, TX | New Braunfels Elite Water Softener"
 description: "Water filtration, well water treatment, reverse osmosis, UV purification and testing in New Braunfels, TX. Request a free estimate from New Braunfels Elite Water Softener."
 metaDraft: false
 slug: "/water-treatment-and-testing/"
