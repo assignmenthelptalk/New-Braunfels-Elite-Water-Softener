@@ -18,7 +18,7 @@
  *   public/og-default.jpg         1200x630 crop of the og-default image
  *   brand_assets/unbranded-images/<id>.<ext>   the untouched originals (git-ignore this folder)
  *
- * Logo (optional): with --logo the logo is stamped bottom-right at about 22% of the image
+ * Logo (automatic when src/assets/logo.png exists; --no-brand to skip): the logo is stamped bottom-right at about 22% of the image
  * width on a soft translucent plate. The logo's near-white background is turned
  * transparent first. The hero image and og-default are not branded (the hero's overlay and form cover that corner; the social image is cropped for link previews).
  * --card-logo <png> stamps card-* images with a smaller mark instead (e.g. the water drop alone, brand_assets/mark.png from make-logo.mjs), sized by --card-width (default 0.13 of the image width).
@@ -39,9 +39,13 @@ const SRC = opt("src");
 const PROMPTS = path.resolve(root, opt("prompts", "IMAGE-PROMPTS.md"));
 const OUT = path.resolve(root, opt("out", "src/assets/images"));
 const ARCHIVE = path.join(root, "brand_assets", "unbranded-images");
-const LOGO = opt("logo");
-const CARD_LOGO = opt("card-logo"); // optional smaller mark for card-* images
-const CARD_WIDTH_RATIO = parseFloat(opt("card-width", "0.13"));
+// Branding is the default: when src/assets/logo.png (and brand_assets/mark.png for cards) exist they are used
+// automatically. Pass --no-brand to convert without any logo, or --logo / --card-logo to use other files.
+const NO_BRAND = args.includes("--no-brand");
+const existing = (rel) => (fs.existsSync(path.resolve(root, rel)) ? rel : undefined);
+const LOGO = NO_BRAND ? undefined : opt("logo", existing("src/assets/logo.png"));
+const CARD_LOGO = NO_BRAND ? undefined : opt("card-logo", existing("brand_assets/mark.png")); // smaller mark for card-* images
+const CARD_WIDTH_RATIO = parseFloat(opt("card-width", "0.11"));
 const LOGO_OPACITY = 0.8, PLATE_OPACITY = 0.55, WIDTH_RATIO = 0.22, MARGIN_RATIO = 0.03;
 
 const fail = (msg) => { console.error(`prepare-images: ${msg}`); process.exit(1); };
