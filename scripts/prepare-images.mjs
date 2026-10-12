@@ -20,7 +20,8 @@
  *
  * Logo (optional): with --logo the logo is stamped bottom-right at about 22% of the image
  * width on a soft translucent plate. The logo's near-white background is turned
- * transparent first. The hero image is not branded (its overlay and form cover that corner).
+ * transparent first. The hero image and og-default are not branded (the hero's overlay and form cover that corner; the social image is cropped for link previews).
+ * --card-logo <png> stamps card-* images with a smaller mark instead (e.g. the water drop alone, brand_assets/mark.png from make-logo.mjs), sized by --card-width (default 0.13 of the image width).
  * Needs "sharp", which Astro already installs.
  */
 import fs from "node:fs";
@@ -39,6 +40,8 @@ const PROMPTS = path.resolve(root, opt("prompts", "IMAGE-PROMPTS.md"));
 const OUT = path.resolve(root, opt("out", "src/assets/images"));
 const ARCHIVE = path.join(root, "brand_assets", "unbranded-images");
 const LOGO = opt("logo");
+const CARD_LOGO = opt("card-logo"); // optional smaller mark for card-* images
+const CARD_WIDTH_RATIO = parseFloat(opt("card-width", "0.13"));
 const LOGO_OPACITY = 0.8, PLATE_OPACITY = 0.55, WIDTH_RATIO = 0.22, MARGIN_RATIO = 0.03;
 
 const fail = (msg) => { console.error(`prepare-images: ${msg}`); process.exit(1); };
@@ -76,19 +79,20 @@ console.table(plan.map((p, i) => ({ "#": i + 1, id: p.id, file: p.file })));
 if (DRY) { console.log("Dry run: nothing written."); process.exit(0); }
 
 // logo with its backdrop made transparent
-let logoPng = null;
-if (LOGO) {
-  const { data, info } = await sharp(path.resolve(root, LOGO)).ensureAlpha().raw().toBuffer({ resolveWithObject: true });
+async function prepLogo(file) {
+  const { data, info } = await sharp(path.resolve(root, file)).ensureAlpha().raw().toBuffer({ resolveWithObject: true });
   for (let i = 0; i < data.length; i += 4) {
     const d = 255 - Math.min(data[i], data[i + 1], data[i + 2]); // distance from white
     data[i + 3] = Math.min(255, Math.max(0, (d - 14) * 4)) * LOGO_OPACITY * (data[i + 3] / 255);
   }
-  logoPng = await sharp(data, { raw: info }).png().toBuffer();
+  return sharp(data, { raw: info }).png().toBuffer();
 }
+const logoPng = LOGO ? await prepLogo(LOGO) : null;
+const cardLogoPng = CARD_LOGO ? await prepLogo(CARD_LOGO) : null;
 
-async function stamp(buf, width, height) {
-  const lw = Math.round(width * WIDTH_RATIO), pad = Math.round(lw * 0.08);
-  const logo = await sharp(logoPng).resize({ width: lw }).toBuffer();
+async function stamp(buf, width, height, png = logoPng, ratio = WIDTH_RATIO) {
+  const lw = Math.round(width * ratio), pad = Math.round(lw * 0.08);
+  const logo = await sharp(png).resize({ width: lw }).toBuffer();
   const lh = (await sharp(logo).metadata()).height;
   const pw = lw + pad * 2, ph = lh + pad * 2, r = Math.round(ph * 0.18);
   const plate = Buffer.from(`<svg width="${pw}" height="${ph}"><rect width="${pw}" height="${ph}" rx="${r}" fill="#fff" fill-opacity="${PLATE_OPACITY}"/></svg>`);
@@ -106,13 +110,16 @@ for (const { id, file } of plan) {
   const w = Math.min(meta.width, isHero ? 1376 : 1200);
   const h = Math.round(meta.height * (w / meta.width));
   const resized = await sharp(input).resize({ width: w }).toBuffer();
-  const brand = logoPng && !isHero;
+  const isCard = id.startsWith("card-");
+  const png = isCard && cardLogoPng ? cardLogoPng : logoPng;
+  const ratio = isCard && cardLogoPng ? CARD_WIDTH_RATIO : WIDTH_RATIO;
+  const brand = png && !isHero && id !== "og-default"; // the hero and the social crop stay clean
   if (id === "og-default") {
     const crop = await sharp(input).resize(1200, 630, { fit: "cover" }).toBuffer();
     const og = brand ? await stamp(crop, 1200, 630) : sharp(crop);
     await og.jpeg({ quality: 82, mozjpeg: true }).toFile(path.join(root, "public", "og-default.jpg"));
   }
-  const out = brand ? await stamp(resized, w, h) : sharp(resized);
+  const out = brand ? await stamp(resized, w, h, png, ratio) : sharp(resized);
   await out.webp({ quality: 80 }).toFile(path.join(OUT, `${id}.webp`));
   const archived = path.join(ARCHIVE, `${id}${path.extname(file).toLowerCase()}`);
   if (path.resolve(input) !== path.resolve(archived)) fs.copyFileSync(input, archived);

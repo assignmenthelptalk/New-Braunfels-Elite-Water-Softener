@@ -102,3 +102,8 @@ for (const [file, svg] of [["src/assets/logo.png", lockup(false)], ["src/assets/
   await sharp(Buffer.from(svg)).png().toFile(target);
   console.log(`wrote ${file}`);
 }
+
+// the water drop alone, for small stamps such as card photos (see prepare-images.mjs --card-logo)
+const markSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 100 100">${mark("m", false)}</svg>`;
+await sharp(Buffer.from(markSvg)).png().toFile(path.join(BRAND_DIR, "mark.png"));
+console.log("wrote brand_assets/mark.png");
