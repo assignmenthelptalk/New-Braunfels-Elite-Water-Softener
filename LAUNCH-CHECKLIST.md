@@ -10,6 +10,7 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - [ ] Licence number and class for whoever installs (check what TX requires before the word "licensed" appears anywhere)
 - [ ] Warranty, guarantee, same-day policy, years in business, price ranges, real reviews
 - [ ] Photos: generated images are stand-ins. Swap in real New Braunfels job photos as they come in, keeping the file names (scripts/prepare-images.mjs converts new batches)
+- [ ] Homepage neighbourhood map: 3 pins. Confirm each pin's coordinates and the hardness report text
 - [ ] Service-areas map: 6 pins. Confirm each pin's coordinates (neighbourhood pins are approximate unless verified)
 - [ ] Form replies: the Contact page, Thank-you page and service pages promise a reply within 24 hours. Before launch set businessEmail and the phone number, and confirm who receives the forms and that 24 hours can be met (or change the wording)
 - [ ] Pages not written yet: 4 link(s) are shown as plain text until the target page exists (/water-softener-gruene-tx/, /water-softener-vintage-oaks-new-braunfels/, /water-softener-veramendi-new-braunfels/, /water-softener-creekside-new-braunfels/). Write the page, re-run the import and the link comes back

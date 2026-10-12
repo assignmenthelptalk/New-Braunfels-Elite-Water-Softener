@@ -17,9 +17,10 @@ import Layout from "../components/Layout.astro";
 import QuoteForm from "../components/QuoteForm.astro";
 import ContentProse from "../components/ContentProse.astro";
 import PageSchema from "../components/PageSchema.astro";
-import ServiceAreaMap from "../components/ServiceAreaMap.astro";
+import NeighbourhoodMap from "../components/NeighbourhoodMap.astro";
 import { site } from "../lib/site";
 import { Content, frontmatter as fm } from "../data/pages/home.md";
+import { Content as ContentAfter, frontmatter as afterFm } from "../data/home-after.md";
 
 const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
 const heroFiles = import.meta.glob<{ default: ImageMetadata }>("../assets/images/hero-*.webp", { eager: true });
@@ -77,8 +78,19 @@ const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.ci
     </div>
   </section>
 
-  <!-- Map markup comes from home.md (importer); this supplies its script and styles -->
-  <ServiceAreaMap assetsOnly />
+  <!-- Neighbourhood map: directly below the hard-water section. The importer splits the homepage copy there
+       (home.md up to it, home-after.md the rest); with no pins the map renders nothing and nothing is split. -->
+  <NeighbourhoodMap />
+
+  {afterFm.split && (
+    <section class="section">
+      <div class="container">
+        <ContentProse>
+          <ContentAfter />
+        </ContentProse>
+      </div>
+    </section>
+  )}
 
   <style>
 

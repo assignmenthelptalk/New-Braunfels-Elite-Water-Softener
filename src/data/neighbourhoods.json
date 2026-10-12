@@ -1,0 +1,34 @@
+{
+  "hardness": {
+    "value": "15.1",
+    "unit": "GPG",
+    "label": "Very Hard",
+    "short": "15.1 GPG avg (2018)",
+    "intro": "New Braunfels Utilities (NBU) reported an average of 15.1 GPG in its 2018 water quality report. Click a neighbourhood to see what that means for your home.",
+    "reportNote": "NBU's 2018 water quality report gave a citywide average of 15.1 GPG, within a range of 8.1 to 19.5 GPG. The Water Quality Association classes anything above 10.5 GPG as \"Very Hard.\" [VERIFY current NBU average]",
+    "footnote": "Hardness is NBU's citywide figure from its 2018 report; individual neighbourhoods can read higher or lower. [VERIFY current NBU average]"
+  },
+  "issues": [
+    "White scale on faucets and showerheads",
+    "Spotting and film on glassware and dishes",
+    "Scale buildup in water heaters and appliances",
+    "Soap scum, dry skin and stiff laundry"
+  ],
+  "neighbourhoods": [
+    {
+      "name": "Gruene",
+      "lat": 29.7385364,
+      "lng": -98.1042673
+    },
+    {
+      "name": "Vintage Oaks",
+      "lat": 29.7705592,
+      "lng": -98.2567018
+    },
+    {
+      "name": "Creekside",
+      "lat": 29.7140254,
+      "lng": -98.0771323
+    }
+  ]
+}

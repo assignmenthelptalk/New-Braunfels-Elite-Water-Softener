@@ -20,13 +20,12 @@ import mapData from "../data/map-points.json";
 interface MapPoint { name: string; slug: string; lat: number; lng: number; approx?: boolean }
 interface MapData { source?: string; center: { name: string; lat: number; lng: number } | null; points: MapPoint[] }
 
-const { assetsOnly = false } = Astro.props;
 const data = mapData as MapData;
 const hasMap = Boolean(data.center) && data.points.length > 0;
 const payload = JSON.stringify({ center: data.center, points: data.points });
 ---
 
-{hasMap && !assetsOnly && (
+{hasMap && (
   <section class="sa-map-section" aria-labelledby="sa-map-heading">
     <div class="container">
       <h2 id="sa-map-heading">Where We Install Water Softeners Around {site.city}, {site.stateAbbr}</h2>

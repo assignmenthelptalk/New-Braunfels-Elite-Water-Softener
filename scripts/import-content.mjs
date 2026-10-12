@@ -370,31 +370,41 @@ if (fs.existsSync(mapSrc)) {
 }
 fs.writeFileSync(OUT_MAP, JSON.stringify(mapOut, null, 2) + "\n");
 
-// ---- homepage map block ----------------------------------------------------
-// The interactive map sits directly below the "Why Is <City> Water So Hard?" section, i.e. just
-// before the next H2. The H2 is a direct child of the prose (so it gets the navy band like the other
-// headings) and the rest is one plain-HTML block with no blank lines; src/components/ServiceAreaMap.astro (assetsOnly on the homepage) draws it in the browser.
-// Pin links are added by that script at runtime, so the static homepage body links to no location page.
-const HOME_MAP_MARK = 'id="home-service-map"';
+// ---- homepage neighbourhood map ---------------------------------------------
+// The strategy folder's neighbourhood-map.json (pins + hardness report text) becomes src/data/neighbourhoods.json,
+// which src/components/NeighbourhoodMap.astro reads. The map sits directly below the "Why Is <City> Water So Hard?"
+// section, so the homepage copy is split there: home.md keeps everything up to and including that section and
+// src/data/home-after.md (outside src/data/pages, so it is not a routed page) holds the rest. Without a
+// neighbourhood-map.json nothing is split and the component renders nothing.
+const OUT_HOODS = path.join(root, "src", "data", "neighbourhoods.json");
+const OUT_HOME_AFTER = path.join(root, "src", "data", "home-after.md");
+const hoodSrc = path.join(SOURCE, "neighbourhood-map.json");
+let hoodNote = "none (add neighbourhood-map.json to the strategy folder)";
+let hoodOut = { hardness: null, issues: [], neighbourhoods: [] };
+if (fs.existsSync(hoodSrc)) {
+  const raw = JSON.parse(fs.readFileSync(hoodSrc, "utf8"));
+  const num = (v) => typeof v === "number" && Number.isFinite(v);
+  for (const h of raw.neighbourhoods || []) if (!h.name || !num(h.lat) || !num(h.lng)) throw new Error(`neighbourhood-map.json: bad entry ${JSON.stringify(h)}`);
+  for (const k of ["value", "unit", "label", "short", "intro", "reportNote", "footnote"]) if (!raw.hardness?.[k]) throw new Error(`neighbourhood-map.json needs hardness.${k}`);
+  hoodOut = { hardness: raw.hardness, issues: raw.issues || [], neighbourhoods: raw.neighbourhoods || [] };
+  hoodNote = `${hoodOut.neighbourhoods.length} pins`;
+}
+fs.writeFileSync(OUT_HOODS, JSON.stringify(hoodOut, null, 2) + "\n");
+
+let homeAfter = "---\nsplit: false\n---\n";
 const homeFile = path.join(OUT_PAGES, `${slugToFile("/")}.md`);
-if (mapOut.points.length && fs.existsSync(homeFile)) {
-  const attr = (s) => s.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;");
-  const city = mapOut.center.name;
-  const heading = `<h2>Explore Local Water Reports Around ${esc(city)}</h2>`;
-  const block = [
-    `<div class="sa-map-home" ${HOME_MAP_MARK}>`,
-    `<p class="sa-map-intro">Click a pin to read the local water report for that area.${mapOut.points.some((p) => p.approx) ? " Neighbourhood pins are approximate." : ""}</p>`,
-    `<div id="service-area-map" class="sa-map" data-map="${attr(JSON.stringify({ center: mapOut.center, points: mapOut.points }))}" role="region" aria-label="Map of ${attr(city)} service areas"></div>`,
-    `<noscript><p>The map needs JavaScript. The areas we serve are listed further down this page.</p></noscript>`,
-    `</div>`,
-  ].join("\n");
+if (hoodOut.neighbourhoods.length && fs.existsSync(homeFile)) {
   const homeMd = fs.readFileSync(homeFile, "utf8");
   const hard = homeMd.match(/^## [^\n]*Water So Hard\?[^\n]*$/m);
   const next = hard && homeMd.indexOf("\n## ", hard.index + hard[0].length);
-  if (hard && next > -1 && !homeMd.includes(HOME_MAP_MARK)) {
-    fs.writeFileSync(homeFile, `${homeMd.slice(0, next).trimEnd()}\n\n${heading}\n\n${block}\n\n${homeMd.slice(next + 1)}`);
+  if (hard && next > -1) {
+    fs.writeFileSync(homeFile, homeMd.slice(0, next).trimEnd() + "\n");
+    homeAfter = "---\nsplit: true\n---\n\n" + homeMd.slice(next + 1).replaceAll("../../assets/", "../assets/"); // home-after.md sits one folder above the pages
+  } else {
+    hoodNote += ' (not shown: no "Why Is ... Water So Hard?" section followed by another section on the homepage)';
   }
 }
+fs.writeFileSync(OUT_HOME_AFTER, homeAfter);
 
 // ---- launch checklist ------------------------------------------------------
 const total = pages.reduce((n, p) => n + p.markers.length, 0);
@@ -419,6 +429,7 @@ Do not publish while any item below is open. Markers show on the site as highlig
 - [ ] Licence number and class for whoever installs (check what ${STATE} requires before the word "licensed" appears anywhere)
 - [ ] Warranty, guarantee, same-day policy, years in business, price ranges, real reviews
 - [ ] Photos: generated images are stand-ins. Swap in real ${CITY} job photos as they come in, keeping the file names (scripts/prepare-images.mjs converts new batches)
+- [ ] Homepage neighbourhood map: ${hoodNote}. Confirm each pin's coordinates and the hardness report text
 - [ ] Service-areas map: ${mapNote}. Confirm each pin's coordinates (neighbourhood pins are approximate unless verified)
 - [ ] Form replies: the Contact page, Thank-you page and service pages promise a reply within 24 hours. Before launch set businessEmail and the phone number, and confirm who receives the forms and that 24 hours can be met (or change the wording)
 - [ ] Pages not written yet: ${demoted.length} link(s) are shown as plain text until the target page exists (${[...new Set(demoted.map((d) => d.to))].join(", ") || "none"}). Write the page, re-run the import and the link comes back
