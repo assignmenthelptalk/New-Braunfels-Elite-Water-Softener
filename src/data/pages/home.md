@@ -213,6 +213,13 @@ A free water test shows the exact reading at your tap, because the supply blend 
 
 </div>
 
+<h2>Explore Local Water Reports Around New Braunfels</h2>
+
+<div class="sa-map-home" id="home-service-map">
+<p class="sa-map-intro">Click a pin to read the local water report for that area.</p>
+<div id="service-area-map" class="sa-map" data-map="{&quot;center&quot;:{&quot;name&quot;:&quot;New Braunfels&quot;,&quot;lat&quot;:29.7028,&quot;lng&quot;:-98.1257},&quot;points&quot;:[{&quot;name&quot;:&quot;San Marcos&quot;,&quot;slug&quot;:&quot;/water-softener-san-marcos-tx/&quot;,&quot;lat&quot;:29.8826,&quot;lng&quot;:-97.9406,&quot;approx&quot;:false},{&quot;name&quot;:&quot;Seguin&quot;,&quot;slug&quot;:&quot;/water-softener-seguin-tx/&quot;,&quot;lat&quot;:29.5688,&quot;lng&quot;:-97.9647,&quot;approx&quot;:false},{&quot;name&quot;:&quot;Wimberley&quot;,&quot;slug&quot;:&quot;/water-softener-wimberley-tx/&quot;,&quot;lat&quot;:29.9977,&quot;lng&quot;:-98.0988,&quot;approx&quot;:false},{&quot;name&quot;:&quot;Canyon Lake&quot;,&quot;slug&quot;:&quot;/water-softener-canyon-lake-tx/&quot;,&quot;lat&quot;:29.8643,&quot;lng&quot;:-98.2438,&quot;approx&quot;:false},{&quot;name&quot;:&quot;Bulverde&quot;,&quot;slug&quot;:&quot;/water-softener-bulverde-tx/&quot;,&quot;lat&quot;:29.7438,&quot;lng&quot;:-98.4531,&quot;approx&quot;:false},{&quot;name&quot;:&quot;Spring Branch&quot;,&quot;slug&quot;:&quot;/water-softener-spring-branch-tx/&quot;,&quot;lat&quot;:29.8902,&quot;lng&quot;:-98.4264,&quot;approx&quot;:false}]}" role="region" aria-label="Map of New Braunfels service areas"></div>
+<noscript><p>The map needs JavaScript. The areas we serve are listed further down this page.</p></noscript>
+</div>
 
 ## How Does Water Softener Installation Work in New Braunfels, TX?
 

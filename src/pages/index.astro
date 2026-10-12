@@ -17,6 +17,7 @@ import Layout from "../components/Layout.astro";
 import QuoteForm from "../components/QuoteForm.astro";
 import ContentProse from "../components/ContentProse.astro";
 import PageSchema from "../components/PageSchema.astro";
+import ServiceAreaMap from "../components/ServiceAreaMap.astro";
 import { site } from "../lib/site";
 import { Content, frontmatter as fm } from "../data/pages/home.md";
 
@@ -75,6 +76,9 @@ const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.ci
       </ContentProse>
     </div>
   </section>
+
+  <!-- Map markup comes from home.md (importer); this supplies its script and styles -->
+  <ServiceAreaMap assetsOnly />
 
   <style>
 
