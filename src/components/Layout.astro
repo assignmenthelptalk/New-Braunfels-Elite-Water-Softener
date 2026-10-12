@@ -207,8 +207,8 @@ const socialUrl = (key: string): string => ((site.socialLinks as Record<string, 
         <div class="footer-bottom">
           <p class="footer-legal">
             <span>&copy; {new Date().getFullYear()} {site.businessName}. All Rights Reserved.</span>
-            <span class="footer-legal-item">Privacy Policy</span>
-            <span class="footer-legal-item">Terms of Service</span>
+            <a class="footer-legal-item" href="/privacy-policy/">Privacy Policy</a>
+            <a class="footer-legal-item" href="/terms-of-service/">Terms of Service</a>
           </p>
           <ul class="footer-social" aria-label="Social media">
             {SOCIALS.map((n) => (
