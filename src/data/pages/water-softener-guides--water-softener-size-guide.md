@@ -1,6 +1,6 @@
 ---
 title: "Water Softener Size Guide in New Braunfels, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Size Guide in New Braunfels, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
+seoTitle: "Water Softener Size Guide in New Braunfels | NB Elite"
 description: "Size a water softener for your New Braunfels, TX home. Use daily water use and hardness to find the grain capacity, with a worked example for 15 gpg water."
 metaDraft: false
 slug: "/water-softener-guides/water-softener-size-guide/"

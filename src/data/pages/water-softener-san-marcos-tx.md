@@ -1,6 +1,6 @@
 ---
 title: "Water Softener Installation & Service in San Marcos, TX | Trusted Local Specialists"
-seoTitle: "Water Softener Installation & Service in San Marcos, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
+seoTitle: "Water Softener Service in San Marcos, TX | New Braunfels Elite"
 description: "Water softener installation and service in San Marcos, TX. The city's 2024 report shows 16 gpg average hardness, which is very hard. Get a free estimate."
 metaDraft: false
 slug: "/water-softener-san-marcos-tx/"

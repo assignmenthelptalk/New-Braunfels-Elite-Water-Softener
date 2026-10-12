@@ -1,6 +1,6 @@
 ---
 title: "New Braunfels Elite Water Softener - Premier Water Softener Installation in New Braunfels, TX"
-seoTitle: "Water Softener New Braunfels, TX | Expert Water Softener Installation New Braunfels | New Braunfels Elite Water Softener"
+seoTitle: "Water Softener New Braunfels, TX | New Braunfels Elite"
 description: "New Braunfels Elite Water Softener offers professional water softener installation, repair, and replacement in New Braunfels, TX. Get a free estimate today. Call now."
 metaDraft: false
 slug: "/"

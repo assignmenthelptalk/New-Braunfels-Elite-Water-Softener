@@ -1,6 +1,6 @@
 ---
 title: "Salt-Based vs Salt-Free Water Softener in New Braunfels, TX | Trusted Local Specialists"
-seoTitle: "Salt-Based vs Salt-Free Water Softener in New Braunfels, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
+seoTitle: "Salt-Based vs Salt-Free Water Softener in New Braunfels, TX"
 description: "Salt-based vs salt-free water softener in New Braunfels, TX: how each works, what each removes and which fits 15 gpg water. Compare both before you buy."
 metaDraft: false
 slug: "/water-softener-guides/salt-vs-salt-free-water-softener/"

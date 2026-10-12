@@ -1,6 +1,6 @@
 ---
 title: "Salt-Free Water Softener Systems in New Braunfels, TX | Trusted Local Specialists"
-seoTitle: "Salt-Free Water Softener Systems in New Braunfels, TX | New Braunfels Elite Water Softener: Water Softener Installation and Repair"
+seoTitle: "Salt-Free Water Softener Systems in New Braunfels | NB Elite"
 description: "Salt-free water softener systems in New Braunfels, TX reduce scale without salt or a drain line. See how they differ from salt-based units. Free estimate."
 metaDraft: false
 slug: "/salt-free-water-softener-systems/"
