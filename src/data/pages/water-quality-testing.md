@@ -11,7 +11,7 @@ openingHtml: "Water quality testing in New Braunfels, TX measures the hardness, 
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-quality-testing-new-braunfels-tx.webp","alt":"Water quality testing New Braunfels TX technician testing tap water"}
-images: [{"file":"water-quality-testing-new-braunfels-tx.webp","alt":"Water quality testing New Braunfels TX technician testing tap water","exists":true},{"file":"card-free-hard-water-test-new-braunfels-tx.webp","alt":"Free Hard Water Test New Braunfels TX","exists":false},{"file":"card-tds-testing-new-braunfels-tx.webp","alt":"TDS Testing New Braunfels TX","exists":false},{"file":"card-iron-content-testing-new-braunfels-tx.webp","alt":"Iron Content Testing New Braunfels TX","exists":false},{"file":"card-ph-level-testing-new-braunfels-tx.webp","alt":"pH Level Testing New Braunfels TX","exists":false},{"file":"card-chlorine-testing-new-braunfels-tx.webp","alt":"Chlorine Testing New Braunfels TX","exists":false},{"file":"card-sulfur-testing-new-braunfels-tx.webp","alt":"Sulfur Testing New Braunfels TX","exists":false},{"file":"card-heavy-metals-testing-new-braunfels-tx.webp","alt":"Heavy Metals Testing New Braunfels TX","exists":false}]
+images: [{"file":"water-quality-testing-new-braunfels-tx.webp","alt":"Water quality testing New Braunfels TX technician testing tap water","exists":true},{"file":"card-free-hard-water-test-new-braunfels-tx.webp","alt":"Free Hard Water Test New Braunfels TX","exists":true},{"file":"card-tds-testing-new-braunfels-tx.webp","alt":"TDS Testing New Braunfels TX","exists":false},{"file":"card-iron-content-testing-new-braunfels-tx.webp","alt":"Iron Content Testing New Braunfels TX","exists":false},{"file":"card-ph-level-testing-new-braunfels-tx.webp","alt":"pH Level Testing New Braunfels TX","exists":false},{"file":"card-chlorine-testing-new-braunfels-tx.webp","alt":"Chlorine Testing New Braunfels TX","exists":false},{"file":"card-sulfur-testing-new-braunfels-tx.webp","alt":"Sulfur Testing New Braunfels TX","exists":false},{"file":"card-heavy-metals-testing-new-braunfels-tx.webp","alt":"Heavy Metals Testing New Braunfels TX","exists":false}]
 faq: [{"q":"Is the water test really free?","a":"Ask exactly which tests are free and which carry a fee before you book."},{"q":"How long does a water test take?","a":"In-home tests for hardness, TDS, pH, iron and chlorine give results in minutes. Lab tests take longer. Lab results typically take a few business days, depending on the lab and the test."},{"q":"How often does water need testing?","a":"Test city water when you notice a change or move in. Test a private well for bacteria at least once a year, and for other substances as local conditions suggest."},{"q":"Do I need a test before buying a softener?","a":"Yes. The result sizes the softener and shows whether you also need a filter."},{"q":"What test shows if my water is safe to drink?","a":"A certified lab panel for bacteria, nitrate, metals and other regulated substances. NBU reports cover the public supply. New Braunfels Elite Water Softener TX provides water quality testing for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---
@@ -25,7 +25,10 @@ Seven tests cover hardness, total dissolved solids, iron, pH, chlorine, sulfur a
 <div class="svc-card">
 
 
-![Free Hard Water Test New Braunfels TX](/placeholders/card.svg)
+
+![Free Hard Water Test New Braunfels TX](../../assets/images/card-free-hard-water-test-new-braunfels-tx.webp)
+
+
 
 ### Free Hard Water Test
 

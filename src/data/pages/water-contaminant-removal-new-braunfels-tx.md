@@ -11,7 +11,7 @@ openingHtml: "Water contaminant removal in New Braunfels, TX installs filters th
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-contaminant-removal-new-braunfels-tx.webp","alt":"Water contaminant removal New Braunfels TX filter installation"}
-images: [{"file":"water-contaminant-removal-new-braunfels-tx.webp","alt":"Water contaminant removal New Braunfels TX filter installation","exists":true},{"file":"card-lead-and-arsenic-removal-new-braunfels-tx.webp","alt":"Lead and Arsenic Removal New Braunfels TX","exists":false},{"file":"card-chloramine-and-chlorine-removal-new-braunfels-tx.webp","alt":"Chloramine and Chlorine Removal New Braunfels TX","exists":false},{"file":"card-fluoride-filter-installation-new-braunfels-tx.webp","alt":"Fluoride Filter Installation New Braunfels TX","exists":false},{"file":"card-pfas-water-filter-new-braunfels-tx.webp","alt":"PFAS Water Filter New Braunfels TX","exists":false},{"file":"card-nitrate-filter-installation-new-braunfels-tx.webp","alt":"Nitrate Filter Installation New Braunfels TX","exists":false},{"file":"card-voc-volatile-organic-compound-filter-new-braunfels-tx.webp","alt":"VOC (Volatile Organic Compound) Filter New Braunfels TX","exists":false}]
+images: [{"file":"water-contaminant-removal-new-braunfels-tx.webp","alt":"Water contaminant removal New Braunfels TX filter installation","exists":true},{"file":"card-lead-and-arsenic-removal-new-braunfels-tx.webp","alt":"Lead and Arsenic Removal New Braunfels TX","exists":false},{"file":"card-chloramine-and-chlorine-removal-new-braunfels-tx.webp","alt":"Chloramine and Chlorine Removal New Braunfels TX","exists":false},{"file":"card-fluoride-filter-installation-new-braunfels-tx.webp","alt":"Fluoride Filter Installation New Braunfels TX","exists":true},{"file":"card-pfas-water-filter-new-braunfels-tx.webp","alt":"PFAS Water Filter New Braunfels TX","exists":false},{"file":"card-nitrate-filter-installation-new-braunfels-tx.webp","alt":"Nitrate Filter Installation New Braunfels TX","exists":true},{"file":"card-voc-volatile-organic-compound-filter-new-braunfels-tx.webp","alt":"VOC (Volatile Organic Compound) Filter New Braunfels TX","exists":true}]
 faq: [{"q":"Does one filter remove every contaminant?","a":"No. Each contaminant needs its own method, and reverse osmosis covers the most. A test tells us which ones you need."},{"q":"Is New Braunfels tap water safe?","a":"City reports list results against EPA limits. For your own tap, a home test checks what the report cannot, such as your plumbing."},{"q":"How do I know a filter really works?","a":"Look for certification to NSF/ANSI standards for the specific contaminant, and retest your water after installation."},{"q":"Can a water softener remove these contaminants?","a":"No. A softener removes hardness. Contaminant removal needs a different filter."},{"q":"What does contaminant removal cost?","a":"It depends on the contaminant. The estimate is free and itemized. New Braunfels Elite Water Softener TX provides water contaminant removal for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---
@@ -47,7 +47,10 @@ Chlorine and chloramine are disinfectants that can affect taste and smell. Stand
 <div class="svc-card">
 
 
-![Fluoride Filter Installation New Braunfels TX](/placeholders/card.svg)
+
+![Fluoride Filter Installation New Braunfels TX](../../assets/images/card-fluoride-filter-installation-new-braunfels-tx.webp)
+
+
 
 ### Fluoride Filter Installation
 
@@ -69,7 +72,10 @@ PFAS are man-made chemicals. In 2024 the EPA set limits of 4 parts per trillion 
 <div class="svc-card">
 
 
-![Nitrate Filter Installation New Braunfels TX](/placeholders/card.svg)
+
+![Nitrate Filter Installation New Braunfels TX](../../assets/images/card-nitrate-filter-installation-new-braunfels-tx.webp)
+
+
 
 ### Nitrate Filter Installation
 
@@ -80,7 +86,10 @@ Nitrate comes from fertilizer, septic systems and livestock, and the EPA limit i
 <div class="svc-card">
 
 
-![VOC (Volatile Organic Compound) Filter New Braunfels TX](/placeholders/card.svg)
+
+![VOC (Volatile Organic Compound) Filter New Braunfels TX](../../assets/images/card-voc-volatile-organic-compound-filter-new-braunfels-tx.webp)
+
+
 
 ### VOC (Volatile Organic Compound) Filter
 
