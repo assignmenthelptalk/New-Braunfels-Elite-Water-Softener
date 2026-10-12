@@ -11,7 +11,7 @@ openingHtml: "Water softener repair in New Braunfels, TX finds and fixes the fai
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-softener-repair-new-braunfels-tx.webp","alt":"Water softener repair New Braunfels TX technician servicing a control valve"}
-images: [{"file":"water-softener-repair-new-braunfels-tx.webp","alt":"Water softener repair New Braunfels TX technician servicing a control valve","exists":true},{"file":"card-water-softener-control-valve-repair-new-braunfels-tx.webp","alt":"Water Softener Control Valve Repair New Braunfels TX","exists":true},{"file":"card-water-softener-motor-replacement-new-braunfels-tx.webp","alt":"Water Softener Motor Replacement New Braunfels TX","exists":false},{"file":"card-float-valve-repair-new-braunfels-tx.webp","alt":"Float Valve Repair New Braunfels TX","exists":false},{"file":"card-injector-cleaning-new-braunfels-tx.webp","alt":"Injector Cleaning New Braunfels TX","exists":false},{"file":"card-head-replacement-new-braunfels-tx.webp","alt":"Head Replacement New Braunfels TX","exists":false},{"file":"card-brine-line-repair-new-braunfels-tx.webp","alt":"Brine Line Repair New Braunfels TX","exists":false},{"file":"card-water-softener-leak-repair-new-braunfels-tx.webp","alt":"Water Softener Leak Repair New Braunfels TX","exists":false}]
+images: [{"file":"water-softener-repair-new-braunfels-tx.webp","alt":"Water softener repair New Braunfels TX technician servicing a control valve","exists":true},{"file":"card-water-softener-control-valve-repair-new-braunfels-tx.webp","alt":"Water Softener Control Valve Repair New Braunfels TX","exists":true},{"file":"card-water-softener-motor-replacement-new-braunfels-tx.webp","alt":"Water Softener Motor Replacement New Braunfels TX","exists":false},{"file":"card-float-valve-repair-new-braunfels-tx.webp","alt":"Float Valve Repair New Braunfels TX","exists":true},{"file":"card-injector-cleaning-new-braunfels-tx.webp","alt":"Injector Cleaning New Braunfels TX","exists":true},{"file":"card-head-replacement-new-braunfels-tx.webp","alt":"Head Replacement New Braunfels TX","exists":true},{"file":"card-brine-line-repair-new-braunfels-tx.webp","alt":"Brine Line Repair New Braunfels TX","exists":true},{"file":"card-water-softener-leak-repair-new-braunfels-tx.webp","alt":"Water Softener Leak Repair New Braunfels TX","exists":true}]
 faq: [{"q":"Why is my water still hard even though the softener has salt?","a":"Salt alone does not soften water. A clogged injector, fouled resin, a failed valve or a missed regeneration cycle can all leave hard water."},{"q":"How do I fix a water softener that is not regenerating?","a":"Check power and the control head settings first. If the unit still does not cycle, the motor, valve or head needs repair, and a technician diagnoses which."},{"q":"What causes a salt bridge?","a":"Humidity and salt type cause a crust to form above the water in the brine tank. Breaking the crust and cleaning the tank restores brine."},{"q":"Why is my water softener leaking?","a":"Leaks come from loose fittings, worn seals, a cracked drain line or a failing tank. A technician finds the source and replaces the part."},{"q":"How much does water softener repair cost?","a":"The cost depends on the part. We give a price before work begins."},{"q":"Do you offer same-day repair in New Braunfels?","a":"Same-day service depends on technician availability. Call and we will do our best to schedule quickly. New Braunfels Elite Water Softener TX provides water softener repair for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---
@@ -50,7 +50,10 @@ The motor turns the valve through its cycle. A failed motor leaves the unit stuc
 <div class="svc-card">
 
 
-![Float Valve Repair New Braunfels TX](/placeholders/card.svg)
+
+![Float Valve Repair New Braunfels TX](../../assets/images/card-float-valve-repair-new-braunfels-tx.webp)
+
+
 
 ### Float Valve Repair
 
@@ -61,7 +64,10 @@ The float valve limits how much water enters the brine tank. A stuck float cause
 <div class="svc-card">
 
 
-![Injector Cleaning New Braunfels TX](/placeholders/card.svg)
+
+![Injector Cleaning New Braunfels TX](../../assets/images/card-injector-cleaning-new-braunfels-tx.webp)
+
+
 
 ### Injector Cleaning
 
@@ -72,7 +78,10 @@ The injector draws brine into the resin tank. Sediment clogs it, and a blocked i
 <div class="svc-card">
 
 
-![Head Replacement New Braunfels TX](/placeholders/card.svg)
+
+![Head Replacement New Braunfels TX](../../assets/images/card-head-replacement-new-braunfels-tx.webp)
+
+
 
 ### Head Replacement
 
@@ -83,7 +92,10 @@ The control head holds the timer, display and electronics. When it loses its set
 <div class="svc-card">
 
 
-![Brine Line Repair New Braunfels TX](/placeholders/card.svg)
+
+![Brine Line Repair New Braunfels TX](../../assets/images/card-brine-line-repair-new-braunfels-tx.webp)
+
+
 
 ### Brine Line Repair
 
@@ -94,7 +106,10 @@ The brine line carries brine from the tank to the valve. Cracks, kinks or loose 
 <div class="svc-card">
 
 
-![Water Softener Leak Repair New Braunfels TX](/placeholders/card.svg)
+
+![Water Softener Leak Repair New Braunfels TX](../../assets/images/card-water-softener-leak-repair-new-braunfels-tx.webp)
+
+
 
 ### Water Softener Leak Repair
 

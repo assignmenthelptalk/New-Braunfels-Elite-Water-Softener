@@ -11,7 +11,7 @@ openingHtml: "Water treatment services in New Braunfels, TX start with a test, b
 formHeading: ""
 formIntro: ""
 leadImage: {"file":"water-treatment-new-braunfels-tx.webp","alt":"Water treatment New Braunfels TX whole house filter and water softener setup"}
-images: [{"file":"water-treatment-new-braunfels-tx.webp","alt":"Water treatment New Braunfels TX whole house filter and water softener setup","exists":true},{"file":"card-why-test-before-you-treat-new-braunfels-tx.webp","alt":"Why Test Before You Treat New Braunfels TX","exists":false},{"file":"card-water-quality-testing-new-braunfels-tx.webp","alt":"Water Quality Testing New Braunfels TX","exists":true},{"file":"card-water-filtration-system-installation-new-braunfels-tx.webp","alt":"Water Filtration System Installation New Braunfels TX","exists":false},{"file":"card-well-water-softener-and-treatment-new-braunfels-tx.webp","alt":"Well Water Softener and Treatment New Braunfels TX","exists":false},{"file":"card-water-contaminant-removal-new-braunfels-tx.webp","alt":"Water Contaminant Removal New Braunfels TX","exists":false},{"file":"card-reverse-osmosis-system-installation-new-braunfels-tx.webp","alt":"Reverse Osmosis System Installation New Braunfels TX","exists":false},{"file":"card-uv-water-purification-system-installation-new-braunfels-tx.webp","alt":"UV Water Purification System Installation New Braunfels TX","exists":false},{"file":"card-drinking-water-system-installation-new-braunfels-tx.webp","alt":"Drinking Water System Installation New Braunfels TX","exists":false}]
+images: [{"file":"water-treatment-new-braunfels-tx.webp","alt":"Water treatment New Braunfels TX whole house filter and water softener setup","exists":true},{"file":"card-why-test-before-you-treat-new-braunfels-tx.webp","alt":"Why Test Before You Treat New Braunfels TX","exists":true},{"file":"card-water-quality-testing-new-braunfels-tx.webp","alt":"Water Quality Testing New Braunfels TX","exists":true},{"file":"card-water-filtration-system-installation-new-braunfels-tx.webp","alt":"Water Filtration System Installation New Braunfels TX","exists":true},{"file":"card-well-water-softener-and-treatment-new-braunfels-tx.webp","alt":"Well Water Softener and Treatment New Braunfels TX","exists":false},{"file":"card-water-contaminant-removal-new-braunfels-tx.webp","alt":"Water Contaminant Removal New Braunfels TX","exists":true},{"file":"card-reverse-osmosis-system-installation-new-braunfels-tx.webp","alt":"Reverse Osmosis System Installation New Braunfels TX","exists":true},{"file":"card-uv-water-purification-system-installation-new-braunfels-tx.webp","alt":"UV Water Purification System Installation New Braunfels TX","exists":false},{"file":"card-drinking-water-system-installation-new-braunfels-tx.webp","alt":"Drinking Water System Installation New Braunfels TX","exists":true}]
 faq: [{"q":"Do I need a filter if I have a water softener?","a":"A softener and a filter solve different problems, so many homes use both. A softener removes calcium and magnesium, and a carbon filter reduces chlorine taste and odor. NBU reported a 2.58 ppm average total chlorine residual in 2025, so a carbon stage is the usual choice for households that notice chlorine."},{"q":"Does reverse osmosis remove hardness?","a":"Reverse osmosis removes most dissolved minerals at one tap, but it is built for drinking water, not for protecting a whole house. Hard water shortens a membrane's life, so a softener ahead of the system helps it last."},{"q":"How often does a private well need testing?","a":"EPA recommends that private well owners test for bacteria every year and test for other contaminants when a risk is present. Nobody tests a private well for you, so the owner schedules it."},{"q":"Does New Braunfels city water need UV treatment?","a":"City water from NBU is already disinfected, so UV is mainly for private wells and for homes with a bacteria result on a test. A test shows whether a household needs it. New Braunfels Elite Water Softener TX provides water treatment services for homes and businesses across New Braunfels and Comal County."}]
 markerCount: 0
 ---
@@ -25,7 +25,10 @@ Water treatment starts with testing and covers filtration, well water treatment,
 <div class="svc-card">
 
 
-![Why Test Before You Treat New Braunfels TX](/placeholders/card.svg)
+
+![Why Test Before You Treat New Braunfels TX](../../assets/images/card-why-test-before-you-treat-new-braunfels-tx.webp)
+
+
 
 ### Why Test Before You Treat
 
@@ -50,7 +53,10 @@ A water test tells you which problem you have before you pay to solve it. NBU's 
 <div class="svc-card">
 
 
-![Water Filtration System Installation New Braunfels TX](/placeholders/card.svg)
+
+![Water Filtration System Installation New Braunfels TX](../../assets/images/card-water-filtration-system-installation-new-braunfels-tx.webp)
+
+
 
 ### Water Filtration System Installation
 
@@ -72,7 +78,10 @@ A water test tells you which problem you have before you pay to solve it. NBU's 
 <div class="svc-card">
 
 
-![Water Contaminant Removal New Braunfels TX](/placeholders/card.svg)
+
+![Water Contaminant Removal New Braunfels TX](../../assets/images/card-water-contaminant-removal-new-braunfels-tx.webp)
+
+
 
 ### Water Contaminant Removal
 
@@ -83,7 +92,10 @@ A water test tells you which problem you have before you pay to solve it. NBU's 
 <div class="svc-card">
 
 
-![Reverse Osmosis System Installation New Braunfels TX](/placeholders/card.svg)
+
+![Reverse Osmosis System Installation New Braunfels TX](../../assets/images/card-reverse-osmosis-system-installation-new-braunfels-tx.webp)
+
+
 
 ### Reverse Osmosis System Installation
 
@@ -105,7 +117,10 @@ A water test tells you which problem you have before you pay to solve it. NBU's 
 <div class="svc-card">
 
 
-![Drinking Water System Installation New Braunfels TX](/placeholders/card.svg)
+
+![Drinking Water System Installation New Braunfels TX](../../assets/images/card-drinking-water-system-installation-new-braunfels-tx.webp)
+
+
 
 ### Drinking Water System Installation
 
