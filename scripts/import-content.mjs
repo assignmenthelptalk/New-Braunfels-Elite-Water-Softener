@@ -15,7 +15,8 @@
  *   $LOCAL_SEO_TOOLKIT/data/<domain-name>       toolkit location from the environment
  *   ../../Local-SEO-Toolkit/data/<domain-name>  sibling of the waterSoftenerProjects folder
  * <domain-name> is the domain in src/site.config.ts without its extension
- * (lubbockelitewatersoftener.com -> lubbockelitewatersoftener).
+ * (lubbockelitewatersoftener.com -> lubbockelitewatersoftener). If no such folder exists the importer uses
+ * data/<package name> instead.
  *
  * The strategy folder needs written-content/*.md and a topical-map.json shaped
  * like the water softener preset (see templates/content-site/README.md). Fill in
@@ -50,7 +51,11 @@ if ([BRAND, CITY, STATE, COUNTY, DOMAIN].some((v) => /_NAME|_ABBR|NAME$/.test(v)
 }
 
 const TOOLKIT = process.env.LOCAL_SEO_TOOLKIT || path.resolve(root, "..", "..", "Local-SEO-Toolkit");
-const SOURCE = process.env.CONTENT_SOURCE || path.join(TOOLKIT, "data", DOMAIN.replace(/\.[a-z.]+$/i, ""));
+// The strategy folder is named after the domain. A site whose live domain differs from its folder name (New Braunfels:
+// www.watersoftenernewbraunfelstx.com, folder newbraunfelselitewatersoftener) falls back to the folder named after the project.
+const domainFolder = path.join(TOOLKIT, "data", DOMAIN.replace(/\.[a-z.]+$/i, ""));
+const projectName = JSON.parse(fs.readFileSync(path.join(root, "package.json"), "utf8")).name;
+const SOURCE = process.env.CONTENT_SOURCE || (fs.existsSync(domainFolder) ? domainFolder : path.join(TOOLKIT, "data", projectName));
 if (!fs.existsSync(path.join(SOURCE, "topical-map.json"))) {
   throw new Error(`No topical-map.json in ${SOURCE}. Set CONTENT_SOURCE or LOCAL_SEO_TOOLKIT, or build the topical map first.`);
 }

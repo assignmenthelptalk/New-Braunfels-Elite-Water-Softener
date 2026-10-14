@@ -1,6 +1,6 @@
 # newbraunfelselitewatersoftener
 
-Rank-and-rent lead-generation site for **New Braunfels Elite Water Softener** (newbraunfelselitewatersoftener.com, target keyword "water softener new braunfels tx").
+Rank-and-rent lead-generation site for **New Braunfels Elite Water Softener** (www.watersoftenernewbraunfelstx.com, target keyword "water softener new braunfels tx").
 Astro 7 static site created from `water-softener-boilerplate` with `Local-SEO-Toolkit/scripts/create-site-project.mjs`.
 
 **Status: scaffold only.** The site builds with starter pages (home, About, Contact, thank-you, 404). The topical map, briefs and
