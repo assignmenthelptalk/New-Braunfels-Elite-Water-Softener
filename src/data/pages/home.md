@@ -145,7 +145,7 @@ Dual tank and commercial water softeners, water conditioners, reverse osmosis an
 
 ## Why Is New Braunfels Water So Hard?
 
-New Braunfels water is hard because of where it comes from. According to a 2023 study published in the journal Groundwater, titled “Hydrogeochemical Evaluation of Aquifer Storage and Recovery in Edwards Aquifer, New Braunfels, Texas,” the water New Braunfels Utilities delivers is a calcium-magnesium-bicarbonate type, a treated blend of Guadalupe River water and groundwater from the freshwater zone of the Edwards Aquifer. The same study found that the limestone riverbed of the Guadalupe River likely supplies a substantial amount of calcium and bicarbonate to the river, and that the Edwards freshwater zone carries slightly higher hardness than the river water.
+New Braunfels water is hard because of where it comes from. According to a 2023 study published in the journal Groundwater, titled “Hydrogeochemical Evaluation of Aquifer Storage and Recovery in Edwards Aquifer, New Braunfels, Texas,” the water New Braunfels Utilities delivers is a calcium-magnesium-bicarbonate type, a treated blend of Guadalupe River water and groundwater from the freshwater zone of the Edwards Aquifer. The same study found that the limestone riverbed of the Guadalupe River likely supplies a substantial amount of calcium and bicarbonate to the river, and that the Edwards freshwater zone carries slightly higher hardness than the river water. A 2026 study in PLOS Water that tested tap water in Austin’s Colony, a central Texas neighbourhood east of Austin, found that 77 percent of untreated samples were very hard, and it notes that more than 60 percent of Texas counties have aquifers with very hard water.
 
 <div class="issues-split">
 
