@@ -42,11 +42,9 @@ export const yearsLabel: string | null =
     : null;
 
 // ---- service policies --------------------------------------------------------------------------------------------
-/** "[n]-year labor warranty", else the equipment-warranty line used in placeholder mode. */
-export const warrantyLabel: string =
-  hasClient && num(c.laborWarrantyYears) > 0
-    ? `${num(c.laborWarrantyYears)}-year labor warranty`
-    : "SpringWell lifetime system warranty included";
+/** "[n]-year labor warranty", or null (no warranty claim is made unless the client states one). */
+export const warrantyLabel: string | null =
+  hasClient && num(c.laborWarrantyYears) > 0 ? `${num(c.laborWarrantyYears)}-year labor warranty` : null;
 
 /** The client's real guarantee, or null (the guarantee block is not rendered). */
 export const guaranteeText: string | null = hasClient && clean(c.satisfactionGuarantee) ? clean(c.satisfactionGuarantee) : null;
