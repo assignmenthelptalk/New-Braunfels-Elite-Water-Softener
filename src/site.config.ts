@@ -220,6 +220,8 @@ export interface SiteConfig {
    * businessEmail below — phone is the primary contact method, the
    * QuoteForm is a secondary option for homeowners who prefer a form. */
   phoneNumber: string;
+  /** false hides the phone number and every call button (calls to action become the quote form). Set true once a real number is live. */
+  showPhone: boolean;
   /** Business email — used as the formsubmit.co destination for QuoteForm
    * submissions. SCREAMING_SNAKE_CASE placeholder until a tenant signs. */
   businessEmail: string;
@@ -314,6 +316,7 @@ export const siteConfig: SiteConfig = {
   // Business identity — edit directly, no CMS
   businessName: "New Braunfels Elite Water Softener",
   phoneNumber: "(830) 000-0000",
+  showPhone: false,
   businessEmail: "tupateltd@gmail.com",
   address: "",
   googleBusinessUrl: "",

@@ -10,6 +10,7 @@
  * service-area business. Add openingHoursSpecification only when the business confirms real hours.
  */
 import { site } from "../lib/site";
+import { phoneVisible } from "../lib/phone";
 import mapData from "../data/map-points.json";
 
 const isPlaceholderPhone = (p: string) => !p || p === "PHONE_NUMBER" || /000-0000/.test(p);
@@ -20,7 +21,7 @@ const localBusinessSchema = {
   "@type": "HomeAndConstructionBusiness",
   name: site.businessName,
   url: site.siteUrl,
-  telephone: isPlaceholderPhone(site.phoneNumber) ? undefined : site.phoneNumber,
+  telephone: phoneVisible && !isPlaceholderPhone(site.phoneNumber) ? site.phoneNumber : undefined,
   email: site.businessEmail !== "BUSINESS_EMAIL" ? site.businessEmail : undefined,
   address: {
     "@type": "PostalAddress",
