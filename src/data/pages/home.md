@@ -1,12 +1,12 @@
 ---
-title: "New Braunfels Elite Water Softener - Premier Water Softener Installation in New Braunfels, TX"
+title: "New Braunfels Elite Water Softener - Water Softener Installation in New Braunfels, TX"
 seoTitle: "Water Softener New Braunfels, TX | New Braunfels Elite Water Softener"
 description: "New Braunfels Elite Water Softener offers professional water softener installation, repair, and replacement in New Braunfels, TX. Get a free estimate today. Call now."
 metaDraft: false
 slug: "/"
 pageType: "home"
 parentSlug: null
-crumb: "New Braunfels Elite Water Softener - Premier Water Softener Installation"
+crumb: "New Braunfels Elite Water Softener - Water Softener Installation"
 openingHtml: "Most of New Braunfels' drinking water comes from the Guadalupe River, treated at the Gruene Road Surface Water Treatment Plant, with Edwards Aquifer and Trinity Aquifer groundwater added, and the minerals in that blend leave scale on pipes, fixtures and appliances. New Braunfels Elite Water Softener installs, replaces and services water softener systems for homeowners in New Braunfels, Canyon Lake, Seguin, San Marcos, Wimberley, Bulverde and Spring Branch. Request a free estimate and get a system sized to your household and your water."
 formHeading: "Get Your Free Water Softener Estimate in New Braunfels, TX"
 formIntro: "A free estimate covers your home's water use, the right system size and a clear installed price. Fill in the form and we will contact you within 24 hours."
