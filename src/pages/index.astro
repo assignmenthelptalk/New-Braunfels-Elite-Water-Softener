@@ -20,14 +20,15 @@ import PageSchema from "../components/PageSchema.astro";
 import NeighbourhoodMap from "../components/NeighbourhoodMap.astro";
 import { site } from "../lib/site";
 import { phoneVisible, telHref, phoneNumber } from "../lib/phone";
-import { hasClient, trustBadge } from "../lib/clientMode";
+import { trustBadge, sameDayLabel } from "../lib/clientMode";
+import ClientHighlights from "../components/ClientHighlights.astro";
 import { Content, frontmatter as fm } from "../data/pages/home.md";
 import { Content as ContentAfter, frontmatter as afterFm } from "../data/home-after.md";
 
 const heroFiles = import.meta.glob<{ default: ImageMetadata }>("../assets/images/hero-*.webp", { eager: true });
 const heroImage = Object.values(heroFiles)[0]?.default;
 const HERO_PLACEHOLDER = "/placeholders/hero.svg"; // local file in public/placeholders (no network at build)
-const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.city}, ${site.stateAbbr}`, ...(hasClient ? [`✓ ${trustBadge}`] : [])];
+const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.city}, ${site.stateAbbr}`, `✓ ${trustBadge}`, ...(sameDayLabel ? [`✓ ${sameDayLabel}`] : [])];
 ---
 
 <Layout title={fm.title} fullTitle={fm.seoTitle} description={fm.description}>
@@ -71,6 +72,9 @@ const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.ci
       </div>
     </div>
   </section>
+
+  <!-- Credentials strip, guarantee and reviews: rendered only from client data (src/client.config.ts) -->
+  <ClientHighlights />
 
   <!-- 2 to 9. Page copy: why choose us, services, hard water, process, FAQ, areas -->
   <section class="section">

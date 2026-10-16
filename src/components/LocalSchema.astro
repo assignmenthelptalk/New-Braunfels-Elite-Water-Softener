@@ -10,7 +10,7 @@
  * service-area business. Add openingHoursSpecification only when the business confirms real hours.
  */
 import { site } from "../lib/site";
-import { phone, schemaAddress, legalName, licences, googleProfileUrl } from "../lib/clientMode";
+import { phone, schemaAddress, legalName, licences, googleProfileUrl, priceRangeSchema, reviewsBlock } from "../lib/clientMode";
 import mapData from "../data/map-points.json";
 
 const center = (mapData as { center: { lat: number; lng: number } | null }).center;
@@ -39,6 +39,10 @@ const localBusinessSchema = {
     ...[site.city, ...site.neighbourhoods].map((name) => ({ "@type": "City", name })),
   ],
   serviceType: "Water Softener Installation & Water Treatment",
+  priceRange: priceRangeSchema ?? undefined,
+  aggregateRating: reviewsBlock
+    ? { "@type": "AggregateRating", ratingValue: reviewsBlock.rating, reviewCount: reviewsBlock.count, bestRating: 5, worstRating: 1 }
+    : undefined,
   sameAs: [googleProfileUrl, ...Object.values(site.socialLinks ?? {})].filter(Boolean).length
     ? [googleProfileUrl, ...Object.values(site.socialLinks ?? {})].filter(Boolean)
     : undefined,

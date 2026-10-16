@@ -12,7 +12,7 @@ import ServiceAreaMap from "../components/ServiceAreaMap.astro";
 import PageSchema from "../components/PageSchema.astro";
 import { site } from "../lib/site";
 import { phoneVisible, telHref, primaryCta, phoneNumber } from "../lib/phone";
-import { hasClient, trustBadge } from "../lib/clientMode";
+import { trustBadge, sameDayLabel, priceRangeCopy, priceRangeSchema } from "../lib/clientMode";
 
 export function getStaticPaths() {
   const modules = import.meta.glob("../data/pages/*.md", { eager: true }) as Record<string, any>;
@@ -52,7 +52,7 @@ const service = ["core-service", "service", "geo"].includes(fm.pageType)
   : undefined;
 
 // Only claims the business can back up. Add licence or same-day chips once confirmed.
-const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.city}, ${site.stateAbbr}`, ...(hasClient ? [`✓ ${trustBadge}`] : [])];
+const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.city}, ${site.stateAbbr}`, `✓ ${trustBadge}`, ...(sameDayLabel ? [`✓ ${sameDayLabel}`] : [])];
 ---
 
 <Layout title={fm.title} fullTitle={fm.seoTitle} description={fm.description}>
@@ -68,6 +68,14 @@ const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.ci
   </PageHero>
 
   {fm.pageType === "geo-hub" && <ServiceAreaMap />}
+
+  {fm.slug.includes("water-softener-cost") && (
+    <section class="section price-intro">
+      <div class="container">
+        <p class="price-intro-copy"><strong>{priceRangeSchema ? `Installed price range: ${priceRangeCopy}` : `${priceRangeCopy}.`}</strong></p>
+      </div>
+    </section>
+  )}
 
   <section class="section">
     <div class="container">
