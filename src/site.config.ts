@@ -228,6 +228,10 @@ export interface SiteConfig {
   /** Physical or service-area address — blank (not a placeholder token)
    * until a tenant signs; every usage hides gracefully when empty. */
   address: string;
+  /** true = a service-area business: no street address is published (Contact page, schema). */
+  serviceAreaOnly: boolean;
+  /** Circle the business serves, for the LocalBusiness schema areaServed (radius in miles). Optional. */
+  serviceArea?: { lat: number; lng: number; radiusMiles: number };
   /** Google Business Profile URL — blank until claimed; used as the
    * footer link and the LocalBusiness schema's sameAs URL. */
   googleBusinessUrl: string;
@@ -319,6 +323,8 @@ export const siteConfig: SiteConfig = {
   showPhone: false,
   businessEmail: "tupateltd@gmail.com",
   address: "",
+  serviceAreaOnly: true,
+  serviceArea: { lat: 29.703, lng: -98.1245, radiusMiles: 30 },
   googleBusinessUrl: "",
   googleSiteVerification: "WKnys00JTwR-sWtTf6GVeLG590BhsshZjpC4Pnlgstc",
   socialLinks: { facebook: "", instagram: "", pinterest: "", x: "", youtube: "" },

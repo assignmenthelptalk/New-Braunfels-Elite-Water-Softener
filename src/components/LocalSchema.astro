@@ -31,10 +31,16 @@ const localBusinessSchema = {
     addressCountry: "US",
   },
   geo: center ? { "@type": "GeoCoordinates", latitude: center.lat, longitude: center.lng } : undefined,
-  areaServed: [site.city, ...site.neighbourhoods].map((name) => ({
-    "@type": "City",
-    name,
-  })),
+  areaServed: [
+    ...(site.serviceArea
+      ? [{
+          "@type": "GeoCircle",
+          geoMidpoint: { "@type": "GeoCoordinates", latitude: site.serviceArea.lat, longitude: site.serviceArea.lng },
+          geoRadius: Math.round(site.serviceArea.radiusMiles * 1609.34), // metres
+        }]
+      : []),
+    ...[site.city, ...site.neighbourhoods].map((name) => ({ "@type": "City", name })),
+  ],
   serviceType: "Water Softener Installation & Water Treatment",
   sameAs: [site.googleBusinessUrl, ...Object.values(site.socialLinks ?? {})].filter(Boolean).length
     ? [site.googleBusinessUrl, ...Object.values(site.socialLinks ?? {})].filter(Boolean)
