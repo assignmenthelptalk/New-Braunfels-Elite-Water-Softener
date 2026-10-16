@@ -1,14 +1,12 @@
 /**
- * phone.ts: one place that decides whether the phone number is shown.
- * site.config.ts showPhone: false hides every phone number and call button; the calls to action become the quote form.
- * A placeholder number (PHONE_NUMBER or a number ending 000-0000) is never shown, whatever showPhone says.
+ * phone.ts: phone display values for the templates, all derived from clientMode.ts (src/client.config.ts).
+ * Placeholder mode (hasClient: false): no number, no tel: link, and the calls to action become the quote form.
  */
-import { siteConfig as site } from "../site.config";
+import { phone, ctaShowPhone } from "./clientMode";
 
-const isPlaceholder = (p: string) => !p || p === "PHONE_NUMBER" || /000-0000/.test(p);
-
-export const phoneVisible: boolean = site.showPhone && !isPlaceholder(site.phoneNumber);
-export const telHref: string = phoneVisible ? `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}` : "/#estimate";
+export const phoneVisible: boolean = ctaShowPhone;
+export const phoneNumber: string = phone ?? "";
+export const telHref: string = phoneVisible ? `tel:${phoneNumber.replace(/[^\d+]/g, "")}` : "/#estimate";
 export const primaryCta: { href: string; text: string } = phoneVisible
-  ? { href: telHref, text: `📞 ${site.phoneNumber}` }
+  ? { href: telHref, text: `\u{1F4DE} ${phoneNumber}` }
   : { href: "/#estimate", text: "Get a Free Estimate" };

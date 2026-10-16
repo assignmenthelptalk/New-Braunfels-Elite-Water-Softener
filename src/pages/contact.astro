@@ -6,7 +6,8 @@ import Layout from "../components/Layout.astro";
 import PageHero from "../components/PageHero.astro";
 import QuoteForm from "../components/QuoteForm.astro";
 import { site } from "../lib/site";
-import { phoneVisible, telHref, primaryCta } from "../lib/phone";
+import { phoneVisible, telHref, primaryCta, phoneNumber } from "../lib/phone";
+import { addressLine } from "../lib/clientMode";
 
 ---
 
@@ -31,13 +32,9 @@ import { phoneVisible, telHref, primaryCta } from "../lib/phone";
       <div class="contact-details">
         <h2>Get in Touch</h2>
         <p>{phoneVisible ? "Call for a free estimate, or send the form and we will contact you within 24 hours." : "Send the form and we will contact you within 24 hours."}</p>
-        {phoneVisible && <p class="contact-row"><strong>Phone:</strong> <a href={telHref}>{site.phoneNumber}</a></p>}
+        {phoneVisible && <p class="contact-row"><strong>Phone:</strong> <a href={telHref}>{phoneNumber}</a></p>}
         <p class="contact-row"><strong>Service area:</strong> {site.city}, {site.county} and nearby towns</p>
-        {site.address
-          ? <p class="contact-row"><strong>Address:</strong> {site.address}</p>
-          : site.serviceAreaOnly
-            ? null
-            : <p class="contact-row"><mark class="data-gap">[NEEDS DATA: business address or "service area only"]</mark></p>}
+        {addressLine && <p class="contact-row"><strong>Address:</strong> {addressLine}</p>}
       </div>
       <div class="contact-form" id="estimate">
         <QuoteForm heading="Request Your Free Estimate" />

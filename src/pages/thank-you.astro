@@ -6,7 +6,7 @@
  */
 import Layout from "../components/Layout.astro";
 import { site } from "../lib/site";
-import { phoneVisible, telHref } from "../lib/phone";
+import { phoneVisible, telHref, phoneNumber } from "../lib/phone";
 
 ---
 
@@ -24,7 +24,7 @@ import { phoneVisible, telHref } from "../lib/phone";
         will be in touch within 24 hours.
       </p>
       {phoneVisible && <p>Need faster service? Call us now:</p>}
-      {phoneVisible && <p class="thank-you-phone"><a href={telHref}>{site.phoneNumber}</a></p>}
+      {phoneVisible && <p class="thank-you-phone"><a href={telHref}>{phoneNumber}</a></p>}
       <a class="btn btn-primary" href="/">Back to Homepage</a>
     </div>
   </section>

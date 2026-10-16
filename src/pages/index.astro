@@ -19,14 +19,15 @@ import ContentProse from "../components/ContentProse.astro";
 import PageSchema from "../components/PageSchema.astro";
 import NeighbourhoodMap from "../components/NeighbourhoodMap.astro";
 import { site } from "../lib/site";
-import { phoneVisible, telHref } from "../lib/phone";
+import { phoneVisible, telHref, phoneNumber } from "../lib/phone";
+import { hasClient, trustBadge } from "../lib/clientMode";
 import { Content, frontmatter as fm } from "../data/pages/home.md";
 import { Content as ContentAfter, frontmatter as afterFm } from "../data/home-after.md";
 
 const heroFiles = import.meta.glob<{ default: ImageMetadata }>("../assets/images/hero-*.webp", { eager: true });
 const heroImage = Object.values(heroFiles)[0]?.default;
 const HERO_PLACEHOLDER = "/placeholders/hero.svg"; // local file in public/placeholders (no network at build)
-const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.city}, ${site.stateAbbr}`];
+const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.city}, ${site.stateAbbr}`, ...(hasClient ? [`✓ ${trustBadge}`] : [])];
 ---
 
 <Layout title={fm.title} fullTitle={fm.seoTitle} description={fm.description}>
@@ -60,7 +61,7 @@ const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.ci
           <svg width="18" height="18" viewBox="0 0 16 16" fill="none" aria-hidden="true">
             <path d="M3.5 1.5h2.2l1 3-1.6 1.2a9 9 0 0 0 4.2 4.2l1.2-1.6 3 1v2.2c0 .8-.7 1.4-1.4 1.3C7 12.4 3.6 9 3.2 3.9c-.1-.7.5-1.4 1.3-1.4Z" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round" />
           </svg>
-          {site.phoneNumber}
+          {phoneNumber}
         </a>
         )}
       </div>

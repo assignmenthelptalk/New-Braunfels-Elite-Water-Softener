@@ -10,10 +10,9 @@
  * service-area business. Add openingHoursSpecification only when the business confirms real hours.
  */
 import { site } from "../lib/site";
-import { phoneVisible } from "../lib/phone";
+import { phone, schemaAddress, legalName, licences, googleProfileUrl } from "../lib/clientMode";
 import mapData from "../data/map-points.json";
 
-const isPlaceholderPhone = (p: string) => !p || p === "PHONE_NUMBER" || /000-0000/.test(p);
 const center = (mapData as { center: { lat: number; lng: number } | null }).center;
 
 const localBusinessSchema = {
@@ -21,16 +20,14 @@ const localBusinessSchema = {
   "@type": "HomeAndConstructionBusiness",
   name: site.businessName,
   url: site.siteUrl,
-  telephone: phoneVisible && !isPlaceholderPhone(site.phoneNumber) ? site.phoneNumber : undefined,
+  legalName: legalName || undefined,
+  telephone: phone ?? undefined,
   email: site.businessEmail !== "BUSINESS_EMAIL" ? site.businessEmail : undefined,
-  address: {
-    "@type": "PostalAddress",
-    streetAddress: site.address || undefined,
-    addressLocality: site.city,
-    addressRegion: site.stateAbbr,
-    addressCountry: "US",
-  },
-  geo: center ? { "@type": "GeoCoordinates", latitude: center.lat, longitude: center.lng } : undefined,
+  address: schemaAddress ?? undefined,
+  identifier: licences.length
+    ? licences.map((l) => ({ "@type": "PropertyValue", name: l.body + " licence", value: l.number }))
+    : undefined,
+  geo: schemaAddress && center ? { "@type": "GeoCoordinates", latitude: center.lat, longitude: center.lng } : undefined,
   areaServed: [
     ...(site.serviceArea
       ? [{
@@ -42,8 +39,8 @@ const localBusinessSchema = {
     ...[site.city, ...site.neighbourhoods].map((name) => ({ "@type": "City", name })),
   ],
   serviceType: "Water Softener Installation & Water Treatment",
-  sameAs: [site.googleBusinessUrl, ...Object.values(site.socialLinks ?? {})].filter(Boolean).length
-    ? [site.googleBusinessUrl, ...Object.values(site.socialLinks ?? {})].filter(Boolean)
+  sameAs: [googleProfileUrl, ...Object.values(site.socialLinks ?? {})].filter(Boolean).length
+    ? [googleProfileUrl, ...Object.values(site.socialLinks ?? {})].filter(Boolean)
     : undefined,
 };
 ---

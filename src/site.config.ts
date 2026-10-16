@@ -220,16 +220,12 @@ export interface SiteConfig {
    * businessEmail below — phone is the primary contact method, the
    * QuoteForm is a secondary option for homeowners who prefer a form. */
   phoneNumber: string;
-  /** false hides the phone number and every call button (calls to action become the quote form). Set true once a real number is live. */
-  showPhone: boolean;
   /** Business email — used as the formsubmit.co destination for QuoteForm
    * submissions. SCREAMING_SNAKE_CASE placeholder until a tenant signs. */
   businessEmail: string;
   /** Physical or service-area address — blank (not a placeholder token)
    * until a tenant signs; every usage hides gracefully when empty. */
   address: string;
-  /** true = a service-area business: no street address is published (Contact page, schema). */
-  serviceAreaOnly: boolean;
   /** Circle the business serves, for the LocalBusiness schema areaServed (radius in miles). Optional. */
   serviceArea?: { lat: number; lng: number; radiusMiles: number };
   /** Google Business Profile URL — blank until claimed; used as the
@@ -320,10 +316,8 @@ export const siteConfig: SiteConfig = {
   // Business identity — edit directly, no CMS
   businessName: "New Braunfels Elite Water Softener",
   phoneNumber: "(830) 000-0000",
-  showPhone: false,
   businessEmail: "tupateltd@gmail.com",
   address: "",
-  serviceAreaOnly: true,
   serviceArea: { lat: 29.703, lng: -98.1245, radiusMiles: 30 },
   googleBusinessUrl: "",
   googleSiteVerification: "WKnys00JTwR-sWtTf6GVeLG590BhsshZjpC4Pnlgstc",

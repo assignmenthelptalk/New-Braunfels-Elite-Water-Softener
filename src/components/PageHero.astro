@@ -11,6 +11,7 @@ import { Image } from "astro:assets";
 import QuoteForm from "./QuoteForm.astro";
 import Breadcrumbs from "./Breadcrumbs.astro";
 import { site } from "../lib/site";
+import { hasClient, trustBadge } from "../lib/clientMode";
 
 interface CtaLink {
   href: string;
@@ -41,7 +42,7 @@ const {
   secondaryCta,
   image,
   showForm = true,
-  badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.city}, ${site.stateAbbr}`],
+  badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.city}, ${site.stateAbbr}`, ...(hasClient ? [`✓ ${trustBadge}`] : [])],
 } = Astro.props;
 ---
 
