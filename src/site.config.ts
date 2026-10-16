@@ -229,6 +229,8 @@ export interface SiteConfig {
   /** Google Business Profile URL — blank until claimed; used as the
    * footer link and the LocalBusiness schema's sameAs URL. */
   googleBusinessUrl: string;
+  /** Google Search Console verification token (the content value of the google-site-verification meta tag); blank to omit. */
+  googleSiteVerification: string;
   /** Social profile URLs shown as icons in the footer. Leave a network blank until the profile exists: a blank one
    * renders as an inert icon (no link). Filled-in URLs are also added to the LocalBusiness schema's sameAs. */
   socialLinks: { facebook: string; instagram: string; pinterest: string; x: string; youtube: string };
@@ -315,6 +317,7 @@ export const siteConfig: SiteConfig = {
   businessEmail: "tupateltd@gmail.com",
   address: "",
   googleBusinessUrl: "",
+  googleSiteVerification: "WKnys00JTwR-sWtTf6GVeLG590BhsshZjpC4Pnlgstc",
   socialLinks: { facebook: "", instagram: "", pinterest: "", x: "", youtube: "" },
   siteUrl: `https://${domain}`,
 
