@@ -6,8 +6,8 @@
  */
 import Layout from "../components/Layout.astro";
 import { site } from "../lib/site";
-import { phoneVisible, telHref, phoneNumber } from "../lib/phone";
 
+const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
 ---
 
 <Layout
@@ -23,8 +23,8 @@ import { phoneVisible, telHref, phoneNumber } from "../lib/phone";
         Your free water softener estimate request has been submitted. A member of our {site.city} team
         will be in touch within 24 hours.
       </p>
-      {phoneVisible && <p>Need faster service? Call us now:</p>}
-      {phoneVisible && <p class="thank-you-phone"><a href={telHref}>{phoneNumber}</a></p>}
+      <p>Need faster service? Call us now:</p>
+      <p class="thank-you-phone"><a href={telHref}>{site.phoneNumber}</a></p>
       <a class="btn btn-primary" href="/">Back to Homepage</a>
     </div>
   </section>

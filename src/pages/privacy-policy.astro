@@ -1,8 +1,8 @@
 ---
 import LegalPage from "../components/LegalPage.astro";
 import { site } from "../lib/site";
-import { phoneVisible, telHref, phoneNumber } from "../lib/phone";
 
+const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
 ---
 
 <LegalPage
@@ -61,7 +61,7 @@ import { phoneVisible, telHref, phoneNumber } from "../lib/phone";
     You can ask us to tell you what personal information we hold about you, to correct it, or to delete it.
     You can also ask us to stop contacting you. Residents of Texas and other states may have additional rights
     under their state privacy laws; we will honour valid requests as the law requires.
-    Email <a href={`mailto:${site.businessEmail}`}>{site.businessEmail}</a>{phoneVisible && <> or call <a href={telHref}>{phoneNumber}</a></>}.
+    Email <a href={`mailto:${site.businessEmail}`}>{site.businessEmail}</a> or call <a href={telHref}>{site.phoneNumber}</a>.
   </p>
 
   <h2>Children</h2>

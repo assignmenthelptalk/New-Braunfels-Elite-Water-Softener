@@ -18,8 +18,8 @@ import HomeLink from "../components/HomeLink.astro";
 import ContentProse from "../components/ContentProse.astro";
 import PageSchema from "../components/PageSchema.astro";
 import { site } from "../lib/site";
-import { phoneVisible, primaryCta } from "../lib/phone";
 
+const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
 const isPlaceholder = (value: string) => /^[A-Z0-9_]+$/.test(value);
 // Links to other pages appear only when that page exists, so a fresh clone (before
 // npm run import-content) still passes npm run verify.
@@ -138,8 +138,8 @@ const faqs = [
   <PageHero
     breadcrumbs={[{ label: "About" }]}
     heading={`About ${site.businessName} | Trusted Local Specialists`}
-    primaryCta={primaryCta}
-    secondaryCta={phoneVisible ? { href: "/contact/", text: "Get a Free Quote" } : undefined}
+    primaryCta={{ href: telHref, text: `📞 ${site.phoneNumber}` }}
+    secondaryCta={{ href: "/contact/", text: "Get a Free Quote" }}
   >
     <p slot="opening">
       <HomeLink variant="exact" />

@@ -3,8 +3,6 @@ import { SEO } from "astro-seo";
 import { Image } from "astro:assets";
 import LocalSchema from "./LocalSchema.astro";
 import { site } from "../lib/site";
-import { phoneVisible, phoneNumber } from "../lib/phone";
-import { hasClient, addressLine } from "../lib/clientMode";
 import navData from "../data/nav.json";
 import "../styles/global.css";
 import "../styles/tailwind.css";
@@ -29,7 +27,7 @@ const logoImage = Object.values(logoFiles)[0]?.default;
 const footerLogoFiles = import.meta.glob<{ default: ImageMetadata }>("../assets/logo-reversed.{png,webp,jpg}", { eager: true });
 const footerLogo = Object.values(footerLogoFiles)[0]?.default;
 // tel: links keep digits and "+" only, so formatted numbers like "(806) 555-0100" still dial.
-const telDigits = phoneNumber ? phoneNumber.replace(/[^\d+]/g, "") : "";
+const telDigits = site.phoneNumber ? site.phoneNumber.replace(/[^\d+]/g, "") : "";
 
 const canonical = new URL(Astro.url.pathname, site.siteUrl).toString();
 
@@ -65,7 +63,6 @@ const socialUrl = (key: string): string => ((site.socialLinks as Record<string, 
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    {!hasClient && <Fragment set:html="<!-- PLACEHOLDER MODE ACTIVE -->" />}
     {site.googleSiteVerification && <meta name="google-site-verification" content={site.googleSiteVerification} />}
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -101,9 +98,9 @@ const socialUrl = (key: string): string => ((site.socialLinks as Record<string, 
     <div class="utility-bar">
       <div class="container utility-bar-inner">
         <span class="utility-bar-left">Serving {site.city}, {site.stateAbbr} and {site.region}</span>
-        {phoneVisible && (
+        {site.phoneNumber && site.phoneNumber !== "PHONE_NUMBER" && (
           <a href={`tel:${telDigits}`} class="utility-phone">
-            {phoneNumber}
+            {site.phoneNumber}
           </a>
         )}
       </div>
@@ -132,17 +129,13 @@ const socialUrl = (key: string): string => ((site.socialLinks as Record<string, 
           )}
         </a>
 
-        {phoneVisible && (
-          <a class="header-phone" href={`tel:${telDigits}`} aria-label={`Call ${phoneNumber}`}>
+        {site.phoneNumber && site.phoneNumber !== "PHONE_NUMBER" && (
+          <a class="header-phone" href={`tel:${telDigits}`} aria-label={`Call ${site.phoneNumber}`}>
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
               <path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2Z" fill="currentColor" />
             </svg>
-            <span>{phoneNumber}</span>
+            <span>{site.phoneNumber}</span>
           </a>
-        )}
-
-        {!phoneVisible && (
-          <a class="header-phone" href="/#estimate"><span>Free Estimate</span></a>
         )}
 
         <button
@@ -200,10 +193,9 @@ const socialUrl = (key: string): string => ((site.socialLinks as Record<string, 
           <span class="footer-brand">{site.businessName}</span>
         )}
         <div class="footer-contact">
-          {phoneVisible && (
-            <a class="footer-phone" href={`tel:${telDigits}`}>{phoneNumber}</a>
+          {site.phoneNumber && site.phoneNumber !== "PHONE_NUMBER" && (
+            <a class="footer-phone" href={`tel:${telDigits}`}>{site.phoneNumber}</a>
           )}
-          {addressLine && <span class="footer-address">{addressLine}</span>}
           {hasEmail && <a class="footer-email" href={`mailto:${site.businessEmail}`}>{site.businessEmail}</a>}
         </div>
 

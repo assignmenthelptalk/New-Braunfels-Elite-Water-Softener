@@ -11,8 +11,6 @@ import ContentProse from "../components/ContentProse.astro";
 import ServiceAreaMap from "../components/ServiceAreaMap.astro";
 import PageSchema from "../components/PageSchema.astro";
 import { site } from "../lib/site";
-import { phoneVisible, telHref, primaryCta, phoneNumber } from "../lib/phone";
-import { trustBadge, sameDayLabel, priceRangeCopy, priceRangeSchema } from "../lib/clientMode";
 
 export function getStaticPaths() {
   const modules = import.meta.glob("../data/pages/*.md", { eager: true }) as Record<string, any>;
@@ -51,8 +49,10 @@ const service = ["core-service", "service", "geo"].includes(fm.pageType)
   ? { name: fm.crumb as string, area: isLocation ? String(fm.crumb).replace(/^.* in /, "").replace(/,\s*[A-Z]{2}$/, "") : site.city }
   : undefined;
 
+const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
+const primaryCta = { href: telHref, text: `📞 ${site.phoneNumber}` };
 // Only claims the business can back up. Add licence or same-day chips once confirmed.
-const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.city}, ${site.stateAbbr}`, `✓ ${trustBadge}`, ...(sameDayLabel ? [`✓ ${sameDayLabel}`] : [])];
+const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.city}, ${site.stateAbbr}`];
 ---
 
 <Layout title={fm.title} fullTitle={fm.seoTitle} description={fm.description}>
@@ -69,14 +69,6 @@ const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.ci
 
   {fm.pageType === "geo-hub" && <ServiceAreaMap />}
 
-  {fm.slug.includes("water-softener-cost") && (
-    <section class="section price-intro">
-      <div class="container">
-        <p class="price-intro-copy"><strong>{priceRangeSchema ? `Installed price range: ${priceRangeCopy}` : `${priceRangeCopy}.`}</strong></p>
-      </div>
-    </section>
-  )}
-
   <section class="section">
     <div class="container">
       {leadImage && <Image src={leadImage} alt={fm.leadImage.alt} width={1200} class="lead-image" />}
@@ -89,10 +81,10 @@ const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.ci
   <section class="section section-dark cta-band">
     <div class="container cta-band-inner">
       <h2>Ready for softer water in {site.city}?</h2>
-      <p>{phoneVisible ? `Request a free estimate or call ${site.businessName} to talk through your home and your water.` : `Request a free estimate and ${site.businessName} will contact you to talk through your home and your water.`}</p>
+      <p>Request a free estimate or call {site.businessName} to talk through your home and your water.</p>
       <div class="cta-band-actions">
         <a class="btn btn-primary" href="#estimate">Get a Free Estimate</a>
-        {phoneVisible && <a class="cta-band-phone" href={telHref}>{phoneNumber}</a>}
+        <a class="cta-band-phone" href={telHref}>{site.phoneNumber}</a>
       </div>
     </div>
   </section>

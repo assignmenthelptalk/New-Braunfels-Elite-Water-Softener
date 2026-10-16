@@ -6,9 +6,8 @@ import Layout from "../components/Layout.astro";
 import PageHero from "../components/PageHero.astro";
 import QuoteForm from "../components/QuoteForm.astro";
 import { site } from "../lib/site";
-import { phoneVisible, telHref, primaryCta, phoneNumber } from "../lib/phone";
-import { addressLine } from "../lib/clientMode";
 
+const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
 ---
 
 <Layout
@@ -20,10 +19,10 @@ import { addressLine } from "../lib/clientMode";
     showForm={false}
     breadcrumbs={[{ label: "Contact" }]}
     heading={`Contact ${site.businessName} | Trusted Local Specialists`}
-    primaryCta={primaryCta}
+    primaryCta={{ href: telHref, text: `📞 ${site.phoneNumber}` }}
   >
     <p slot="opening">
-      {phoneVisible ? "Call or send a request" : "Send a request"} for a free water softener estimate in {site.city}. We reply within 24 hours.
+      Call or send a request for a free water softener estimate in {site.city}. We reply within 24 hours.
     </p>
   </PageHero>
 
@@ -31,10 +30,12 @@ import { addressLine } from "../lib/clientMode";
     <div class="container contact-grid">
       <div class="contact-details">
         <h2>Get in Touch</h2>
-        <p>{phoneVisible ? "Call for a free estimate, or send the form and we will contact you within 24 hours." : "Send the form and we will contact you within 24 hours."}</p>
-        {phoneVisible && <p class="contact-row"><strong>Phone:</strong> <a href={telHref}>{phoneNumber}</a></p>}
+        <p>Call for a free estimate, or send the form and we will contact you within 24 hours.</p>
+        <p class="contact-row"><strong>Phone:</strong> <a href={telHref}>{site.phoneNumber}</a></p>
         <p class="contact-row"><strong>Service area:</strong> {site.city}, {site.county} and nearby towns</p>
-        {addressLine && <p class="contact-row"><strong>Address:</strong> {addressLine}</p>}
+        {site.address
+          ? <p class="contact-row"><strong>Address:</strong> {site.address}</p>
+          : <p class="contact-row"><mark class="data-gap">[NEEDS DATA: business address or "service area only"]</mark></p>}
       </div>
       <div class="contact-form" id="estimate">
         <QuoteForm heading="Request Your Free Estimate" />

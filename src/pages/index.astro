@@ -19,16 +19,14 @@ import ContentProse from "../components/ContentProse.astro";
 import PageSchema from "../components/PageSchema.astro";
 import NeighbourhoodMap from "../components/NeighbourhoodMap.astro";
 import { site } from "../lib/site";
-import { phoneVisible, telHref, phoneNumber } from "../lib/phone";
-import { trustBadge, sameDayLabel } from "../lib/clientMode";
-import ClientHighlights from "../components/ClientHighlights.astro";
 import { Content, frontmatter as fm } from "../data/pages/home.md";
 import { Content as ContentAfter, frontmatter as afterFm } from "../data/home-after.md";
 
+const telHref = `tel:${site.phoneNumber.replace(/[^\d+]/g, "")}`;
 const heroFiles = import.meta.glob<{ default: ImageMetadata }>("../assets/images/hero-*.webp", { eager: true });
 const heroImage = Object.values(heroFiles)[0]?.default;
 const HERO_PLACEHOLDER = "/placeholders/hero.svg"; // local file in public/placeholders (no network at build)
-const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.city}, ${site.stateAbbr}`, `✓ ${trustBadge}`, ...(sameDayLabel ? [`✓ ${sameDayLabel}`] : [])];
+const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.city}, ${site.stateAbbr}`];
 ---
 
 <Layout title={fm.title} fullTitle={fm.seoTitle} description={fm.description}>
@@ -57,14 +55,12 @@ const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.ci
 
         <p class="hero-p" set:html={fm.openingHtml} />
 
-        {phoneVisible && (
-          <a href={telHref} class="hero-phone-btn">
+        <a href={telHref} class="hero-phone-btn">
           <svg width="18" height="18" viewBox="0 0 16 16" fill="none" aria-hidden="true">
             <path d="M3.5 1.5h2.2l1 3-1.6 1.2a9 9 0 0 0 4.2 4.2l1.2-1.6 3 1v2.2c0 .8-.7 1.4-1.4 1.3C7 12.4 3.6 9 3.2 3.9c-.1-.7.5-1.4 1.3-1.4Z" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round" />
           </svg>
-          {phoneNumber}
+          {site.phoneNumber}
         </a>
-        )}
       </div>
 
       <div class="hero-form-card" id="estimate">
@@ -72,9 +68,6 @@ const badges = ["✓ Free Estimate", "✓ No Obligation", `✓ Serving ${site.ci
       </div>
     </div>
   </section>
-
-  <!-- Credentials strip, guarantee and reviews: rendered only from client data (src/client.config.ts) -->
-  <ClientHighlights />
 
   <!-- 2 to 9. Page copy: why choose us, services, hard water, process, FAQ, areas -->
   <section class="section">
