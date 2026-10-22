@@ -44,7 +44,7 @@ We serve New Braunfels, Canyon Lake, [San Marcos](/water-softener-san-marcos-tx/
 
 
 
-Nearby homeowners also use our [water softener repair](/water-softener-repair/), [water softener service in River Chase](/water-softener-river-chase-new-braunfels/), [the hard water guide](/water-softener-guides/hard-water-new-braunfels-tx/) and [water softener maintenance](/water-softener-maintenance/).
+Nearby homeowners also use our [water softener repair](/water-softener-repair/), water softener service in River Chase, [the hard water guide](/water-softener-guides/hard-water-new-braunfels-tx/) and [water softener maintenance](/water-softener-maintenance/).
 
 
 ## Frequently Asked Questions About Water Softeners in Seguin, TX

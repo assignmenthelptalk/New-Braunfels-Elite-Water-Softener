@@ -13,19 +13,18 @@ formIntro: ""
 leadImage: null
 images: [{"file":"water-softener-service-areas-new-braunfels-tx.webp","alt":"Water softener service areas New Braunfels TX map of the Texas Hill Country","exists":false}]
 faq: []
-markerCount: 0
+markerCount: 1
 ---
 
 ## New Braunfels Neighborhoods
 
-We serve Gruene, Vintage Oaks, Veramendi, Creekside and River Chase, along with every other New Braunfels neighborhood. Each neighborhood page is published once its water provider is confirmed.
+We serve Gruene, Vintage Oaks, Veramendi, Creekside and River Chase, along with every other New Braunfels neighborhood. These neighborhoods share the city's water system, so they are covered on this page instead of on separate pages.
 
 - Gruene
 - Vintage Oaks
 - Veramendi
 - Creekside
-- [River Chase](/water-softener-river-chase-new-braunfels/)
-
+- **River Chase:** Its water comes through NBU's Riverchase Pressure Zone, named in a February 2023 boil-water notice, which ties the neighborhood to NBU's system. NBU's 2018 report put average hardness at 15.1 gpg. <mark class="data-gap">[VERIFY: that your address is inside NBU's service area, and NBU's current average hardness]</mark>
 ## Nearby Towns
 
 - [San Marcos](/water-softener-san-marcos-tx/): a city serving about 72,970 people, with a 2024 average hardness of 16 gpg.
@@ -33,6 +32,7 @@ We serve Gruene, Vintage Oaks, Veramendi, Creekside and River Chase, along with 
 - [Canyon Lake](/water-softener-canyon-lake-tx/): Canyon Lake Reservoir water blended with Trinity Aquifer groundwater.
 - [Wimberley](/water-softener-wimberley-tx/): Trinity Aquifer groundwater in Hays County.
 - [Bulverde](/water-softener-bulverde-tx/) and [Spring Branch](/water-softener-spring-branch-tx/) in Comal County.
+
 
 Not sure whether your home is in our area? Call or request an estimate, and we will confirm.
 

@@ -44,7 +44,7 @@ We serve New Braunfels, Seguin, San Marcos, Wimberley, Bulverde and [Spring Bran
 
 
 
-Nearby homeowners also use our [water softener service in River Chase](/water-softener-river-chase-new-braunfels/), [the hard water guide](/water-softener-guides/hard-water-new-braunfels-tx/) and [water softener maintenance](/water-softener-maintenance/).
+Nearby homeowners also use our water softener service in River Chase, [the hard water guide](/water-softener-guides/hard-water-new-braunfels-tx/) and [water softener maintenance](/water-softener-maintenance/).
 
 
 ## Frequently Asked Questions About Water Softeners in Canyon Lake, TX
